@@ -1,0 +1,10589 @@
+Licencia: 15029228
+Nombre:   VALVERDE MAEIREIZO MELVIN JAIR
+Placa:    C0P-895
+Fecha:    20191210
+Codigo:   201
+Gravedad: LEVE
+Monto:    158
+Descuento:0.5
+
+
+Licencia: 48450395
+Nombre:   RAMIREZ ASTETE KARINA ESTEFANIA
+Placa:    Q5S-871
+Fecha:    20201016
+Codigo:   151
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 73357516
+Nombre:   TRIGUEROS JUGO LUZ
+Placa:    E6R-293
+Fecha:    20190527
+Codigo:   151
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 50200823
+Nombre:   LEYVA SAM DIANA DELIA
+Placa:    Q6C-943
+Fecha:    20200723
+Codigo:   115
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   200
+
+
+Licencia: 88167677
+Nombre:   PRADO VERA JUAN
+Placa:    V7U-622
+Fecha:    20190906
+Codigo:   127
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 16925690
+Nombre:   CABRERA TORO FANNY
+Placa:    F3F-478
+Fecha:    20190514
+Codigo:   321
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 87282766
+Nombre:   SUAREZ CHANG GLORIA
+Placa:    S1D-093
+Fecha:    20190225
+Codigo:   135
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 73357516
+Nombre:   TRIGUEROS JUGO LUZ
+Placa:    G0B-604
+Fecha:    20190902
+Codigo:   339
+Gravedad: GRAVE
+Monto:    0
+Puntos:   2000
+Meses:    12
+
+
+Licencia: 38862473
+Nombre:   WONG MAEIREIZO BEATRIZ
+Placa:    S6Y-726
+Fecha:    20190514
+Codigo:   306
+Gravedad: GRAVE
+Monto:    948
+Puntos:   600
+Meses:    1
+
+
+Licencia: 82031355
+Nombre:   EGUSQUIZA BERROCAL DORIS NANCY
+Placa:    J0J-790
+Fecha:    20201125
+Codigo:   102
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 54141214
+Nombre:   DURAND MIRANDA MIGUEL JUAN
+Placa:    J7Y-327
+Fecha:    20190420
+Codigo:   140
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 15115705
+Nombre:   HERNANDEZ CORRALES GUILLERMO
+Placa:    N9Q-814
+Fecha:    20190103
+Codigo:   170
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 39544560
+Nombre:   LUNA VARGAS WALDEMAR
+Placa:    Y0K-784
+Fecha:    20190606
+Codigo:   126
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 32244565
+Nombre:   HENRIQUEZ PAREDES PAUL RAFAEL
+Placa:    W9L-468
+Fecha:    20200920
+Codigo:   339
+Gravedad: GRAVE
+Monto:    0
+Puntos:   2000
+Meses:    12
+
+
+Licencia: 60784914
+Nombre:   RUIZ ZEVALLOS WALTER RONY
+Placa:    C6Q-548
+Fecha:    20200520
+Codigo:   128
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 73567806
+Nombre:   ARCA SANCHEZ MAGALI BEATRIZ
+Placa:    E2D-493
+Fecha:    20190726
+Codigo:   320
+Gravedad: GRAVE
+Monto:    711
+Puntos:   600
+Meses:    1
+
+
+Licencia: 47844324
+Nombre:   VILCA LEE NESTOR HUGO
+Placa:    X7J-719
+Fecha:    20190102
+Codigo:   329
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 15559308
+Nombre:   BRAVO CORTES JANET FLOR
+Placa:    X6O-905
+Fecha:    20201103
+Codigo:   330
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 16925690
+Nombre:   CABRERA TORO FANNY
+Placa:    F3F-478
+Fecha:    20200221
+Codigo:   323
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 27864822
+Nombre:   FIGUEROA MEDINA MADELEINE
+Placa:    T9U-338
+Fecha:    20190116
+Codigo:   318
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 42956681
+Nombre:   POMAJAMBO EGUSQUIZA PAUL
+Placa:    A6D-661
+Fecha:    20200729
+Codigo:   134
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 53853385
+Nombre:   SOLIS NARVAEZ MARIA MADELEINE
+Placa:    R6P-267
+Fecha:    20201127
+Codigo:   153
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 54447051
+Nombre:   AVILA DEL CASTILLO ANNIE
+Placa:    D5W-773
+Fecha:    20191218
+Codigo:   132
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 60784914
+Nombre:   RUIZ ZEVALLOS WALTER RONY
+Placa:    A8J-929
+Fecha:    20191019
+Codigo:   319
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 89941095
+Nombre:   ARCA LARRIEGA LUCERO YLIANA
+Placa:    P6T-244
+Fecha:    20190924
+Codigo:   131
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   200
+
+
+Licencia: 71578206
+Nombre:   ARROYO TOMASICHE NATALIA
+Placa:    L4H-670
+Fecha:    20201116
+Codigo:   162
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 32090869
+Nombre:   SUELDO ANTEZANO LUIS JESUS
+Placa:    L4B-291
+Fecha:    20200416
+Codigo:   331
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 79766395
+Nombre:   FUENTES ESCALANTE PATRICIA ELIZABETH
+Placa:    T3R-184
+Fecha:    20190107
+Codigo:   305
+Gravedad: GRAVE
+Monto:    1975
+Puntos:   800
+Meses:    3
+
+
+Licencia: 88167677
+Nombre:   PRADO VERA JUAN
+Placa:    O0C-616
+Fecha:    20190505
+Codigo:   335
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 73567806
+Nombre:   ARCA SANCHEZ MAGALI BEATRIZ
+Placa:    A7Y-833
+Fecha:    20191231
+Codigo:   124
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 73357516
+Nombre:   TRIGUEROS JUGO LUZ
+Placa:    J2K-636
+Fecha:    20200201
+Codigo:   158
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 86718074
+Nombre:   ESCALANTE ROJAS INES ADRIA
+Placa:    L4O-783
+Fecha:    20191206
+Codigo:   104
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 71578206
+Nombre:   ARROYO TOMASICHE NATALIA
+Placa:    G7Z-721
+Fecha:    20200805
+Codigo:   341
+Gravedad: GRAVE
+Monto:    5925
+Puntos:   2000
+Meses:    6
+
+
+Licencia: 32244565
+Nombre:   HENRIQUEZ PAREDES PAUL RAFAEL
+Placa:    J1E-736
+Fecha:    20191107
+Codigo:   316
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 79766395
+Nombre:   FUENTES ESCALANTE PATRICIA ELIZABETH
+Placa:    H7P-047
+Fecha:    20200823
+Codigo:   204
+Gravedad: LEVE
+Monto:    158
+Descuento:0.5
+
+
+Licencia: 49428502
+Nombre:   RIVERO CORTEZ WILVER ALFONSO
+Placa:    T0V-569
+Fecha:    20191007
+Codigo:   306
+Gravedad: GRAVE
+Monto:    948
+Puntos:   600
+Meses:    1
+
+
+Licencia: 63736112
+Nombre:   ZAMORA ZAVALETA RONAL MANUEL
+Placa:    T9A-930
+Fecha:    20200730
+Codigo:   137
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   200
+
+
+Licencia: 53853385
+Nombre:   SOLIS NARVAEZ MARIA MADELEINE
+Placa:    O5L-856
+Fecha:    20201004
+Codigo:   156
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   200
+
+
+Licencia: 73357516
+Nombre:   TRIGUEROS JUGO LUZ
+Placa:    J2K-636
+Fecha:    20200906
+Codigo:   126
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 73357516
+Nombre:   TRIGUEROS JUGO LUZ
+Placa:    G0B-604
+Fecha:    20190625
+Codigo:   311
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 30046639
+Nombre:   SALAMANCA VEGA VIRGINIA MARTHA
+Placa:    L8F-459
+Fecha:    20200808
+Codigo:   305
+Gravedad: GRAVE
+Monto:    1975
+Puntos:   800
+Meses:    3
+
+
+Licencia: 73972114
+Nombre:   AVILA MARTEL JAIME MANUEL
+Placa:    J2M-606
+Fecha:    20200831
+Codigo:   316
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 77367073
+Nombre:   JAUREGUI DEL CASTILLO VICTOR RICARDO
+Placa:    H9A-097
+Fecha:    20200508
+Codigo:   313
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 77367073
+Nombre:   JAUREGUI DEL CASTILLO VICTOR RICARDO
+Placa:    W4W-684
+Fecha:    20200320
+Codigo:   101
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   200
+
+
+Licencia: 82870470
+Nombre:   SEDANO RETAMOSO ELIA YOLANDA
+Placa:    C4O-436
+Fecha:    20190610
+Codigo:   108
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 77763722
+Nombre:   FARFAN SALAZAR MARGOT
+Placa:    Q4P-612
+Fecha:    20201023
+Codigo:   112
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 32244565
+Nombre:   HENRIQUEZ PAREDES PAUL RAFAEL
+Placa:    J1E-736
+Fecha:    20190408
+Codigo:   134
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 27268323
+Nombre:   LOZADA IBEROS HELI BLANCA
+Placa:    L6Z-161
+Fecha:    20200128
+Codigo:   138
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 34248357
+Nombre:   LEYVA LANDEO NANCY SONIA
+Placa:    U0T-459
+Fecha:    20190211
+Codigo:   103
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   200
+
+
+Licencia: 24859596
+Nombre:   FLORIAN CUBA CHRISTIAN
+Placa:    A8P-118
+Fecha:    20191005
+Codigo:   310
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 80457845
+Nombre:   NORABUENA MOYA HECTOR
+Placa:    M7F-612
+Fecha:    20191210
+Codigo:   133
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 88854166
+Nombre:   PINTO ROJAS JUVENAL FRANCISCO
+Placa:    L3N-150
+Fecha:    20201111
+Codigo:   127
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 34248357
+Nombre:   LEYVA LANDEO NANCY SONIA
+Placa:    H4R-733
+Fecha:    20200923
+Codigo:   138
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 87495937
+Nombre:   MORALES PASQUEL KARIN MARIBEL
+Placa:    L2H-207
+Fecha:    20190818
+Codigo:   115
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   200
+
+
+Licencia: 39544560
+Nombre:   LUNA VARGAS WALDEMAR
+Placa:    Y0K-784
+Fecha:    20200425
+Codigo:   306
+Gravedad: GRAVE
+Monto:    948
+Puntos:   600
+Meses:    1
+
+
+Licencia: 47528229
+Nombre:   SAAVEDRA GONZALES WILMER
+Placa:    T8Y-354
+Fecha:    20190116
+Codigo:   149
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 50200823
+Nombre:   LEYVA SAM DIANA DELIA
+Placa:    R0P-255
+Fecha:    20190905
+Codigo:   336
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 82031355
+Nombre:   EGUSQUIZA BERROCAL DORIS NANCY
+Placa:    Z5D-724
+Fecha:    20190302
+Codigo:   113
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 54141214
+Nombre:   DURAND MIRANDA MIGUEL JUAN
+Placa:    J7Y-327
+Fecha:    20190926
+Codigo:   333
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 64532449
+Nombre:   INFANTES MERCADO LUIS WALDEMAR
+Placa:    X3Z-285
+Fecha:    20200331
+Codigo:   126
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 15559308
+Nombre:   BRAVO CORTES JANET FLOR
+Placa:    S3L-803
+Fecha:    20190902
+Codigo:   130
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 48878256
+Nombre:   RAFFO CORONADO ROLANDO
+Placa:    G2R-979
+Fecha:    20190503
+Codigo:   335
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 27185429
+Nombre:   SOLIS CHUNG ROLANDO
+Placa:    U3F-754
+Fecha:    20201022
+Codigo:   111
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 54447051
+Nombre:   AVILA DEL CASTILLO ANNIE
+Placa:    G3Y-654
+Fecha:    20190224
+Codigo:   331
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 16477908
+Nombre:   BACA CAMACHO MILAGROS NATALIA
+Placa:    X9D-758
+Fecha:    20201029
+Codigo:   110
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 64532449
+Nombre:   INFANTES MERCADO LUIS WALDEMAR
+Placa:    J0V-437
+Fecha:    20190908
+Codigo:   161
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 45043076
+Nombre:   VEGA VILCARA CARMELA TERESA
+Placa:    R1T-735
+Fecha:    20200806
+Codigo:   316
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 16477908
+Nombre:   BACA CAMACHO MILAGROS NATALIA
+Placa:    I0E-459
+Fecha:    20200921
+Codigo:   320
+Gravedad: GRAVE
+Monto:    711
+Puntos:   600
+Meses:    1
+
+
+Licencia: 60784914
+Nombre:   RUIZ ZEVALLOS WALTER RONY
+Placa:    A8J-929
+Fecha:    20190501
+Codigo:   170
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 19963454
+Nombre:   SALAMANCA CABRERA NESTOR EVERT
+Placa:    X9O-440
+Fecha:    20200903
+Codigo:   165
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 79641328
+Nombre:   TOKESHI GUEVARA JAIME
+Placa:    X8Q-687
+Fecha:    20190717
+Codigo:   324
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 19963454
+Nombre:   SALAMANCA CABRERA NESTOR EVERT
+Placa:    T9D-604
+Fecha:    20201108
+Codigo:   202
+Gravedad: LEVE
+Monto:    158
+Descuento:0.5
+
+
+Licencia: 48878256
+Nombre:   RAFFO CORONADO ROLANDO
+Placa:    G2R-979
+Fecha:    20190820
+Codigo:   322
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 86718074
+Nombre:   ESCALANTE ROJAS INES ADRIA
+Placa:    L4O-783
+Fecha:    20200922
+Codigo:   302
+Gravedad: GRAVE
+Monto:    1975
+Puntos:   800
+Meses:    3
+
+
+Licencia: 36079131
+Nombre:   ZAVALETA VILCA ERICKA ELEONOR
+Placa:    I0W-872
+Fecha:    20200410
+Codigo:   141
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 12270502
+Nombre:   CUEVA FUENTES CINTHIA DELIA
+Placa:    Y5F-449
+Fecha:    20191217
+Codigo:   330
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 75348522
+Nombre:   LOZADA FORZANI DELIA
+Placa:    X0D-655
+Fecha:    20200411
+Codigo:   107
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 42956681
+Nombre:   POMAJAMBO EGUSQUIZA PAUL
+Placa:    L8Z-555
+Fecha:    20190314
+Codigo:   127
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 66849703
+Nombre:   MERCADO CORONEL ELIA
+Placa:    J2F-853
+Fecha:    20190220
+Codigo:   307
+Gravedad: GRAVE
+Monto:    948
+Puntos:   600
+Meses:    1
+
+
+Licencia: 73567806
+Nombre:   ARCA SANCHEZ MAGALI BEATRIZ
+Placa:    A7Y-833
+Fecha:    20190415
+Codigo:   341
+Gravedad: GRAVE
+Monto:    5925
+Puntos:   2000
+Meses:    6
+
+
+Licencia: 80457845
+Nombre:   NORABUENA MOYA HECTOR
+Placa:    M7F-612
+Fecha:    20190526
+Codigo:   122
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 47528229
+Nombre:   SAAVEDRA GONZALES WILMER
+Placa:    I4H-529
+Fecha:    20200411
+Codigo:   322
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 90467829
+Nombre:   IPARRAGUIRRE PEREZ NICOLAS
+Placa:    K4H-445
+Fecha:    20200731
+Codigo:   112
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 26522329
+Nombre:   SANCHEZ DEL CASTILLO FIORELLA ROSARIO
+Placa:    W7R-114
+Fecha:    20190306
+Codigo:   207
+Gravedad: LEVE
+Monto:    158
+Descuento:0.5
+
+
+Licencia: 82870470
+Nombre:   SEDANO RETAMOSO ELIA YOLANDA
+Placa:    C4O-436
+Fecha:    20200709
+Codigo:   159
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 77763722
+Nombre:   FARFAN SALAZAR MARGOT
+Placa:    Q4P-612
+Fecha:    20190901
+Codigo:   329
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 32244565
+Nombre:   HENRIQUEZ PAREDES PAUL RAFAEL
+Placa:    M8W-853
+Fecha:    20190429
+Codigo:   325
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 19963454
+Nombre:   SALAMANCA CABRERA NESTOR EVERT
+Placa:    T9D-604
+Fecha:    20200115
+Codigo:   332
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 71578206
+Nombre:   ARROYO TOMASICHE NATALIA
+Placa:    Y9F-491
+Fecha:    20190913
+Codigo:   320
+Gravedad: GRAVE
+Monto:    711
+Puntos:   600
+Meses:    1
+
+
+Licencia: 53374153
+Nombre:   SERRANO IBEROS FRANCISCO
+Placa:    V7L-069
+Fecha:    20190620
+Codigo:   159
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 48878256
+Nombre:   RAFFO CORONADO ROLANDO
+Placa:    Z4L-514
+Fecha:    20190831
+Codigo:   329
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 35912665
+Nombre:   MARTINEZ CRUZ EVERT RONY
+Placa:    O4X-500
+Fecha:    20191219
+Codigo:   136
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 45043076
+Nombre:   VEGA VILCARA CARMELA TERESA
+Placa:    I1D-713
+Fecha:    20190112
+Codigo:   334
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 96693273
+Nombre:   VALDERRAMA BERROCAL EVERT
+Placa:    A6K-820
+Fecha:    20190510
+Codigo:   306
+Gravedad: GRAVE
+Monto:    948
+Puntos:   600
+Meses:    1
+
+
+Licencia: 48450395
+Nombre:   RAMIREZ ASTETE KARINA ESTEFANIA
+Placa:    Q5S-871
+Fecha:    20201014
+Codigo:   133
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 35683701
+Nombre:   DIAZ MOYA ELIA ANNIE
+Placa:    D5W-953
+Fecha:    20190116
+Codigo:   314
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 50201756
+Nombre:   ZEGARRA PENA CARMELA
+Placa:    X8O-807
+Fecha:    20190928
+Codigo:   106
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 77763722
+Nombre:   FARFAN SALAZAR MARGOT
+Placa:    W2L-827
+Fecha:    20201209
+Codigo:   159
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 69494747
+Nombre:   MENDOZA ROMERO VIRGINIA YDALI
+Placa:    J8D-125
+Fecha:    20190208
+Codigo:   117
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 64532449
+Nombre:   INFANTES MERCADO LUIS WALDEMAR
+Placa:    X3Z-285
+Fecha:    20190125
+Codigo:   108
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 42956681
+Nombre:   POMAJAMBO EGUSQUIZA PAUL
+Placa:    E0L-862
+Fecha:    20200702
+Codigo:   110
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 60784914
+Nombre:   RUIZ ZEVALLOS WALTER RONY
+Placa:    A8J-929
+Fecha:    20200426
+Codigo:   124
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 66849703
+Nombre:   MERCADO CORONEL ELIA
+Placa:    B4N-777
+Fecha:    20190518
+Codigo:   201
+Gravedad: LEVE
+Monto:    158
+Descuento:0.5
+
+
+Licencia: 77763722
+Nombre:   FARFAN SALAZAR MARGOT
+Placa:    W2L-827
+Fecha:    20191008
+Codigo:   129
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 49927087
+Nombre:   INGA PALOMARES ERIKA
+Placa:    X3E-271
+Fecha:    20201006
+Codigo:   334
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 15559308
+Nombre:   BRAVO CORTES JANET FLOR
+Placa:    X6O-905
+Fecha:    20190102
+Codigo:   335
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 73818744
+Nombre:   FUENTES GAMARRA HUGO
+Placa:    U5N-536
+Fecha:    20201112
+Codigo:   122
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 35671623
+Nombre:   EPIQUEN YEP GUIDA VICTORIA
+Placa:    V4E-749
+Fecha:    20200620
+Codigo:   127
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 19568447
+Nombre:   VEGA SORIA HENRRY
+Placa:    D8R-235
+Fecha:    20201118
+Codigo:   161
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 70414420
+Nombre:   AVILA REYES TATIANA
+Placa:    A7Y-514
+Fecha:    20191018
+Codigo:   112
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 51929951
+Nombre:   CHAVEZ BERROCAL JOHAN
+Placa:    O8J-848
+Fecha:    20191116
+Codigo:   149
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 48878256
+Nombre:   RAFFO CORONADO ROLANDO
+Placa:    Z4L-514
+Fecha:    20200604
+Codigo:   163
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 71832810
+Nombre:   SUELDO SEDANO ADRIA
+Placa:    W1C-444
+Fecha:    20190902
+Codigo:   166
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 21621497
+Nombre:   AYALA CASTILLO ERICKA OFELIA
+Placa:    W5W-525
+Fecha:    20200823
+Codigo:   136
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 42956681
+Nombre:   POMAJAMBO EGUSQUIZA PAUL
+Placa:    L8Z-555
+Fecha:    20200811
+Codigo:   144
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 34248357
+Nombre:   LEYVA LANDEO NANCY SONIA
+Placa:    U0T-459
+Fecha:    20191007
+Codigo:   305
+Gravedad: GRAVE
+Monto:    1975
+Puntos:   800
+Meses:    3
+
+
+Licencia: 71578206
+Nombre:   ARROYO TOMASICHE NATALIA
+Placa:    Y9F-491
+Fecha:    20201223
+Codigo:   333
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 87282766
+Nombre:   SUAREZ CHANG GLORIA
+Placa:    S1D-093
+Fecha:    20200618
+Codigo:   111
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 29833157
+Nombre:   HIJAR LAM MARTIN
+Placa:    I9F-484
+Fecha:    20190522
+Codigo:   114
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 54447051
+Nombre:   AVILA DEL CASTILLO ANNIE
+Placa:    D5W-773
+Fecha:    20200707
+Codigo:   126
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 96693273
+Nombre:   VALDERRAMA BERROCAL EVERT
+Placa:    C0G-556
+Fecha:    20200908
+Codigo:   142
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 96693273
+Nombre:   VALDERRAMA BERROCAL EVERT
+Placa:    C0G-556
+Fecha:    20190426
+Codigo:   148
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 39544560
+Nombre:   LUNA VARGAS WALDEMAR
+Placa:    N4J-043
+Fecha:    20200309
+Codigo:   328
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 48878256
+Nombre:   RAFFO CORONADO ROLANDO
+Placa:    F2F-895
+Fecha:    20200110
+Codigo:   134
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 24859596
+Nombre:   FLORIAN CUBA CHRISTIAN
+Placa:    A8P-118
+Fecha:    20200317
+Codigo:   329
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 30441350
+Nombre:   RETAMOSO SALAMANCA DELIA MARITZA
+Placa:    T7F-869
+Fecha:    20200512
+Codigo:   152
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 82031355
+Nombre:   EGUSQUIZA BERROCAL DORIS NANCY
+Placa:    H6X-124
+Fecha:    20190405
+Codigo:   122
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 90467829
+Nombre:   IPARRAGUIRRE PEREZ NICOLAS
+Placa:    H1R-953
+Fecha:    20200103
+Codigo:   148
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 53374153
+Nombre:   SERRANO IBEROS FRANCISCO
+Placa:    V7L-069
+Fecha:    20201203
+Codigo:   123
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 21621497
+Nombre:   AYALA CASTILLO ERICKA OFELIA
+Placa:    D6W-048
+Fecha:    20200923
+Codigo:   101
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   200
+
+
+Licencia: 32244565
+Nombre:   HENRIQUEZ PAREDES PAUL RAFAEL
+Placa:    J1E-736
+Fecha:    20200507
+Codigo:   315
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 84186239
+Nombre:   RIVERO CORONADO HECTOR ALONSO
+Placa:    W9Y-717
+Fecha:    20190118
+Codigo:   330
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 80457845
+Nombre:   NORABUENA MOYA HECTOR
+Placa:    Z5G-762
+Fecha:    20190505
+Codigo:   108
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 88854166
+Nombre:   PINTO ROJAS JUVENAL FRANCISCO
+Placa:    O0K-148
+Fecha:    20200517
+Codigo:   125
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 26522329
+Nombre:   SANCHEZ DEL CASTILLO FIORELLA ROSARIO
+Placa:    U5W-825
+Fecha:    20191122
+Codigo:   101
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   200
+
+
+Licencia: 45043076
+Nombre:   VEGA VILCARA CARMELA TERESA
+Placa:    I1D-713
+Fecha:    20200611
+Codigo:   325
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 37080813
+Nombre:   FLORIAN VALDERRAMA JOSE
+Placa:    O9W-355
+Fecha:    20200506
+Codigo:   315
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 53853385
+Nombre:   SOLIS NARVAEZ MARIA MADELEINE
+Placa:    O5L-856
+Fecha:    20190901
+Codigo:   170
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 73972114
+Nombre:   AVILA MARTEL JAIME MANUEL
+Placa:    J2M-606
+Fecha:    20200201
+Codigo:   319
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 75348522
+Nombre:   LOZADA FORZANI DELIA
+Placa:    X0D-655
+Fecha:    20200821
+Codigo:   336
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 99950484
+Nombre:   CORTES CORTEZ RAUL ALEX
+Placa:    Y9W-731
+Fecha:    20200604
+Codigo:   144
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 99950484
+Nombre:   CORTES CORTEZ RAUL ALEX
+Placa:    L8A-167
+Fecha:    20191126
+Codigo:   333
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 34248357
+Nombre:   LEYVA LANDEO NANCY SONIA
+Placa:    U0T-459
+Fecha:    20190226
+Codigo:   104
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 71832810
+Nombre:   SUELDO SEDANO ADRIA
+Placa:    Q3M-512
+Fecha:    20190913
+Codigo:   124
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 35683701
+Nombre:   DIAZ MOYA ELIA ANNIE
+Placa:    D5W-953
+Fecha:    20190520
+Codigo:   137
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   200
+
+
+Licencia: 90467829
+Nombre:   IPARRAGUIRRE PEREZ NICOLAS
+Placa:    K4H-445
+Fecha:    20200807
+Codigo:   146
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 86429854
+Nombre:   MOSCOSO LAURA JANET VALENTINA
+Placa:    M5U-987
+Fecha:    20200222
+Codigo:   151
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 63291514
+Nombre:   LAU ZAVALETA YDALI ELIA
+Placa:    Z1A-459
+Fecha:    20200418
+Codigo:   142
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 48878256
+Nombre:   RAFFO CORONADO ROLANDO
+Placa:    Z4L-514
+Fecha:    20191018
+Codigo:   145
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 47528229
+Nombre:   SAAVEDRA GONZALES WILMER
+Placa:    G8O-154
+Fecha:    20190629
+Codigo:   207
+Gravedad: LEVE
+Monto:    158
+Descuento:0.5
+
+
+Licencia: 88167677
+Nombre:   PRADO VERA JUAN
+Placa:    O0C-616
+Fecha:    20201101
+Codigo:   134
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 79641328
+Nombre:   TOKESHI GUEVARA JAIME
+Placa:    L0L-653
+Fecha:    20190629
+Codigo:   156
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   200
+
+
+Licencia: 12270502
+Nombre:   CUEVA FUENTES CINTHIA DELIA
+Placa:    Y5F-449
+Fecha:    20190310
+Codigo:   135
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 52002275
+Nombre:   CASANOVA ZEGARRA MARITZA
+Placa:    C0S-417
+Fecha:    20190916
+Codigo:   118
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 29989682
+Nombre:   CAMACHO PAIRAZAMAN YDALI LUCERO
+Placa:    B1J-773
+Fecha:    20200902
+Codigo:   153
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 35912665
+Nombre:   MARTINEZ CRUZ EVERT RONY
+Placa:    D7L-648
+Fecha:    20190216
+Codigo:   124
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 42956681
+Nombre:   POMAJAMBO EGUSQUIZA PAUL
+Placa:    L8Z-555
+Fecha:    20200808
+Codigo:   122
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 77763722
+Nombre:   FARFAN SALAZAR MARGOT
+Placa:    D1M-667
+Fecha:    20190108
+Codigo:   115
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   200
+
+
+Licencia: 63736112
+Nombre:   ZAMORA ZAVALETA RONAL MANUEL
+Placa:    T9A-930
+Fecha:    20191017
+Codigo:   325
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 16925690
+Nombre:   CABRERA TORO FANNY
+Placa:    F3F-478
+Fecha:    20190711
+Codigo:   330
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 15559308
+Nombre:   BRAVO CORTES JANET FLOR
+Placa:    T8F-368
+Fecha:    20200219
+Codigo:   304
+Gravedad: GRAVE
+Monto:    3950
+Puntos:   100
+Meses:    6
+
+
+Licencia: 54141214
+Nombre:   DURAND MIRANDA MIGUEL JUAN
+Placa:    Y9G-536
+Fecha:    20200718
+Codigo:   139
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 87282766
+Nombre:   SUAREZ CHANG GLORIA
+Placa:    S1D-093
+Fecha:    20200827
+Codigo:   114
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 29989682
+Nombre:   CAMACHO PAIRAZAMAN YDALI LUCERO
+Placa:    W3T-571
+Fecha:    20190129
+Codigo:   311
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 64532449
+Nombre:   INFANTES MERCADO LUIS WALDEMAR
+Placa:    X3Z-285
+Fecha:    20190313
+Codigo:   130
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 85501710
+Nombre:   VIZCARDO SINCHE MARIBEL
+Placa:    N2C-590
+Fecha:    20191027
+Codigo:   112
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 99950484
+Nombre:   CORTES CORTEZ RAUL ALEX
+Placa:    Y9W-731
+Fecha:    20200908
+Codigo:   119
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 15559308
+Nombre:   BRAVO CORTES JANET FLOR
+Placa:    W1S-239
+Fecha:    20200206
+Codigo:   334
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 30046639
+Nombre:   SALAMANCA VEGA VIRGINIA MARTHA
+Placa:    S3F-021
+Fecha:    20190608
+Codigo:   116
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 50200823
+Nombre:   LEYVA SAM DIANA DELIA
+Placa:    H1E-399
+Fecha:    20191013
+Codigo:   138
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 89314225
+Nombre:   RIOS DURAND CARLOS EDILBERTO
+Placa:    C3A-423
+Fecha:    20190619
+Codigo:   318
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 68310808
+Nombre:   CANO POLO MILAGROS ISABEL
+Placa:    K2N-341
+Fecha:    20201211
+Codigo:   206
+Gravedad: LEVE
+Monto:    158
+Descuento:0.5
+
+
+Licencia: 12270502
+Nombre:   CUEVA FUENTES CINTHIA DELIA
+Placa:    P7T-999
+Fecha:    20200417
+Codigo:   130
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 38862473
+Nombre:   WONG MAEIREIZO BEATRIZ
+Placa:    I4B-541
+Fecha:    20190926
+Codigo:   321
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 86429854
+Nombre:   MOSCOSO LAURA JANET VALENTINA
+Placa:    M5U-987
+Fecha:    20200823
+Codigo:   147
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 30441350
+Nombre:   RETAMOSO SALAMANCA DELIA MARITZA
+Placa:    T7F-869
+Fecha:    20200826
+Codigo:   332
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 16925690
+Nombre:   CABRERA TORO FANNY
+Placa:    R7N-113
+Fecha:    20200214
+Codigo:   143
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 60784914
+Nombre:   RUIZ ZEVALLOS WALTER RONY
+Placa:    C6G-842
+Fecha:    20200203
+Codigo:   315
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 80310768
+Nombre:   MINAYA BERROCAL HELI
+Placa:    N5J-515
+Fecha:    20190413
+Codigo:   323
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 50201756
+Nombre:   ZEGARRA PENA CARMELA
+Placa:    X8O-807
+Fecha:    20200108
+Codigo:   207
+Gravedad: LEVE
+Monto:    158
+Descuento:0.5
+
+
+Licencia: 27268323
+Nombre:   LOZADA IBEROS HELI BLANCA
+Placa:    L6Z-161
+Fecha:    20200122
+Codigo:   205
+Gravedad: LEVE
+Monto:    158
+Descuento:0.5
+
+
+Licencia: 29989682
+Nombre:   CAMACHO PAIRAZAMAN YDALI LUCERO
+Placa:    W3T-571
+Fecha:    20201214
+Codigo:   121
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   200
+
+
+Licencia: 74325123
+Nombre:   TANG MOSCOSO JOHANA
+Placa:    B3H-006
+Fecha:    20200213
+Codigo:   123
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 35671623
+Nombre:   EPIQUEN YEP GUIDA VICTORIA
+Placa:    V4E-749
+Fecha:    20200125
+Codigo:   338
+Gravedad: GRAVE
+Monto:    0
+Puntos:   2000
+Meses:    12
+
+
+Licencia: 87282766
+Nombre:   SUAREZ CHANG GLORIA
+Placa:    S1D-093
+Fecha:    20190628
+Codigo:   133
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 49927087
+Nombre:   INGA PALOMARES ERIKA
+Placa:    X3E-271
+Fecha:    20200919
+Codigo:   205
+Gravedad: LEVE
+Monto:    158
+Descuento:0.5
+
+
+Licencia: 35671623
+Nombre:   EPIQUEN YEP GUIDA VICTORIA
+Placa:    K0T-350
+Fecha:    20201206
+Codigo:   102
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 35683701
+Nombre:   DIAZ MOYA ELIA ANNIE
+Placa:    D5W-953
+Fecha:    20201124
+Codigo:   313
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 35671623
+Nombre:   EPIQUEN YEP GUIDA VICTORIA
+Placa:    V4E-749
+Fecha:    20190419
+Codigo:   151
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 81485316
+Nombre:   JUSTINO MARTINEZ ENRIQUE
+Placa:    E1N-544
+Fecha:    20190830
+Codigo:   147
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 47528229
+Nombre:   SAAVEDRA GONZALES WILMER
+Placa:    I4H-529
+Fecha:    20190327
+Codigo:   127
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 16925690
+Nombre:   CABRERA TORO FANNY
+Placa:    R7N-113
+Fecha:    20190603
+Codigo:   144
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 35671623
+Nombre:   EPIQUEN YEP GUIDA VICTORIA
+Placa:    V4E-749
+Fecha:    20200210
+Codigo:   206
+Gravedad: LEVE
+Monto:    158
+Descuento:0.5
+
+
+Licencia: 77367073
+Nombre:   JAUREGUI DEL CASTILLO VICTOR RICARDO
+Placa:    C2S-070
+Fecha:    20200609
+Codigo:   102
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 77763722
+Nombre:   FARFAN SALAZAR MARGOT
+Placa:    D1M-667
+Fecha:    20191122
+Codigo:   324
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 82031355
+Nombre:   EGUSQUIZA BERROCAL DORIS NANCY
+Placa:    H6X-124
+Fecha:    20190208
+Codigo:   133
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 88167677
+Nombre:   PRADO VERA JUAN
+Placa:    Y4Y-028
+Fecha:    20190307
+Codigo:   161
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 35912665
+Nombre:   MARTINEZ CRUZ EVERT RONY
+Placa:    O4X-500
+Fecha:    20191215
+Codigo:   155
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 13219606
+Nombre:   RODRIGUEZ MORENO BLANCA OFELIA
+Placa:    T3B-722
+Fecha:    20200930
+Codigo:   305
+Gravedad: GRAVE
+Monto:    1975
+Puntos:   800
+Meses:    3
+
+
+Licencia: 47528229
+Nombre:   SAAVEDRA GONZALES WILMER
+Placa:    G8O-154
+Fecha:    20191220
+Codigo:   302
+Gravedad: GRAVE
+Monto:    1975
+Puntos:   800
+Meses:    3
+
+
+Licencia: 53374153
+Nombre:   SERRANO IBEROS FRANCISCO
+Placa:    G6I-762
+Fecha:    20191001
+Codigo:   305
+Gravedad: GRAVE
+Monto:    1975
+Puntos:   800
+Meses:    3
+
+
+Licencia: 37080813
+Nombre:   FLORIAN VALDERRAMA JOSE
+Placa:    O9W-355
+Fecha:    20201111
+Codigo:   151
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 45043076
+Nombre:   VEGA VILCARA CARMELA TERESA
+Placa:    I1D-713
+Fecha:    20200613
+Codigo:   170
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 97849227
+Nombre:   PRADO ESPINOZA MILAGROS
+Placa:    I0K-077
+Fecha:    20190210
+Codigo:   101
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   200
+
+
+Licencia: 77367073
+Nombre:   JAUREGUI DEL CASTILLO VICTOR RICARDO
+Placa:    W4W-684
+Fecha:    20200604
+Codigo:   148
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 71578206
+Nombre:   ARROYO TOMASICHE NATALIA
+Placa:    L4H-670
+Fecha:    20200312
+Codigo:   317
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 31107104
+Nombre:   MOSCOSO ARIAS FIORELLA
+Placa:    E0I-722
+Fecha:    20190106
+Codigo:   154
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 73567806
+Nombre:   ARCA SANCHEZ MAGALI BEATRIZ
+Placa:    Q9D-870
+Fecha:    20190318
+Codigo:   327
+Gravedad: GRAVE
+Monto:    1975
+Puntos:   600
+Meses:    1
+
+
+Licencia: 60784914
+Nombre:   RUIZ ZEVALLOS WALTER RONY
+Placa:    P4Y-758
+Fecha:    20200507
+Codigo:   103
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   200
+
+
+Licencia: 35683701
+Nombre:   DIAZ MOYA ELIA ANNIE
+Placa:    D5W-953
+Fecha:    20200819
+Codigo:   130
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 34248357
+Nombre:   LEYVA LANDEO NANCY SONIA
+Placa:    U0T-459
+Fecha:    20190712
+Codigo:   311
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 50200823
+Nombre:   LEYVA SAM DIANA DELIA
+Placa:    Q6C-943
+Fecha:    20200804
+Codigo:   136
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 30441350
+Nombre:   RETAMOSO SALAMANCA DELIA MARITZA
+Placa:    M9Z-497
+Fecha:    20200126
+Codigo:   203
+Gravedad: LEVE
+Monto:    158
+Descuento:0.5
+
+
+Licencia: 82870470
+Nombre:   SEDANO RETAMOSO ELIA YOLANDA
+Placa:    K0H-387
+Fecha:    20200705
+Codigo:   138
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 88167677
+Nombre:   PRADO VERA JUAN
+Placa:    B4C-100
+Fecha:    20190905
+Codigo:   104
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 16925690
+Nombre:   CABRERA TORO FANNY
+Placa:    B4I-014
+Fecha:    20190809
+Codigo:   161
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 15029228
+Nombre:   VALVERDE MAEIREIZO MELVIN JAIR
+Placa:    J0Q-121
+Fecha:    20190109
+Codigo:   304
+Gravedad: GRAVE
+Monto:    3950
+Puntos:   100
+Meses:    6
+
+
+Licencia: 63736112
+Nombre:   ZAMORA ZAVALETA RONAL MANUEL
+Placa:    K0D-676
+Fecha:    20191021
+Codigo:   302
+Gravedad: GRAVE
+Monto:    1975
+Puntos:   800
+Meses:    3
+
+
+Licencia: 50201756
+Nombre:   ZEGARRA PENA CARMELA
+Placa:    K5K-595
+Fecha:    20201213
+Codigo:   132
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 47528229
+Nombre:   SAAVEDRA GONZALES WILMER
+Placa:    I4H-529
+Fecha:    20190712
+Codigo:   153
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 49927087
+Nombre:   INGA PALOMARES ERIKA
+Placa:    X3E-271
+Fecha:    20200304
+Codigo:   124
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 80457845
+Nombre:   NORABUENA MOYA HECTOR
+Placa:    M7F-612
+Fecha:    20200205
+Codigo:   334
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 15029228
+Nombre:   VALVERDE MAEIREIZO MELVIN JAIR
+Placa:    J0Q-121
+Fecha:    20191222
+Codigo:   322
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 73567806
+Nombre:   ARCA SANCHEZ MAGALI BEATRIZ
+Placa:    E2D-493
+Fecha:    20190503
+Codigo:   301
+Gravedad: GRAVE
+Monto:    3950
+Puntos:   1000
+Meses:    6
+
+
+Licencia: 35912665
+Nombre:   MARTINEZ CRUZ EVERT RONY
+Placa:    O4X-500
+Fecha:    20201207
+Codigo:   157
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 79672079
+Nombre:   CONTRERAS CHANG JOHANA CINTHIA
+Placa:    O3H-954
+Fecha:    20201107
+Codigo:   120
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 54447051
+Nombre:   AVILA DEL CASTILLO ANNIE
+Placa:    G3Y-654
+Fecha:    20200807
+Codigo:   333
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 49927087
+Nombre:   INGA PALOMARES ERIKA
+Placa:    M8Q-758
+Fecha:    20191129
+Codigo:   137
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   200
+
+
+Licencia: 89314225
+Nombre:   RIOS DURAND CARLOS EDILBERTO
+Placa:    C3A-423
+Fecha:    20201230
+Codigo:   310
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 69252518
+Nombre:   GORDILLO SANCHEZ RONALD JUVENAL
+Placa:    Y0Y-415
+Fecha:    20191114
+Codigo:   142
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 81485316
+Nombre:   JUSTINO MARTINEZ ENRIQUE
+Placa:    F1O-596
+Fecha:    20200503
+Codigo:   104
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 30046639
+Nombre:   SALAMANCA VEGA VIRGINIA MARTHA
+Placa:    S3F-021
+Fecha:    20200515
+Codigo:   144
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 34248357
+Nombre:   LEYVA LANDEO NANCY SONIA
+Placa:    S5E-231
+Fecha:    20200211
+Codigo:   137
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   200
+
+
+Licencia: 84186239
+Nombre:   RIVERO CORONADO HECTOR ALONSO
+Placa:    T6W-978
+Fecha:    20200425
+Codigo:   152
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 48878256
+Nombre:   RAFFO CORONADO ROLANDO
+Placa:    F2F-895
+Fecha:    20190118
+Codigo:   310
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 52002275
+Nombre:   CASANOVA ZEGARRA MARITZA
+Placa:    C0S-417
+Fecha:    20191023
+Codigo:   154
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 51929951
+Nombre:   CHAVEZ BERROCAL JOHAN
+Placa:    O8J-848
+Fecha:    20190202
+Codigo:   325
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 75348522
+Nombre:   LOZADA FORZANI DELIA
+Placa:    X0D-655
+Fecha:    20201230
+Codigo:   309
+Gravedad: GRAVE
+Monto:    948
+Puntos:   600
+Meses:    1
+
+
+Licencia: 38862473
+Nombre:   WONG MAEIREIZO BEATRIZ
+Placa:    K3B-165
+Fecha:    20200221
+Codigo:   103
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   200
+
+
+Licencia: 66849703
+Nombre:   MERCADO CORONEL ELIA
+Placa:    B4N-777
+Fecha:    20200304
+Codigo:   207
+Gravedad: LEVE
+Monto:    158
+Descuento:0.5
+
+
+Licencia: 16925690
+Nombre:   CABRERA TORO FANNY
+Placa:    R7N-113
+Fecha:    20200907
+Codigo:   321
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 37080813
+Nombre:   FLORIAN VALDERRAMA JOSE
+Placa:    O9W-355
+Fecha:    20201218
+Codigo:   110
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 49927087
+Nombre:   INGA PALOMARES ERIKA
+Placa:    X3E-271
+Fecha:    20200312
+Codigo:   131
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   200
+
+
+Licencia: 35912665
+Nombre:   MARTINEZ CRUZ EVERT RONY
+Placa:    A6E-125
+Fecha:    20200827
+Codigo:   337
+Gravedad: GRAVE
+Monto:    0
+Puntos:   2000
+Meses:    12
+
+
+Licencia: 69252518
+Nombre:   GORDILLO SANCHEZ RONALD JUVENAL
+Placa:    Y0Y-415
+Fecha:    20190928
+Codigo:   305
+Gravedad: GRAVE
+Monto:    1975
+Puntos:   800
+Meses:    3
+
+
+Licencia: 45043076
+Nombre:   VEGA VILCARA CARMELA TERESA
+Placa:    R1T-735
+Fecha:    20201118
+Codigo:   312
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 12270502
+Nombre:   CUEVA FUENTES CINTHIA DELIA
+Placa:    P7T-999
+Fecha:    20190724
+Codigo:   148
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 27864822
+Nombre:   FIGUEROA MEDINA MADELEINE
+Placa:    S3D-133
+Fecha:    20190203
+Codigo:   140
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 26522329
+Nombre:   SANCHEZ DEL CASTILLO FIORELLA ROSARIO
+Placa:    U7R-252
+Fecha:    20200413
+Codigo:   103
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   200
+
+
+Licencia: 50201756
+Nombre:   ZEGARRA PENA CARMELA
+Placa:    K5K-595
+Fecha:    20201028
+Codigo:   161
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 75348522
+Nombre:   LOZADA FORZANI DELIA
+Placa:    P5B-640
+Fecha:    20190526
+Codigo:   126
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 35912665
+Nombre:   MARTINEZ CRUZ EVERT RONY
+Placa:    D7L-648
+Fecha:    20201213
+Codigo:   162
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 64532449
+Nombre:   INFANTES MERCADO LUIS WALDEMAR
+Placa:    J0V-437
+Fecha:    20200727
+Codigo:   127
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 15559308
+Nombre:   BRAVO CORTES JANET FLOR
+Placa:    S3L-803
+Fecha:    20190405
+Codigo:   312
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 90467829
+Nombre:   IPARRAGUIRRE PEREZ NICOLAS
+Placa:    X8U-894
+Fecha:    20200911
+Codigo:   154
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 16477908
+Nombre:   BACA CAMACHO MILAGROS NATALIA
+Placa:    I0E-459
+Fecha:    20200226
+Codigo:   315
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 25518120
+Nombre:   RONDON CABRERA ALEXANDER ADOLFO
+Placa:    F2C-703
+Fecha:    20200925
+Codigo:   109
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   200
+
+
+Licencia: 88167677
+Nombre:   PRADO VERA JUAN
+Placa:    V7U-622
+Fecha:    20191003
+Codigo:   160
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 12270502
+Nombre:   CUEVA FUENTES CINTHIA DELIA
+Placa:    P7T-999
+Fecha:    20200419
+Codigo:   334
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 74325123
+Nombre:   TANG MOSCOSO JOHANA
+Placa:    B3H-006
+Fecha:    20201105
+Codigo:   202
+Gravedad: LEVE
+Monto:    158
+Descuento:0.5
+
+
+Licencia: 69252518
+Nombre:   GORDILLO SANCHEZ RONALD JUVENAL
+Placa:    P7I-760
+Fecha:    20190312
+Codigo:   147
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 32244565
+Nombre:   HENRIQUEZ PAREDES PAUL RAFAEL
+Placa:    J1E-736
+Fecha:    20200708
+Codigo:   164
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 47528229
+Nombre:   SAAVEDRA GONZALES WILMER
+Placa:    G8O-154
+Fecha:    20200607
+Codigo:   207
+Gravedad: LEVE
+Monto:    158
+Descuento:0.5
+
+
+Licencia: 32244565
+Nombre:   HENRIQUEZ PAREDES PAUL RAFAEL
+Placa:    W9L-468
+Fecha:    20190729
+Codigo:   136
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 49428502
+Nombre:   RIVERO CORTEZ WILVER ALFONSO
+Placa:    T0V-569
+Fecha:    20201016
+Codigo:   151
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 13219606
+Nombre:   RODRIGUEZ MORENO BLANCA OFELIA
+Placa:    M2Q-712
+Fecha:    20190704
+Codigo:   164
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 34248357
+Nombre:   LEYVA LANDEO NANCY SONIA
+Placa:    R7N-062
+Fecha:    20190514
+Codigo:   304
+Gravedad: GRAVE
+Monto:    3950
+Puntos:   100
+Meses:    6
+
+
+Licencia: 38862473
+Nombre:   WONG MAEIREIZO BEATRIZ
+Placa:    S6Y-726
+Fecha:    20190713
+Codigo:   328
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 68310808
+Nombre:   CANO POLO MILAGROS ISABEL
+Placa:    K2N-341
+Fecha:    20190105
+Codigo:   306
+Gravedad: GRAVE
+Monto:    948
+Puntos:   600
+Meses:    1
+
+
+Licencia: 77763722
+Nombre:   FARFAN SALAZAR MARGOT
+Placa:    W2L-827
+Fecha:    20201228
+Codigo:   205
+Gravedad: LEVE
+Monto:    158
+Descuento:0.5
+
+
+Licencia: 15559308
+Nombre:   BRAVO CORTES JANET FLOR
+Placa:    T8F-368
+Fecha:    20200717
+Codigo:   139
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 50201756
+Nombre:   ZEGARRA PENA CARMELA
+Placa:    X8O-807
+Fecha:    20201122
+Codigo:   119
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 15559308
+Nombre:   BRAVO CORTES JANET FLOR
+Placa:    S3L-803
+Fecha:    20190920
+Codigo:   161
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 32244565
+Nombre:   HENRIQUEZ PAREDES PAUL RAFAEL
+Placa:    M8W-853
+Fecha:    20191118
+Codigo:   335
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 80310768
+Nombre:   MINAYA BERROCAL HELI
+Placa:    N5J-515
+Fecha:    20200909
+Codigo:   317
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 50200823
+Nombre:   LEYVA SAM DIANA DELIA
+Placa:    Q6C-943
+Fecha:    20190903
+Codigo:   129
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 27185429
+Nombre:   SOLIS CHUNG ROLANDO
+Placa:    S9I-160
+Fecha:    20200401
+Codigo:   129
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 50201756
+Nombre:   ZEGARRA PENA CARMELA
+Placa:    K5K-595
+Fecha:    20190729
+Codigo:   161
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 45043076
+Nombre:   VEGA VILCARA CARMELA TERESA
+Placa:    S7E-946
+Fecha:    20200207
+Codigo:   317
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 79672079
+Nombre:   CONTRERAS CHANG JOHANA CINTHIA
+Placa:    Y3Q-331
+Fecha:    20200530
+Codigo:   157
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 35671623
+Nombre:   EPIQUEN YEP GUIDA VICTORIA
+Placa:    P2Q-870
+Fecha:    20191226
+Codigo:   328
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 48450395
+Nombre:   RAMIREZ ASTETE KARINA ESTEFANIA
+Placa:    G1P-591
+Fecha:    20190716
+Codigo:   132
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 36079131
+Nombre:   ZAVALETA VILCA ERICKA ELEONOR
+Placa:    I0W-872
+Fecha:    20190422
+Codigo:   204
+Gravedad: LEVE
+Monto:    158
+Descuento:0.5
+
+
+Licencia: 54665716
+Nombre:   GONZALES GAMARRA GIOVANA KARINA
+Placa:    D2V-055
+Fecha:    20200316
+Codigo:   112
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 47528229
+Nombre:   SAAVEDRA GONZALES WILMER
+Placa:    U0N-343
+Fecha:    20200817
+Codigo:   142
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 36079131
+Nombre:   ZAVALETA VILCA ERICKA ELEONOR
+Placa:    I0W-872
+Fecha:    20190430
+Codigo:   137
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   200
+
+
+Licencia: 53853385
+Nombre:   SOLIS NARVAEZ MARIA MADELEINE
+Placa:    O4X-603
+Fecha:    20191222
+Codigo:   146
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 85501710
+Nombre:   VIZCARDO SINCHE MARIBEL
+Placa:    N2C-590
+Fecha:    20200319
+Codigo:   137
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   200
+
+
+Licencia: 34976629
+Nombre:   LOZADA ARGUEDAS FELICITA VALENTINA
+Placa:    I0Y-720
+Fecha:    20200609
+Codigo:   143
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 75945248
+Nombre:   MEJIA RODRIGUEZ INES VALENTINA
+Placa:    K6X-977
+Fecha:    20200505
+Codigo:   301
+Gravedad: GRAVE
+Monto:    3950
+Puntos:   1000
+Meses:    6
+
+
+Licencia: 26522329
+Nombre:   SANCHEZ DEL CASTILLO FIORELLA ROSARIO
+Placa:    U7R-252
+Fecha:    20200826
+Codigo:   102
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 68310808
+Nombre:   CANO POLO MILAGROS ISABEL
+Placa:    X6M-077
+Fecha:    20190625
+Codigo:   155
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 84186239
+Nombre:   RIVERO CORONADO HECTOR ALONSO
+Placa:    W9Y-717
+Fecha:    20201112
+Codigo:   109
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   200
+
+
+Licencia: 37080813
+Nombre:   FLORIAN VALDERRAMA JOSE
+Placa:    P7E-145
+Fecha:    20190917
+Codigo:   203
+Gravedad: LEVE
+Monto:    158
+Descuento:0.5
+
+
+Licencia: 67185679
+Nombre:   FLORENCIO CORONADO ALONSO
+Placa:    S7F-983
+Fecha:    20200827
+Codigo:   308
+Gravedad: GRAVE
+Monto:    948
+Puntos:   600
+Meses:    1
+
+
+Licencia: 52002275
+Nombre:   CASANOVA ZEGARRA MARITZA
+Placa:    C0S-417
+Fecha:    20201206
+Codigo:   101
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   200
+
+
+Licencia: 80457845
+Nombre:   NORABUENA MOYA HECTOR
+Placa:    M7F-612
+Fecha:    20200702
+Codigo:   101
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   200
+
+
+Licencia: 25518120
+Nombre:   RONDON CABRERA ALEXANDER ADOLFO
+Placa:    U1X-768
+Fecha:    20190120
+Codigo:   103
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   200
+
+
+Licencia: 77763722
+Nombre:   FARFAN SALAZAR MARGOT
+Placa:    W2L-827
+Fecha:    20190502
+Codigo:   101
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   200
+
+
+Licencia: 48878256
+Nombre:   RAFFO CORONADO ROLANDO
+Placa:    G2R-979
+Fecha:    20191027
+Codigo:   118
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 54447051
+Nombre:   AVILA DEL CASTILLO ANNIE
+Placa:    G3Y-654
+Fecha:    20200828
+Codigo:   152
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 34976629
+Nombre:   LOZADA ARGUEDAS FELICITA VALENTINA
+Placa:    I0Y-720
+Fecha:    20190808
+Codigo:   117
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 77367073
+Nombre:   JAUREGUI DEL CASTILLO VICTOR RICARDO
+Placa:    H9A-097
+Fecha:    20201223
+Codigo:   126
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 39244942
+Nombre:   PENA SUAREZ GLENDA MARGOT
+Placa:    N5Y-450
+Fecha:    20200727
+Codigo:   118
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 88167677
+Nombre:   PRADO VERA JUAN
+Placa:    Y4Y-028
+Fecha:    20200424
+Codigo:   132
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 79766395
+Nombre:   FUENTES ESCALANTE PATRICIA ELIZABETH
+Placa:    N6D-256
+Fecha:    20190820
+Codigo:   336
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 39244942
+Nombre:   PENA SUAREZ GLENDA MARGOT
+Placa:    N5Y-450
+Fecha:    20200917
+Codigo:   331
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 90467829
+Nombre:   IPARRAGUIRRE PEREZ NICOLAS
+Placa:    H1R-953
+Fecha:    20200119
+Codigo:   132
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 69494747
+Nombre:   MENDOZA ROMERO VIRGINIA YDALI
+Placa:    J8D-125
+Fecha:    20200829
+Codigo:   162
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 64532449
+Nombre:   INFANTES MERCADO LUIS WALDEMAR
+Placa:    X3Z-285
+Fecha:    20191031
+Codigo:   122
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 53374153
+Nombre:   SERRANO IBEROS FRANCISCO
+Placa:    V7L-069
+Fecha:    20200426
+Codigo:   315
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 21621497
+Nombre:   AYALA CASTILLO ERICKA OFELIA
+Placa:    Z7C-785
+Fecha:    20190131
+Codigo:   163
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 35671623
+Nombre:   EPIQUEN YEP GUIDA VICTORIA
+Placa:    V4E-749
+Fecha:    20190923
+Codigo:   321
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 27185429
+Nombre:   SOLIS CHUNG ROLANDO
+Placa:    S9I-160
+Fecha:    20200304
+Codigo:   325
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 89941095
+Nombre:   ARCA LARRIEGA LUCERO YLIANA
+Placa:    P6N-119
+Fecha:    20190831
+Codigo:   150
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 79766395
+Nombre:   FUENTES ESCALANTE PATRICIA ELIZABETH
+Placa:    N6D-256
+Fecha:    20190301
+Codigo:   313
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 79766395
+Nombre:   FUENTES ESCALANTE PATRICIA ELIZABETH
+Placa:    H7P-047
+Fecha:    20200408
+Codigo:   143
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 48450395
+Nombre:   RAMIREZ ASTETE KARINA ESTEFANIA
+Placa:    Q5S-871
+Fecha:    20200206
+Codigo:   324
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 16925690
+Nombre:   CABRERA TORO FANNY
+Placa:    B4I-014
+Fecha:    20190827
+Codigo:   144
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 67185679
+Nombre:   FLORENCIO CORONADO ALONSO
+Placa:    I2P-193
+Fecha:    20200101
+Codigo:   103
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   200
+
+
+Licencia: 73972114
+Nombre:   AVILA MARTEL JAIME MANUEL
+Placa:    J2M-606
+Fecha:    20200407
+Codigo:   113
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 67185679
+Nombre:   FLORENCIO CORONADO ALONSO
+Placa:    F1F-571
+Fecha:    20200209
+Codigo:   309
+Gravedad: GRAVE
+Monto:    948
+Puntos:   600
+Meses:    1
+
+
+Licencia: 96693273
+Nombre:   VALDERRAMA BERROCAL EVERT
+Placa:    C0G-556
+Fecha:    20190430
+Codigo:   170
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 80457845
+Nombre:   NORABUENA MOYA HECTOR
+Placa:    M7F-612
+Fecha:    20190403
+Codigo:   113
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 38862473
+Nombre:   WONG MAEIREIZO BEATRIZ
+Placa:    K3B-165
+Fecha:    20200922
+Codigo:   118
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 30046639
+Nombre:   SALAMANCA VEGA VIRGINIA MARTHA
+Placa:    L8F-459
+Fecha:    20201017
+Codigo:   150
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 71578206
+Nombre:   ARROYO TOMASICHE NATALIA
+Placa:    G7Z-721
+Fecha:    20191104
+Codigo:   111
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 52003695
+Nombre:   CARBAJAL SALAS MAGDA ZKENIA
+Placa:    H8S-849
+Fecha:    20190320
+Codigo:   118
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 29989682
+Nombre:   CAMACHO PAIRAZAMAN YDALI LUCERO
+Placa:    W3T-571
+Fecha:    20200730
+Codigo:   327
+Gravedad: GRAVE
+Monto:    1975
+Puntos:   600
+Meses:    1
+
+
+Licencia: 60784914
+Nombre:   RUIZ ZEVALLOS WALTER RONY
+Placa:    P4Y-758
+Fecha:    20200626
+Codigo:   155
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 34976629
+Nombre:   LOZADA ARGUEDAS FELICITA VALENTINA
+Placa:    J8B-303
+Fecha:    20200601
+Codigo:   130
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 47528229
+Nombre:   SAAVEDRA GONZALES WILMER
+Placa:    G8O-154
+Fecha:    20191116
+Codigo:   330
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 32244565
+Nombre:   HENRIQUEZ PAREDES PAUL RAFAEL
+Placa:    M8W-853
+Fecha:    20191106
+Codigo:   123
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 34248357
+Nombre:   LEYVA LANDEO NANCY SONIA
+Placa:    H4R-733
+Fecha:    20200825
+Codigo:   328
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 87495937
+Nombre:   MORALES PASQUEL KARIN MARIBEL
+Placa:    C5G-743
+Fecha:    20201212
+Codigo:   333
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 48878256
+Nombre:   RAFFO CORONADO ROLANDO
+Placa:    G2R-979
+Fecha:    20200317
+Codigo:   305
+Gravedad: GRAVE
+Monto:    1975
+Puntos:   800
+Meses:    3
+
+
+Licencia: 26522329
+Nombre:   SANCHEZ DEL CASTILLO FIORELLA ROSARIO
+Placa:    U7R-252
+Fecha:    20191223
+Codigo:   122
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 58992942
+Nombre:   NARVAEZ CASTILLO JESUS RAFAEL
+Placa:    Q6B-243
+Fecha:    20200415
+Codigo:   205
+Gravedad: LEVE
+Monto:    158
+Descuento:0.5
+
+
+Licencia: 85501710
+Nombre:   VIZCARDO SINCHE MARIBEL
+Placa:    Z4K-431
+Fecha:    20200901
+Codigo:   121
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   200
+
+
+Licencia: 24859596
+Nombre:   FLORIAN CUBA CHRISTIAN
+Placa:    A8P-118
+Fecha:    20200829
+Codigo:   163
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 77367073
+Nombre:   JAUREGUI DEL CASTILLO VICTOR RICARDO
+Placa:    W4W-684
+Fecha:    20201209
+Codigo:   113
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 43454884
+Nombre:   ESPINOZA CHANG SHIRLEY
+Placa:    G0F-080
+Fecha:    20200201
+Codigo:   156
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   200
+
+
+Licencia: 64532449
+Nombre:   INFANTES MERCADO LUIS WALDEMAR
+Placa:    J0V-437
+Fecha:    20191216
+Codigo:   149
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 70414420
+Nombre:   AVILA REYES TATIANA
+Placa:    U5T-348
+Fecha:    20190712
+Codigo:   164
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 71578206
+Nombre:   ARROYO TOMASICHE NATALIA
+Placa:    L4H-670
+Fecha:    20200611
+Codigo:   133
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 87495937
+Nombre:   MORALES PASQUEL KARIN MARIBEL
+Placa:    L2H-207
+Fecha:    20200503
+Codigo:   324
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 88167677
+Nombre:   PRADO VERA JUAN
+Placa:    B4C-100
+Fecha:    20200822
+Codigo:   330
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 30046639
+Nombre:   SALAMANCA VEGA VIRGINIA MARTHA
+Placa:    S3F-021
+Fecha:    20190906
+Codigo:   327
+Gravedad: GRAVE
+Monto:    1975
+Puntos:   600
+Meses:    1
+
+
+Licencia: 30441350
+Nombre:   RETAMOSO SALAMANCA DELIA MARITZA
+Placa:    T7F-869
+Fecha:    20200702
+Codigo:   309
+Gravedad: GRAVE
+Monto:    948
+Puntos:   600
+Meses:    1
+
+
+Licencia: 71578206
+Nombre:   ARROYO TOMASICHE NATALIA
+Placa:    L4H-670
+Fecha:    20201010
+Codigo:   208
+Gravedad: LEVE
+Monto:    158
+Descuento:0.5
+
+
+Licencia: 64178096
+Nombre:   VIZCARRA CARBAJAL IVAN FAUSTO
+Placa:    B7V-643
+Fecha:    20200103
+Codigo:   110
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 13628871
+Nombre:   QUIROGA HERNANDEZ SILVANA ZKENIA
+Placa:    F3E-797
+Fecha:    20200831
+Codigo:   113
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 73357516
+Nombre:   TRIGUEROS JUGO LUZ
+Placa:    P1T-781
+Fecha:    20200612
+Codigo:   122
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 25518120
+Nombre:   RONDON CABRERA ALEXANDER ADOLFO
+Placa:    F2C-703
+Fecha:    20200406
+Codigo:   203
+Gravedad: LEVE
+Monto:    158
+Descuento:0.5
+
+
+Licencia: 80457845
+Nombre:   NORABUENA MOYA HECTOR
+Placa:    Z5G-762
+Fecha:    20190701
+Codigo:   126
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 70414420
+Nombre:   AVILA REYES TATIANA
+Placa:    V9J-051
+Fecha:    20190126
+Codigo:   336
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 35912665
+Nombre:   MARTINEZ CRUZ EVERT RONY
+Placa:    O2Z-308
+Fecha:    20200902
+Codigo:   154
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 64532449
+Nombre:   INFANTES MERCADO LUIS WALDEMAR
+Placa:    V4I-691
+Fecha:    20190605
+Codigo:   146
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 35912665
+Nombre:   MARTINEZ CRUZ EVERT RONY
+Placa:    A6E-125
+Fecha:    20190910
+Codigo:   301
+Gravedad: GRAVE
+Monto:    3950
+Puntos:   1000
+Meses:    6
+
+
+Licencia: 73972114
+Nombre:   AVILA MARTEL JAIME MANUEL
+Placa:    D8H-157
+Fecha:    20190610
+Codigo:   304
+Gravedad: GRAVE
+Monto:    3950
+Puntos:   100
+Meses:    6
+
+
+Licencia: 64532449
+Nombre:   INFANTES MERCADO LUIS WALDEMAR
+Placa:    V4I-691
+Fecha:    20201220
+Codigo:   165
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 64178096
+Nombre:   VIZCARRA CARBAJAL IVAN FAUSTO
+Placa:    B7V-643
+Fecha:    20200222
+Codigo:   135
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 73357516
+Nombre:   TRIGUEROS JUGO LUZ
+Placa:    E6R-293
+Fecha:    20190221
+Codigo:   152
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 28820944
+Nombre:   RIOS ZAMORA INES
+Placa:    H2K-127
+Fecha:    20191102
+Codigo:   131
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   200
+
+
+Licencia: 81799482
+Nombre:   CERNA CERNA CINTHIA
+Placa:    V7P-711
+Fecha:    20190501
+Codigo:   161
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 48878256
+Nombre:   RAFFO CORONADO ROLANDO
+Placa:    F2F-895
+Fecha:    20191009
+Codigo:   137
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   200
+
+
+Licencia: 75945248
+Nombre:   MEJIA RODRIGUEZ INES VALENTINA
+Placa:    K6X-977
+Fecha:    20191207
+Codigo:   307
+Gravedad: GRAVE
+Monto:    948
+Puntos:   600
+Meses:    1
+
+
+Licencia: 43454884
+Nombre:   ESPINOZA CHANG SHIRLEY
+Placa:    G0F-080
+Fecha:    20190705
+Codigo:   327
+Gravedad: GRAVE
+Monto:    1975
+Puntos:   600
+Meses:    1
+
+
+Licencia: 64532449
+Nombre:   INFANTES MERCADO LUIS WALDEMAR
+Placa:    K8R-348
+Fecha:    20200713
+Codigo:   120
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 73567806
+Nombre:   ARCA SANCHEZ MAGALI BEATRIZ
+Placa:    Q9D-870
+Fecha:    20190419
+Codigo:   106
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 13219606
+Nombre:   RODRIGUEZ MORENO BLANCA OFELIA
+Placa:    T3B-722
+Fecha:    20200125
+Codigo:   114
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 79766395
+Nombre:   FUENTES ESCALANTE PATRICIA ELIZABETH
+Placa:    H7P-047
+Fecha:    20190810
+Codigo:   163
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 35912665
+Nombre:   MARTINEZ CRUZ EVERT RONY
+Placa:    O4X-500
+Fecha:    20190926
+Codigo:   339
+Gravedad: GRAVE
+Monto:    0
+Puntos:   2000
+Meses:    12
+
+
+Licencia: 30441350
+Nombre:   RETAMOSO SALAMANCA DELIA MARITZA
+Placa:    X0F-315
+Fecha:    20190715
+Codigo:   134
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 26522329
+Nombre:   SANCHEZ DEL CASTILLO FIORELLA ROSARIO
+Placa:    W7R-114
+Fecha:    20190722
+Codigo:   341
+Gravedad: GRAVE
+Monto:    5925
+Puntos:   2000
+Meses:    6
+
+
+Licencia: 88167677
+Nombre:   PRADO VERA JUAN
+Placa:    B4C-100
+Fecha:    20200613
+Codigo:   114
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 75945248
+Nombre:   MEJIA RODRIGUEZ INES VALENTINA
+Placa:    K6X-977
+Fecha:    20201224
+Codigo:   109
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   200
+
+
+Licencia: 47844324
+Nombre:   VILCA LEE NESTOR HUGO
+Placa:    X7J-719
+Fecha:    20190914
+Codigo:   101
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   200
+
+
+Licencia: 45043076
+Nombre:   VEGA VILCARA CARMELA TERESA
+Placa:    R1T-735
+Fecha:    20190411
+Codigo:   320
+Gravedad: GRAVE
+Monto:    711
+Puntos:   600
+Meses:    1
+
+
+Licencia: 52002275
+Nombre:   CASANOVA ZEGARRA MARITZA
+Placa:    C0S-417
+Fecha:    20190723
+Codigo:   333
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 79766395
+Nombre:   FUENTES ESCALANTE PATRICIA ELIZABETH
+Placa:    T3R-184
+Fecha:    20200202
+Codigo:   329
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 49428502
+Nombre:   RIVERO CORTEZ WILVER ALFONSO
+Placa:    C0A-114
+Fecha:    20190206
+Codigo:   152
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 35912665
+Nombre:   MARTINEZ CRUZ EVERT RONY
+Placa:    O2Z-308
+Fecha:    20191014
+Codigo:   156
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   200
+
+
+Licencia: 68310808
+Nombre:   CANO POLO MILAGROS ISABEL
+Placa:    X6M-077
+Fecha:    20190614
+Codigo:   132
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 73818744
+Nombre:   FUENTES GAMARRA HUGO
+Placa:    U5N-536
+Fecha:    20200530
+Codigo:   332
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 32244565
+Nombre:   HENRIQUEZ PAREDES PAUL RAFAEL
+Placa:    K4F-319
+Fecha:    20190803
+Codigo:   146
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 80457845
+Nombre:   NORABUENA MOYA HECTOR
+Placa:    W0C-131
+Fecha:    20200312
+Codigo:   141
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 42956681
+Nombre:   POMAJAMBO EGUSQUIZA PAUL
+Placa:    L8Z-555
+Fecha:    20200111
+Codigo:   143
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 24859596
+Nombre:   FLORIAN CUBA CHRISTIAN
+Placa:    B8B-326
+Fecha:    20190316
+Codigo:   302
+Gravedad: GRAVE
+Monto:    1975
+Puntos:   800
+Meses:    3
+
+
+Licencia: 79672079
+Nombre:   CONTRERAS CHANG JOHANA CINTHIA
+Placa:    Y3Q-331
+Fecha:    20190612
+Codigo:   306
+Gravedad: GRAVE
+Monto:    948
+Puntos:   600
+Meses:    1
+
+
+Licencia: 73567806
+Nombre:   ARCA SANCHEZ MAGALI BEATRIZ
+Placa:    W9Z-281
+Fecha:    20190629
+Codigo:   311
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 16477908
+Nombre:   BACA CAMACHO MILAGROS NATALIA
+Placa:    I0E-459
+Fecha:    20200328
+Codigo:   304
+Gravedad: GRAVE
+Monto:    3950
+Puntos:   100
+Meses:    6
+
+
+Licencia: 74325123
+Nombre:   TANG MOSCOSO JOHANA
+Placa:    C2V-710
+Fecha:    20200202
+Codigo:   162
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 27185429
+Nombre:   SOLIS CHUNG ROLANDO
+Placa:    U3F-754
+Fecha:    20190125
+Codigo:   327
+Gravedad: GRAVE
+Monto:    1975
+Puntos:   600
+Meses:    1
+
+
+Licencia: 19963454
+Nombre:   SALAMANCA CABRERA NESTOR EVERT
+Placa:    T9D-604
+Fecha:    20200604
+Codigo:   337
+Gravedad: GRAVE
+Monto:    0
+Puntos:   2000
+Meses:    12
+
+
+Licencia: 35297848
+Nombre:   ASTETE CHANG GUIDA
+Placa:    O7D-970
+Fecha:    20190408
+Codigo:   117
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 31107104
+Nombre:   MOSCOSO ARIAS FIORELLA
+Placa:    O3T-110
+Fecha:    20200529
+Codigo:   104
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 13219606
+Nombre:   RODRIGUEZ MORENO BLANCA OFELIA
+Placa:    N1O-921
+Fecha:    20190630
+Codigo:   107
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 30441350
+Nombre:   RETAMOSO SALAMANCA DELIA MARITZA
+Placa:    X0F-315
+Fecha:    20201121
+Codigo:   128
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 89941095
+Nombre:   ARCA LARRIEGA LUCERO YLIANA
+Placa:    P6T-244
+Fecha:    20190925
+Codigo:   134
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 99950484
+Nombre:   CORTES CORTEZ RAUL ALEX
+Placa:    L8A-167
+Fecha:    20200629
+Codigo:   147
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 35912665
+Nombre:   MARTINEZ CRUZ EVERT RONY
+Placa:    O2Z-308
+Fecha:    20190722
+Codigo:   156
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   200
+
+
+Licencia: 34976629
+Nombre:   LOZADA ARGUEDAS FELICITA VALENTINA
+Placa:    J8B-303
+Fecha:    20190327
+Codigo:   132
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 68303148
+Nombre:   PATINO BOLANOS DELICIA VIRGINIA
+Placa:    H1W-140
+Fecha:    20200107
+Codigo:   202
+Gravedad: LEVE
+Monto:    158
+Descuento:0.5
+
+
+Licencia: 48450395
+Nombre:   RAMIREZ ASTETE KARINA ESTEFANIA
+Placa:    H6H-085
+Fecha:    20190624
+Codigo:   321
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 24859596
+Nombre:   FLORIAN CUBA CHRISTIAN
+Placa:    B8B-326
+Fecha:    20190621
+Codigo:   306
+Gravedad: GRAVE
+Monto:    948
+Puntos:   600
+Meses:    1
+
+
+Licencia: 35683701
+Nombre:   DIAZ MOYA ELIA ANNIE
+Placa:    D5W-953
+Fecha:    20190130
+Codigo:   155
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 69252518
+Nombre:   GORDILLO SANCHEZ RONALD JUVENAL
+Placa:    P7I-760
+Fecha:    20201020
+Codigo:   321
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 82870470
+Nombre:   SEDANO RETAMOSO ELIA YOLANDA
+Placa:    K0H-387
+Fecha:    20200623
+Codigo:   102
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 53853385
+Nombre:   SOLIS NARVAEZ MARIA MADELEINE
+Placa:    T9X-217
+Fecha:    20200717
+Codigo:   304
+Gravedad: GRAVE
+Monto:    3950
+Puntos:   100
+Meses:    6
+
+
+Licencia: 27864822
+Nombre:   FIGUEROA MEDINA MADELEINE
+Placa:    S3D-133
+Fecha:    20190503
+Codigo:   119
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 60335381
+Nombre:   DIAZ TANG ENRIQUE
+Placa:    E6T-667
+Fecha:    20190106
+Codigo:   337
+Gravedad: GRAVE
+Monto:    0
+Puntos:   2000
+Meses:    12
+
+
+Licencia: 88854166
+Nombre:   PINTO ROJAS JUVENAL FRANCISCO
+Placa:    H3E-885
+Fecha:    20190221
+Codigo:   319
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 82031355
+Nombre:   EGUSQUIZA BERROCAL DORIS NANCY
+Placa:    H6X-124
+Fecha:    20201211
+Codigo:   155
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 81528434
+Nombre:   EPIQUEN AVILA ENRIQUE
+Placa:    B3U-020
+Fecha:    20190311
+Codigo:   311
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 54141214
+Nombre:   DURAND MIRANDA MIGUEL JUAN
+Placa:    G2I-709
+Fecha:    20190318
+Codigo:   152
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 44188994
+Nombre:   VILCARA YALLICO MAGALI
+Placa:    M0X-657
+Fecha:    20201130
+Codigo:   204
+Gravedad: LEVE
+Monto:    158
+Descuento:0.5
+
+
+Licencia: 43454884
+Nombre:   ESPINOZA CHANG SHIRLEY
+Placa:    G0F-080
+Fecha:    20200522
+Codigo:   329
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 34248357
+Nombre:   LEYVA LANDEO NANCY SONIA
+Placa:    H4R-733
+Fecha:    20190206
+Codigo:   308
+Gravedad: GRAVE
+Monto:    948
+Puntos:   600
+Meses:    1
+
+
+Licencia: 53853385
+Nombre:   SOLIS NARVAEZ MARIA MADELEINE
+Placa:    O4X-603
+Fecha:    20190121
+Codigo:   323
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 16925690
+Nombre:   CABRERA TORO FANNY
+Placa:    B4I-014
+Fecha:    20191117
+Codigo:   166
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 16136330
+Nombre:   YEP PRECIADO RICHARD
+Placa:    E3U-231
+Fecha:    20191218
+Codigo:   118
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 73972114
+Nombre:   AVILA MARTEL JAIME MANUEL
+Placa:    A2F-518
+Fecha:    20191024
+Codigo:   144
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 64178096
+Nombre:   VIZCARRA CARBAJAL IVAN FAUSTO
+Placa:    I0X-469
+Fecha:    20200606
+Codigo:   142
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 29833157
+Nombre:   HIJAR LAM MARTIN
+Placa:    I9F-484
+Fecha:    20190420
+Codigo:   130
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 29833157
+Nombre:   HIJAR LAM MARTIN
+Placa:    S2N-896
+Fecha:    20190407
+Codigo:   146
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 67185679
+Nombre:   FLORENCIO CORONADO ALONSO
+Placa:    I2P-193
+Fecha:    20190810
+Codigo:   122
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 30441350
+Nombre:   RETAMOSO SALAMANCA DELIA MARITZA
+Placa:    Q6Q-335
+Fecha:    20191012
+Codigo:   339
+Gravedad: GRAVE
+Monto:    0
+Puntos:   2000
+Meses:    12
+
+
+Licencia: 54447051
+Nombre:   AVILA DEL CASTILLO ANNIE
+Placa:    G3Y-654
+Fecha:    20191029
+Codigo:   105
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   200
+
+
+Licencia: 88167677
+Nombre:   PRADO VERA JUAN
+Placa:    V7U-622
+Fecha:    20190602
+Codigo:   118
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 25518120
+Nombre:   RONDON CABRERA ALEXANDER ADOLFO
+Placa:    F2C-703
+Fecha:    20200726
+Codigo:   136
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 73357516
+Nombre:   TRIGUEROS JUGO LUZ
+Placa:    E6R-293
+Fecha:    20200407
+Codigo:   203
+Gravedad: LEVE
+Monto:    158
+Descuento:0.5
+
+
+Licencia: 13628871
+Nombre:   QUIROGA HERNANDEZ SILVANA ZKENIA
+Placa:    F3E-797
+Fecha:    20201130
+Codigo:   304
+Gravedad: GRAVE
+Monto:    3950
+Puntos:   100
+Meses:    6
+
+
+Licencia: 53374153
+Nombre:   SERRANO IBEROS FRANCISCO
+Placa:    R2T-476
+Fecha:    20200924
+Codigo:   302
+Gravedad: GRAVE
+Monto:    1975
+Puntos:   800
+Meses:    3
+
+
+Licencia: 81485316
+Nombre:   JUSTINO MARTINEZ ENRIQUE
+Placa:    F1O-596
+Fecha:    20200824
+Codigo:   327
+Gravedad: GRAVE
+Monto:    1975
+Puntos:   600
+Meses:    1
+
+
+Licencia: 32090869
+Nombre:   SUELDO ANTEZANO LUIS JESUS
+Placa:    L4B-291
+Fecha:    20200321
+Codigo:   109
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   200
+
+
+Licencia: 16477908
+Nombre:   BACA CAMACHO MILAGROS NATALIA
+Placa:    X9D-758
+Fecha:    20190601
+Codigo:   132
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 87282766
+Nombre:   SUAREZ CHANG GLORIA
+Placa:    S1D-093
+Fecha:    20200408
+Codigo:   321
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 54447051
+Nombre:   AVILA DEL CASTILLO ANNIE
+Placa:    D5W-773
+Fecha:    20190228
+Codigo:   312
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 63291514
+Nombre:   LAU ZAVALETA YDALI ELIA
+Placa:    Z1A-459
+Fecha:    20200116
+Codigo:   107
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 96693273
+Nombre:   VALDERRAMA BERROCAL EVERT
+Placa:    A6K-820
+Fecha:    20200206
+Codigo:   147
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 19568447
+Nombre:   VEGA SORIA HENRRY
+Placa:    O7W-705
+Fecha:    20190509
+Codigo:   102
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 82031355
+Nombre:   EGUSQUIZA BERROCAL DORIS NANCY
+Placa:    H6X-124
+Fecha:    20190422
+Codigo:   143
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 85501710
+Nombre:   VIZCARDO SINCHE MARIBEL
+Placa:    Z4K-431
+Fecha:    20200223
+Codigo:   133
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 29989682
+Nombre:   CAMACHO PAIRAZAMAN YDALI LUCERO
+Placa:    W3T-571
+Fecha:    20190721
+Codigo:   206
+Gravedad: LEVE
+Monto:    158
+Descuento:0.5
+
+
+Licencia: 85501710
+Nombre:   VIZCARDO SINCHE MARIBEL
+Placa:    Z4K-431
+Fecha:    20200616
+Codigo:   207
+Gravedad: LEVE
+Monto:    158
+Descuento:0.5
+
+
+Licencia: 25518120
+Nombre:   RONDON CABRERA ALEXANDER ADOLFO
+Placa:    U1X-768
+Fecha:    20200308
+Codigo:   162
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 88854166
+Nombre:   PINTO ROJAS JUVENAL FRANCISCO
+Placa:    H3E-885
+Fecha:    20190702
+Codigo:   121
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   200
+
+
+Licencia: 25518120
+Nombre:   RONDON CABRERA ALEXANDER ADOLFO
+Placa:    F2C-703
+Fecha:    20201021
+Codigo:   309
+Gravedad: GRAVE
+Monto:    948
+Puntos:   600
+Meses:    1
+
+
+Licencia: 32244565
+Nombre:   HENRIQUEZ PAREDES PAUL RAFAEL
+Placa:    K4F-319
+Fecha:    20190129
+Codigo:   153
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 86718074
+Nombre:   ESCALANTE ROJAS INES ADRIA
+Placa:    L4O-783
+Fecha:    20200223
+Codigo:   120
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 87495937
+Nombre:   MORALES PASQUEL KARIN MARIBEL
+Placa:    L2H-207
+Fecha:    20200730
+Codigo:   308
+Gravedad: GRAVE
+Monto:    948
+Puntos:   600
+Meses:    1
+
+
+Licencia: 54447051
+Nombre:   AVILA DEL CASTILLO ANNIE
+Placa:    U5L-205
+Fecha:    20200803
+Codigo:   314
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 31107104
+Nombre:   MOSCOSO ARIAS FIORELLA
+Placa:    E0I-722
+Fecha:    20200323
+Codigo:   113
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 26522329
+Nombre:   SANCHEZ DEL CASTILLO FIORELLA ROSARIO
+Placa:    W7R-114
+Fecha:    20201223
+Codigo:   307
+Gravedad: GRAVE
+Monto:    948
+Puntos:   600
+Meses:    1
+
+
+Licencia: 15559308
+Nombre:   BRAVO CORTES JANET FLOR
+Placa:    X6O-905
+Fecha:    20191127
+Codigo:   164
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 36079131
+Nombre:   ZAVALETA VILCA ERICKA ELEONOR
+Placa:    V4S-057
+Fecha:    20200915
+Codigo:   205
+Gravedad: LEVE
+Monto:    158
+Descuento:0.5
+
+
+Licencia: 88854166
+Nombre:   PINTO ROJAS JUVENAL FRANCISCO
+Placa:    L3N-150
+Fecha:    20190824
+Codigo:   319
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 69252518
+Nombre:   GORDILLO SANCHEZ RONALD JUVENAL
+Placa:    Y0Y-415
+Fecha:    20200227
+Codigo:   304
+Gravedad: GRAVE
+Monto:    3950
+Puntos:   100
+Meses:    6
+
+
+Licencia: 64178096
+Nombre:   VIZCARRA CARBAJAL IVAN FAUSTO
+Placa:    G3B-505
+Fecha:    20200525
+Codigo:   114
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 87282766
+Nombre:   SUAREZ CHANG GLORIA
+Placa:    S1D-093
+Fecha:    20190617
+Codigo:   165
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 16925690
+Nombre:   CABRERA TORO FANNY
+Placa:    F3F-478
+Fecha:    20190706
+Codigo:   117
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 63291514
+Nombre:   LAU ZAVALETA YDALI ELIA
+Placa:    L3W-411
+Fecha:    20200809
+Codigo:   204
+Gravedad: LEVE
+Monto:    158
+Descuento:0.5
+
+
+Licencia: 35671623
+Nombre:   EPIQUEN YEP GUIDA VICTORIA
+Placa:    V4E-749
+Fecha:    20200921
+Codigo:   332
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 68303148
+Nombre:   PATINO BOLANOS DELICIA VIRGINIA
+Placa:    H1W-140
+Fecha:    20200204
+Codigo:   147
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 60784914
+Nombre:   RUIZ ZEVALLOS WALTER RONY
+Placa:    P4Y-758
+Fecha:    20200907
+Codigo:   126
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 52002275
+Nombre:   CASANOVA ZEGARRA MARITZA
+Placa:    C0S-417
+Fecha:    20190506
+Codigo:   321
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 89941095
+Nombre:   ARCA LARRIEGA LUCERO YLIANA
+Placa:    P6N-119
+Fecha:    20200517
+Codigo:   144
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 53374153
+Nombre:   SERRANO IBEROS FRANCISCO
+Placa:    G6I-762
+Fecha:    20190315
+Codigo:   156
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   200
+
+
+Licencia: 73357516
+Nombre:   TRIGUEROS JUGO LUZ
+Placa:    J2K-636
+Fecha:    20190809
+Codigo:   310
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 34976629
+Nombre:   LOZADA ARGUEDAS FELICITA VALENTINA
+Placa:    J8B-303
+Fecha:    20190116
+Codigo:   334
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 30046639
+Nombre:   SALAMANCA VEGA VIRGINIA MARTHA
+Placa:    S3F-021
+Fecha:    20191117
+Codigo:   160
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 42956681
+Nombre:   POMAJAMBO EGUSQUIZA PAUL
+Placa:    A6D-661
+Fecha:    20190322
+Codigo:   320
+Gravedad: GRAVE
+Monto:    711
+Puntos:   600
+Meses:    1
+
+
+Licencia: 89314225
+Nombre:   RIOS DURAND CARLOS EDILBERTO
+Placa:    C3A-423
+Fecha:    20191127
+Codigo:   151
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 34248357
+Nombre:   LEYVA LANDEO NANCY SONIA
+Placa:    S5E-231
+Fecha:    20190524
+Codigo:   128
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 71832810
+Nombre:   SUELDO SEDANO ADRIA
+Placa:    T1K-210
+Fecha:    20190714
+Codigo:   202
+Gravedad: LEVE
+Monto:    158
+Descuento:0.5
+
+
+Licencia: 79766395
+Nombre:   FUENTES ESCALANTE PATRICIA ELIZABETH
+Placa:    N6D-256
+Fecha:    20200411
+Codigo:   127
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 96693273
+Nombre:   VALDERRAMA BERROCAL EVERT
+Placa:    B9X-420
+Fecha:    20190528
+Codigo:   137
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   200
+
+
+Licencia: 48878256
+Nombre:   RAFFO CORONADO ROLANDO
+Placa:    G2R-979
+Fecha:    20190518
+Codigo:   106
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 73357516
+Nombre:   TRIGUEROS JUGO LUZ
+Placa:    J2K-636
+Fecha:    20200903
+Codigo:   113
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 81799482
+Nombre:   CERNA CERNA CINTHIA
+Placa:    V7P-711
+Fecha:    20200908
+Codigo:   135
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 49428502
+Nombre:   RIVERO CORTEZ WILVER ALFONSO
+Placa:    C0A-114
+Fecha:    20190623
+Codigo:   338
+Gravedad: GRAVE
+Monto:    0
+Puntos:   2000
+Meses:    12
+
+
+Licencia: 15029228
+Nombre:   VALVERDE MAEIREIZO MELVIN JAIR
+Placa:    C0P-895
+Fecha:    20200201
+Codigo:   320
+Gravedad: GRAVE
+Monto:    711
+Puntos:   600
+Meses:    1
+
+
+Licencia: 77763722
+Nombre:   FARFAN SALAZAR MARGOT
+Placa:    A1Q-612
+Fecha:    20191112
+Codigo:   337
+Gravedad: GRAVE
+Monto:    0
+Puntos:   2000
+Meses:    12
+
+
+Licencia: 71578206
+Nombre:   ARROYO TOMASICHE NATALIA
+Placa:    Y9F-491
+Fecha:    20190504
+Codigo:   127
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 12270502
+Nombre:   CUEVA FUENTES CINTHIA DELIA
+Placa:    Y5F-449
+Fecha:    20190916
+Codigo:   316
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 85501710
+Nombre:   VIZCARDO SINCHE MARIBEL
+Placa:    Z4K-431
+Fecha:    20190323
+Codigo:   333
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 47528229
+Nombre:   SAAVEDRA GONZALES WILMER
+Placa:    I4H-529
+Fecha:    20201128
+Codigo:   208
+Gravedad: LEVE
+Monto:    158
+Descuento:0.5
+
+
+Licencia: 84186239
+Nombre:   RIVERO CORONADO HECTOR ALONSO
+Placa:    W9Y-717
+Fecha:    20200509
+Codigo:   335
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 19963454
+Nombre:   SALAMANCA CABRERA NESTOR EVERT
+Placa:    T9D-604
+Fecha:    20200707
+Codigo:   148
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 88854166
+Nombre:   PINTO ROJAS JUVENAL FRANCISCO
+Placa:    H3E-885
+Fecha:    20201018
+Codigo:   120
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 21621497
+Nombre:   AYALA CASTILLO ERICKA OFELIA
+Placa:    W5W-525
+Fecha:    20190605
+Codigo:   146
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 85501710
+Nombre:   VIZCARDO SINCHE MARIBEL
+Placa:    N2C-590
+Fecha:    20191029
+Codigo:   203
+Gravedad: LEVE
+Monto:    158
+Descuento:0.5
+
+
+Licencia: 69252518
+Nombre:   GORDILLO SANCHEZ RONALD JUVENAL
+Placa:    Y0Y-415
+Fecha:    20190308
+Codigo:   325
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 53853385
+Nombre:   SOLIS NARVAEZ MARIA MADELEINE
+Placa:    T9X-217
+Fecha:    20190422
+Codigo:   302
+Gravedad: GRAVE
+Monto:    1975
+Puntos:   800
+Meses:    3
+
+
+Licencia: 81799482
+Nombre:   CERNA CERNA CINTHIA
+Placa:    E3U-768
+Fecha:    20200408
+Codigo:   315
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 39544560
+Nombre:   LUNA VARGAS WALDEMAR
+Placa:    N4J-043
+Fecha:    20191027
+Codigo:   127
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 50201756
+Nombre:   ZEGARRA PENA CARMELA
+Placa:    X8O-807
+Fecha:    20201016
+Codigo:   140
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 63736112
+Nombre:   ZAMORA ZAVALETA RONAL MANUEL
+Placa:    T9A-930
+Fecha:    20190318
+Codigo:   135
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 96693273
+Nombre:   VALDERRAMA BERROCAL EVERT
+Placa:    C0G-556
+Fecha:    20190903
+Codigo:   110
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 49927087
+Nombre:   INGA PALOMARES ERIKA
+Placa:    M8Q-758
+Fecha:    20190218
+Codigo:   328
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 15115705
+Nombre:   HERNANDEZ CORRALES GUILLERMO
+Placa:    N9Q-814
+Fecha:    20190407
+Codigo:   157
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 87495937
+Nombre:   MORALES PASQUEL KARIN MARIBEL
+Placa:    Z8C-558
+Fecha:    20200506
+Codigo:   108
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 26522329
+Nombre:   SANCHEZ DEL CASTILLO FIORELLA ROSARIO
+Placa:    U5W-825
+Fecha:    20200207
+Codigo:   120
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 50201756
+Nombre:   ZEGARRA PENA CARMELA
+Placa:    K5K-595
+Fecha:    20190531
+Codigo:   204
+Gravedad: LEVE
+Monto:    158
+Descuento:0.5
+
+
+Licencia: 85501710
+Nombre:   VIZCARDO SINCHE MARIBEL
+Placa:    Z4K-431
+Fecha:    20190619
+Codigo:   113
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 13219606
+Nombre:   RODRIGUEZ MORENO BLANCA OFELIA
+Placa:    N1O-921
+Fecha:    20190321
+Codigo:   150
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 44188994
+Nombre:   VILCARA YALLICO MAGALI
+Placa:    M0X-657
+Fecha:    20200529
+Codigo:   338
+Gravedad: GRAVE
+Monto:    0
+Puntos:   2000
+Meses:    12
+
+
+Licencia: 96693273
+Nombre:   VALDERRAMA BERROCAL EVERT
+Placa:    F3R-138
+Fecha:    20190923
+Codigo:   311
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 36079131
+Nombre:   ZAVALETA VILCA ERICKA ELEONOR
+Placa:    I0W-872
+Fecha:    20190125
+Codigo:   308
+Gravedad: GRAVE
+Monto:    948
+Puntos:   600
+Meses:    1
+
+
+Licencia: 42956681
+Nombre:   POMAJAMBO EGUSQUIZA PAUL
+Placa:    L8Z-555
+Fecha:    20190810
+Codigo:   308
+Gravedad: GRAVE
+Monto:    948
+Puntos:   600
+Meses:    1
+
+
+Licencia: 88167677
+Nombre:   PRADO VERA JUAN
+Placa:    O0C-616
+Fecha:    20190531
+Codigo:   154
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 87282766
+Nombre:   SUAREZ CHANG GLORIA
+Placa:    S1D-093
+Fecha:    20191003
+Codigo:   306
+Gravedad: GRAVE
+Monto:    948
+Puntos:   600
+Meses:    1
+
+
+Licencia: 84186239
+Nombre:   RIVERO CORONADO HECTOR ALONSO
+Placa:    T6W-978
+Fecha:    20191025
+Codigo:   158
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 67185679
+Nombre:   FLORENCIO CORONADO ALONSO
+Placa:    I2P-193
+Fecha:    20191023
+Codigo:   135
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 34976629
+Nombre:   LOZADA ARGUEDAS FELICITA VALENTINA
+Placa:    I0Y-720
+Fecha:    20200822
+Codigo:   133
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 66849703
+Nombre:   MERCADO CORONEL ELIA
+Placa:    J2F-853
+Fecha:    20190519
+Codigo:   118
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 19963454
+Nombre:   SALAMANCA CABRERA NESTOR EVERT
+Placa:    D9A-711
+Fecha:    20191121
+Codigo:   111
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 87495937
+Nombre:   MORALES PASQUEL KARIN MARIBEL
+Placa:    M5G-669
+Fecha:    20191204
+Codigo:   324
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 30441350
+Nombre:   RETAMOSO SALAMANCA DELIA MARITZA
+Placa:    Q6Q-335
+Fecha:    20200703
+Codigo:   108
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 82031355
+Nombre:   EGUSQUIZA BERROCAL DORIS NANCY
+Placa:    H6X-124
+Fecha:    20191129
+Codigo:   165
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 37080813
+Nombre:   FLORIAN VALDERRAMA JOSE
+Placa:    O9W-355
+Fecha:    20200325
+Codigo:   311
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 64178096
+Nombre:   VIZCARRA CARBAJAL IVAN FAUSTO
+Placa:    I0X-469
+Fecha:    20190318
+Codigo:   336
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 35683701
+Nombre:   DIAZ MOYA ELIA ANNIE
+Placa:    D5W-953
+Fecha:    20200311
+Codigo:   313
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 47844324
+Nombre:   VILCA LEE NESTOR HUGO
+Placa:    X7J-719
+Fecha:    20201213
+Codigo:   104
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 19963454
+Nombre:   SALAMANCA CABRERA NESTOR EVERT
+Placa:    H8A-390
+Fecha:    20190112
+Codigo:   111
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 60784914
+Nombre:   RUIZ ZEVALLOS WALTER RONY
+Placa:    A8J-929
+Fecha:    20190313
+Codigo:   208
+Gravedad: LEVE
+Monto:    158
+Descuento:0.5
+
+
+Licencia: 67185679
+Nombre:   FLORENCIO CORONADO ALONSO
+Placa:    I2P-193
+Fecha:    20200419
+Codigo:   126
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 88167677
+Nombre:   PRADO VERA JUAN
+Placa:    B4C-100
+Fecha:    20190613
+Codigo:   315
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 87495937
+Nombre:   MORALES PASQUEL KARIN MARIBEL
+Placa:    L2H-207
+Fecha:    20190809
+Codigo:   119
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 89314225
+Nombre:   RIOS DURAND CARLOS EDILBERTO
+Placa:    C3A-423
+Fecha:    20190919
+Codigo:   149
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 86718074
+Nombre:   ESCALANTE ROJAS INES ADRIA
+Placa:    L4O-783
+Fecha:    20191225
+Codigo:   151
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 53374153
+Nombre:   SERRANO IBEROS FRANCISCO
+Placa:    V7L-069
+Fecha:    20190903
+Codigo:   142
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 15029228
+Nombre:   VALVERDE MAEIREIZO MELVIN JAIR
+Placa:    J0Q-121
+Fecha:    20201012
+Codigo:   207
+Gravedad: LEVE
+Monto:    158
+Descuento:0.5
+
+
+Licencia: 48450395
+Nombre:   RAMIREZ ASTETE KARINA ESTEFANIA
+Placa:    Q5S-871
+Fecha:    20191104
+Codigo:   147
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 34248357
+Nombre:   LEYVA LANDEO NANCY SONIA
+Placa:    U0T-459
+Fecha:    20190621
+Codigo:   161
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 47844324
+Nombre:   VILCA LEE NESTOR HUGO
+Placa:    F1H-328
+Fecha:    20190129
+Codigo:   335
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 81799482
+Nombre:   CERNA CERNA CINTHIA
+Placa:    V7P-711
+Fecha:    20201020
+Codigo:   152
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 51395324
+Nombre:   TRIGUEROS PORTUGAL ARTURO FAUSTO
+Placa:    M4Z-108
+Fecha:    20190503
+Codigo:   121
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   200
+
+
+Licencia: 50200823
+Nombre:   LEYVA SAM DIANA DELIA
+Placa:    R0P-255
+Fecha:    20200109
+Codigo:   208
+Gravedad: LEVE
+Monto:    158
+Descuento:0.5
+
+
+Licencia: 73567806
+Nombre:   ARCA SANCHEZ MAGALI BEATRIZ
+Placa:    A7Y-833
+Fecha:    20190120
+Codigo:   306
+Gravedad: GRAVE
+Monto:    948
+Puntos:   600
+Meses:    1
+
+
+Licencia: 54447051
+Nombre:   AVILA DEL CASTILLO ANNIE
+Placa:    U5L-205
+Fecha:    20190805
+Codigo:   331
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 88854166
+Nombre:   PINTO ROJAS JUVENAL FRANCISCO
+Placa:    L3N-150
+Fecha:    20201016
+Codigo:   204
+Gravedad: LEVE
+Monto:    158
+Descuento:0.5
+
+
+Licencia: 81528434
+Nombre:   EPIQUEN AVILA ENRIQUE
+Placa:    D6F-465
+Fecha:    20200216
+Codigo:   158
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 81485316
+Nombre:   JUSTINO MARTINEZ ENRIQUE
+Placa:    J5T-691
+Fecha:    20190112
+Codigo:   320
+Gravedad: GRAVE
+Monto:    711
+Puntos:   600
+Meses:    1
+
+
+Licencia: 70414420
+Nombre:   AVILA REYES TATIANA
+Placa:    U5T-348
+Fecha:    20200317
+Codigo:   113
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 48878256
+Nombre:   RAFFO CORONADO ROLANDO
+Placa:    Z4L-514
+Fecha:    20190325
+Codigo:   318
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 35671623
+Nombre:   EPIQUEN YEP GUIDA VICTORIA
+Placa:    K0T-350
+Fecha:    20200803
+Codigo:   105
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   200
+
+
+Licencia: 89941095
+Nombre:   ARCA LARRIEGA LUCERO YLIANA
+Placa:    R8O-904
+Fecha:    20200211
+Codigo:   154
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 30441350
+Nombre:   RETAMOSO SALAMANCA DELIA MARITZA
+Placa:    Q6Q-335
+Fecha:    20200520
+Codigo:   306
+Gravedad: GRAVE
+Monto:    948
+Puntos:   600
+Meses:    1
+
+
+Licencia: 27864822
+Nombre:   FIGUEROA MEDINA MADELEINE
+Placa:    T9U-338
+Fecha:    20191225
+Codigo:   134
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 90467829
+Nombre:   IPARRAGUIRRE PEREZ NICOLAS
+Placa:    C9H-661
+Fecha:    20200710
+Codigo:   148
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 16925690
+Nombre:   CABRERA TORO FANNY
+Placa:    B4I-014
+Fecha:    20200306
+Codigo:   103
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   200
+
+
+Licencia: 88854166
+Nombre:   PINTO ROJAS JUVENAL FRANCISCO
+Placa:    H3E-885
+Fecha:    20191011
+Codigo:   164
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 86718074
+Nombre:   ESCALANTE ROJAS INES ADRIA
+Placa:    L4O-783
+Fecha:    20200420
+Codigo:   334
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 27185429
+Nombre:   SOLIS CHUNG ROLANDO
+Placa:    S9I-160
+Fecha:    20191119
+Codigo:   151
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 31107104
+Nombre:   MOSCOSO ARIAS FIORELLA
+Placa:    E0I-722
+Fecha:    20190308
+Codigo:   138
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 15115705
+Nombre:   HERNANDEZ CORRALES GUILLERMO
+Placa:    N9Q-814
+Fecha:    20200115
+Codigo:   123
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 34248357
+Nombre:   LEYVA LANDEO NANCY SONIA
+Placa:    H4R-733
+Fecha:    20201103
+Codigo:   322
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 53374153
+Nombre:   SERRANO IBEROS FRANCISCO
+Placa:    V7L-069
+Fecha:    20190821
+Codigo:   134
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 31205866
+Nombre:   VIZCARRA MONTERO JAIR
+Placa:    U6A-456
+Fecha:    20191028
+Codigo:   129
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 48878256
+Nombre:   RAFFO CORONADO ROLANDO
+Placa:    G2R-979
+Fecha:    20200224
+Codigo:   328
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 63736112
+Nombre:   ZAMORA ZAVALETA RONAL MANUEL
+Placa:    K0D-676
+Fecha:    20190416
+Codigo:   160
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 77763722
+Nombre:   FARFAN SALAZAR MARGOT
+Placa:    A1Q-612
+Fecha:    20190808
+Codigo:   341
+Gravedad: GRAVE
+Monto:    5925
+Puntos:   2000
+Meses:    6
+
+
+Licencia: 32244565
+Nombre:   HENRIQUEZ PAREDES PAUL RAFAEL
+Placa:    W9L-468
+Fecha:    20200825
+Codigo:   337
+Gravedad: GRAVE
+Monto:    0
+Puntos:   2000
+Meses:    12
+
+
+Licencia: 70414420
+Nombre:   AVILA REYES TATIANA
+Placa:    U5T-348
+Fecha:    20191002
+Codigo:   144
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 77367073
+Nombre:   JAUREGUI DEL CASTILLO VICTOR RICARDO
+Placa:    H9A-097
+Fecha:    20191216
+Codigo:   134
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 21621497
+Nombre:   AYALA CASTILLO ERICKA OFELIA
+Placa:    R5I-860
+Fecha:    20200117
+Codigo:   127
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 81799482
+Nombre:   CERNA CERNA CINTHIA
+Placa:    E3U-768
+Fecha:    20190309
+Codigo:   104
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 87495937
+Nombre:   MORALES PASQUEL KARIN MARIBEL
+Placa:    C5G-743
+Fecha:    20190306
+Codigo:   141
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 81528434
+Nombre:   EPIQUEN AVILA ENRIQUE
+Placa:    D6F-465
+Fecha:    20191108
+Codigo:   133
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 71832810
+Nombre:   SUELDO SEDANO ADRIA
+Placa:    Q3M-512
+Fecha:    20200622
+Codigo:   315
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 27185429
+Nombre:   SOLIS CHUNG ROLANDO
+Placa:    S9I-160
+Fecha:    20191123
+Codigo:   332
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 54141214
+Nombre:   DURAND MIRANDA MIGUEL JUAN
+Placa:    G2I-709
+Fecha:    20200228
+Codigo:   335
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 36079131
+Nombre:   ZAVALETA VILCA ERICKA ELEONOR
+Placa:    I0W-872
+Fecha:    20190818
+Codigo:   330
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 30441350
+Nombre:   RETAMOSO SALAMANCA DELIA MARITZA
+Placa:    Q6Q-335
+Fecha:    20190901
+Codigo:   129
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 73972114
+Nombre:   AVILA MARTEL JAIME MANUEL
+Placa:    J2M-606
+Fecha:    20201213
+Codigo:   142
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 38862473
+Nombre:   WONG MAEIREIZO BEATRIZ
+Placa:    K3B-165
+Fecha:    20190314
+Codigo:   318
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 86718074
+Nombre:   ESCALANTE ROJAS INES ADRIA
+Placa:    Q6I-941
+Fecha:    20201121
+Codigo:   304
+Gravedad: GRAVE
+Monto:    3950
+Puntos:   100
+Meses:    6
+
+
+Licencia: 21621497
+Nombre:   AYALA CASTILLO ERICKA OFELIA
+Placa:    D6W-048
+Fecha:    20201216
+Codigo:   160
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 64178096
+Nombre:   VIZCARRA CARBAJAL IVAN FAUSTO
+Placa:    B7V-643
+Fecha:    20200829
+Codigo:   138
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 15115705
+Nombre:   HERNANDEZ CORRALES GUILLERMO
+Placa:    N9Q-814
+Fecha:    20191104
+Codigo:   163
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 26522329
+Nombre:   SANCHEZ DEL CASTILLO FIORELLA ROSARIO
+Placa:    W7R-114
+Fecha:    20190612
+Codigo:   332
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 27864822
+Nombre:   FIGUEROA MEDINA MADELEINE
+Placa:    T9U-338
+Fecha:    20201007
+Codigo:   302
+Gravedad: GRAVE
+Monto:    1975
+Puntos:   800
+Meses:    3
+
+
+Licencia: 90467829
+Nombre:   IPARRAGUIRRE PEREZ NICOLAS
+Placa:    K4H-445
+Fecha:    20200830
+Codigo:   305
+Gravedad: GRAVE
+Monto:    1975
+Puntos:   800
+Meses:    3
+
+
+Licencia: 24859596
+Nombre:   FLORIAN CUBA CHRISTIAN
+Placa:    L6D-758
+Fecha:    20190608
+Codigo:   328
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 88167677
+Nombre:   PRADO VERA JUAN
+Placa:    Y4Y-028
+Fecha:    20200726
+Codigo:   208
+Gravedad: LEVE
+Monto:    158
+Descuento:0.5
+
+
+Licencia: 32244565
+Nombre:   HENRIQUEZ PAREDES PAUL RAFAEL
+Placa:    M8W-853
+Fecha:    20200208
+Codigo:   137
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   200
+
+
+Licencia: 31205866
+Nombre:   VIZCARRA MONTERO JAIR
+Placa:    U6A-456
+Fecha:    20200901
+Codigo:   320
+Gravedad: GRAVE
+Monto:    711
+Puntos:   600
+Meses:    1
+
+
+Licencia: 50200823
+Nombre:   LEYVA SAM DIANA DELIA
+Placa:    H1E-399
+Fecha:    20191101
+Codigo:   114
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 99950484
+Nombre:   CORTES CORTEZ RAUL ALEX
+Placa:    L8A-167
+Fecha:    20190806
+Codigo:   141
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 79766395
+Nombre:   FUENTES ESCALANTE PATRICIA ELIZABETH
+Placa:    N6D-256
+Fecha:    20190626
+Codigo:   159
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 67185679
+Nombre:   FLORENCIO CORONADO ALONSO
+Placa:    F1F-571
+Fecha:    20190418
+Codigo:   134
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 71578206
+Nombre:   ARROYO TOMASICHE NATALIA
+Placa:    Y9F-491
+Fecha:    20200907
+Codigo:   143
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 80457845
+Nombre:   NORABUENA MOYA HECTOR
+Placa:    M7F-612
+Fecha:    20190603
+Codigo:   137
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   200
+
+
+Licencia: 75945248
+Nombre:   MEJIA RODRIGUEZ INES VALENTINA
+Placa:    K6X-977
+Fecha:    20190502
+Codigo:   331
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 71832810
+Nombre:   SUELDO SEDANO ADRIA
+Placa:    T1K-210
+Fecha:    20200412
+Codigo:   146
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 87495937
+Nombre:   MORALES PASQUEL KARIN MARIBEL
+Placa:    Z8C-558
+Fecha:    20190916
+Codigo:   304
+Gravedad: GRAVE
+Monto:    3950
+Puntos:   100
+Meses:    6
+
+
+Licencia: 68303148
+Nombre:   PATINO BOLANOS DELICIA VIRGINIA
+Placa:    H1W-140
+Fecha:    20191113
+Codigo:   160
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 96693273
+Nombre:   VALDERRAMA BERROCAL EVERT
+Placa:    F3R-138
+Fecha:    20191112
+Codigo:   142
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 73818744
+Nombre:   FUENTES GAMARRA HUGO
+Placa:    U5N-536
+Fecha:    20201128
+Codigo:   316
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 35671623
+Nombre:   EPIQUEN YEP GUIDA VICTORIA
+Placa:    V4E-749
+Fecha:    20191127
+Codigo:   315
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 21621497
+Nombre:   AYALA CASTILLO ERICKA OFELIA
+Placa:    R5I-860
+Fecha:    20200210
+Codigo:   119
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 30046639
+Nombre:   SALAMANCA VEGA VIRGINIA MARTHA
+Placa:    L8F-459
+Fecha:    20201101
+Codigo:   131
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   200
+
+
+Licencia: 24859596
+Nombre:   FLORIAN CUBA CHRISTIAN
+Placa:    A8P-118
+Fecha:    20200530
+Codigo:   125
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 43454884
+Nombre:   ESPINOZA CHANG SHIRLEY
+Placa:    G0F-080
+Fecha:    20190225
+Codigo:   203
+Gravedad: LEVE
+Monto:    158
+Descuento:0.5
+
+
+Licencia: 69252518
+Nombre:   GORDILLO SANCHEZ RONALD JUVENAL
+Placa:    P7I-760
+Fecha:    20190724
+Codigo:   148
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 86429854
+Nombre:   MOSCOSO LAURA JANET VALENTINA
+Placa:    M5U-987
+Fecha:    20200226
+Codigo:   153
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 73567806
+Nombre:   ARCA SANCHEZ MAGALI BEATRIZ
+Placa:    E2D-493
+Fecha:    20200320
+Codigo:   161
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 34248357
+Nombre:   LEYVA LANDEO NANCY SONIA
+Placa:    H4R-733
+Fecha:    20200814
+Codigo:   332
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 85501710
+Nombre:   VIZCARDO SINCHE MARIBEL
+Placa:    Z4K-431
+Fecha:    20201121
+Codigo:   311
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 63736112
+Nombre:   ZAMORA ZAVALETA RONAL MANUEL
+Placa:    T9A-930
+Fecha:    20191102
+Codigo:   147
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 86718074
+Nombre:   ESCALANTE ROJAS INES ADRIA
+Placa:    Q6I-941
+Fecha:    20200716
+Codigo:   126
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 38862473
+Nombre:   WONG MAEIREIZO BEATRIZ
+Placa:    I4B-541
+Fecha:    20190915
+Codigo:   339
+Gravedad: GRAVE
+Monto:    0
+Puntos:   2000
+Meses:    12
+
+
+Licencia: 79672079
+Nombre:   CONTRERAS CHANG JOHANA CINTHIA
+Placa:    Y3Q-331
+Fecha:    20200301
+Codigo:   205
+Gravedad: LEVE
+Monto:    158
+Descuento:0.5
+
+
+Licencia: 90467829
+Nombre:   IPARRAGUIRRE PEREZ NICOLAS
+Placa:    X8U-894
+Fecha:    20200824
+Codigo:   126
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 90467829
+Nombre:   IPARRAGUIRRE PEREZ NICOLAS
+Placa:    H1R-953
+Fecha:    20190513
+Codigo:   308
+Gravedad: GRAVE
+Monto:    948
+Puntos:   600
+Meses:    1
+
+
+Licencia: 27268323
+Nombre:   LOZADA IBEROS HELI BLANCA
+Placa:    L6Z-161
+Fecha:    20190625
+Codigo:   106
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 77367073
+Nombre:   JAUREGUI DEL CASTILLO VICTOR RICARDO
+Placa:    N7K-403
+Fecha:    20191205
+Codigo:   127
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 29833157
+Nombre:   HIJAR LAM MARTIN
+Placa:    I9F-484
+Fecha:    20200625
+Codigo:   165
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 74325123
+Nombre:   TANG MOSCOSO JOHANA
+Placa:    C2V-710
+Fecha:    20191102
+Codigo:   306
+Gravedad: GRAVE
+Monto:    948
+Puntos:   600
+Meses:    1
+
+
+Licencia: 52002275
+Nombre:   CASANOVA ZEGARRA MARITZA
+Placa:    C0S-417
+Fecha:    20190122
+Codigo:   117
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 34976629
+Nombre:   LOZADA ARGUEDAS FELICITA VALENTINA
+Placa:    J8B-303
+Fecha:    20200828
+Codigo:   134
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 32244565
+Nombre:   HENRIQUEZ PAREDES PAUL RAFAEL
+Placa:    M8W-853
+Fecha:    20201209
+Codigo:   207
+Gravedad: LEVE
+Monto:    158
+Descuento:0.5
+
+
+Licencia: 67185679
+Nombre:   FLORENCIO CORONADO ALONSO
+Placa:    F1F-571
+Fecha:    20200102
+Codigo:   112
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 60784914
+Nombre:   RUIZ ZEVALLOS WALTER RONY
+Placa:    C6Q-548
+Fecha:    20200818
+Codigo:   307
+Gravedad: GRAVE
+Monto:    948
+Puntos:   600
+Meses:    1
+
+
+Licencia: 87495937
+Nombre:   MORALES PASQUEL KARIN MARIBEL
+Placa:    M5G-669
+Fecha:    20190215
+Codigo:   304
+Gravedad: GRAVE
+Monto:    3950
+Puntos:   100
+Meses:    6
+
+
+Licencia: 80310768
+Nombre:   MINAYA BERROCAL HELI
+Placa:    M1E-751
+Fecha:    20190515
+Codigo:   208
+Gravedad: LEVE
+Monto:    158
+Descuento:0.5
+
+
+Licencia: 49927087
+Nombre:   INGA PALOMARES ERIKA
+Placa:    X3E-271
+Fecha:    20190601
+Codigo:   145
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 88167677
+Nombre:   PRADO VERA JUAN
+Placa:    V7U-622
+Fecha:    20200410
+Codigo:   316
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 89941095
+Nombre:   ARCA LARRIEGA LUCERO YLIANA
+Placa:    P6N-119
+Fecha:    20200910
+Codigo:   341
+Gravedad: GRAVE
+Monto:    5925
+Puntos:   2000
+Meses:    6
+
+
+Licencia: 86718074
+Nombre:   ESCALANTE ROJAS INES ADRIA
+Placa:    Q6I-941
+Fecha:    20190617
+Codigo:   203
+Gravedad: LEVE
+Monto:    158
+Descuento:0.5
+
+
+Licencia: 50200823
+Nombre:   LEYVA SAM DIANA DELIA
+Placa:    Q6C-943
+Fecha:    20190215
+Codigo:   165
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 81485316
+Nombre:   JUSTINO MARTINEZ ENRIQUE
+Placa:    F1O-596
+Fecha:    20200115
+Codigo:   121
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   200
+
+
+Licencia: 96693273
+Nombre:   VALDERRAMA BERROCAL EVERT
+Placa:    C0G-556
+Fecha:    20201113
+Codigo:   306
+Gravedad: GRAVE
+Monto:    948
+Puntos:   600
+Meses:    1
+
+
+Licencia: 81485316
+Nombre:   JUSTINO MARTINEZ ENRIQUE
+Placa:    F1O-596
+Fecha:    20200206
+Codigo:   301
+Gravedad: GRAVE
+Monto:    3950
+Puntos:   1000
+Meses:    6
+
+
+Licencia: 50201756
+Nombre:   ZEGARRA PENA CARMELA
+Placa:    X8O-807
+Fecha:    20200807
+Codigo:   315
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 50200823
+Nombre:   LEYVA SAM DIANA DELIA
+Placa:    R0P-255
+Fecha:    20190928
+Codigo:   111
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 16477908
+Nombre:   BACA CAMACHO MILAGROS NATALIA
+Placa:    W7C-957
+Fecha:    20191230
+Codigo:   146
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 30046639
+Nombre:   SALAMANCA VEGA VIRGINIA MARTHA
+Placa:    P6I-223
+Fecha:    20201219
+Codigo:   108
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 47528229
+Nombre:   SAAVEDRA GONZALES WILMER
+Placa:    U0N-343
+Fecha:    20200524
+Codigo:   317
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 60784914
+Nombre:   RUIZ ZEVALLOS WALTER RONY
+Placa:    C6Q-548
+Fecha:    20191125
+Codigo:   116
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 26522329
+Nombre:   SANCHEZ DEL CASTILLO FIORELLA ROSARIO
+Placa:    U7R-252
+Fecha:    20190615
+Codigo:   164
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 74325123
+Nombre:   TANG MOSCOSO JOHANA
+Placa:    H0E-855
+Fecha:    20190912
+Codigo:   143
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 71832810
+Nombre:   SUELDO SEDANO ADRIA
+Placa:    Q3M-512
+Fecha:    20200114
+Codigo:   109
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   200
+
+
+Licencia: 35912665
+Nombre:   MARTINEZ CRUZ EVERT RONY
+Placa:    O2Z-308
+Fecha:    20190323
+Codigo:   126
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 99950484
+Nombre:   CORTES CORTEZ RAUL ALEX
+Placa:    Y9W-731
+Fecha:    20190930
+Codigo:   329
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 73972114
+Nombre:   AVILA MARTEL JAIME MANUEL
+Placa:    J2M-606
+Fecha:    20190317
+Codigo:   320
+Gravedad: GRAVE
+Monto:    711
+Puntos:   600
+Meses:    1
+
+
+Licencia: 54447051
+Nombre:   AVILA DEL CASTILLO ANNIE
+Placa:    G3Y-654
+Fecha:    20190130
+Codigo:   304
+Gravedad: GRAVE
+Monto:    3950
+Puntos:   100
+Meses:    6
+
+
+Licencia: 84186239
+Nombre:   RIVERO CORONADO HECTOR ALONSO
+Placa:    T6W-978
+Fecha:    20200406
+Codigo:   208
+Gravedad: LEVE
+Monto:    158
+Descuento:0.5
+
+
+Licencia: 66849703
+Nombre:   MERCADO CORONEL ELIA
+Placa:    B4N-777
+Fecha:    20200706
+Codigo:   307
+Gravedad: GRAVE
+Monto:    948
+Puntos:   600
+Meses:    1
+
+
+Licencia: 13219606
+Nombre:   RODRIGUEZ MORENO BLANCA OFELIA
+Placa:    N1O-921
+Fecha:    20200910
+Codigo:   328
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 25518120
+Nombre:   RONDON CABRERA ALEXANDER ADOLFO
+Placa:    E1J-798
+Fecha:    20190401
+Codigo:   122
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 26522329
+Nombre:   SANCHEZ DEL CASTILLO FIORELLA ROSARIO
+Placa:    W7R-114
+Fecha:    20190110
+Codigo:   323
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 84186239
+Nombre:   RIVERO CORONADO HECTOR ALONSO
+Placa:    W9Y-717
+Fecha:    20190406
+Codigo:   153
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 87495937
+Nombre:   MORALES PASQUEL KARIN MARIBEL
+Placa:    M5G-669
+Fecha:    20200711
+Codigo:   205
+Gravedad: LEVE
+Monto:    158
+Descuento:0.5
+
+
+Licencia: 54665716
+Nombre:   GONZALES GAMARRA GIOVANA KARINA
+Placa:    D2V-055
+Fecha:    20200602
+Codigo:   204
+Gravedad: LEVE
+Monto:    158
+Descuento:0.5
+
+
+Licencia: 30046639
+Nombre:   SALAMANCA VEGA VIRGINIA MARTHA
+Placa:    S3F-021
+Fecha:    20200420
+Codigo:   155
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 96693273
+Nombre:   VALDERRAMA BERROCAL EVERT
+Placa:    F3R-138
+Fecha:    20201118
+Codigo:   324
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 21621497
+Nombre:   AYALA CASTILLO ERICKA OFELIA
+Placa:    Z7C-785
+Fecha:    20190226
+Codigo:   205
+Gravedad: LEVE
+Monto:    158
+Descuento:0.5
+
+
+Licencia: 31107104
+Nombre:   MOSCOSO ARIAS FIORELLA
+Placa:    E0I-722
+Fecha:    20191231
+Codigo:   154
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 44188994
+Nombre:   VILCARA YALLICO MAGALI
+Placa:    M0X-657
+Fecha:    20200813
+Codigo:   126
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 82031355
+Nombre:   EGUSQUIZA BERROCAL DORIS NANCY
+Placa:    H6X-124
+Fecha:    20200809
+Codigo:   311
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 47528229
+Nombre:   SAAVEDRA GONZALES WILMER
+Placa:    U0N-343
+Fecha:    20191021
+Codigo:   158
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 63736112
+Nombre:   ZAMORA ZAVALETA RONAL MANUEL
+Placa:    K0D-676
+Fecha:    20200126
+Codigo:   107
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 60784914
+Nombre:   RUIZ ZEVALLOS WALTER RONY
+Placa:    P4Y-758
+Fecha:    20191031
+Codigo:   165
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 53853385
+Nombre:   SOLIS NARVAEZ MARIA MADELEINE
+Placa:    R6P-267
+Fecha:    20190523
+Codigo:   104
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 38862473
+Nombre:   WONG MAEIREIZO BEATRIZ
+Placa:    K3B-165
+Fecha:    20190515
+Codigo:   328
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 84186239
+Nombre:   RIVERO CORONADO HECTOR ALONSO
+Placa:    W9Y-717
+Fecha:    20190812
+Codigo:   322
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 60784914
+Nombre:   RUIZ ZEVALLOS WALTER RONY
+Placa:    P4Y-758
+Fecha:    20190814
+Codigo:   139
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 38862473
+Nombre:   WONG MAEIREIZO BEATRIZ
+Placa:    I4B-541
+Fecha:    20190826
+Codigo:   309
+Gravedad: GRAVE
+Monto:    948
+Puntos:   600
+Meses:    1
+
+
+Licencia: 67185679
+Nombre:   FLORENCIO CORONADO ALONSO
+Placa:    I2P-193
+Fecha:    20200324
+Codigo:   115
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   200
+
+
+Licencia: 60335381
+Nombre:   DIAZ TANG ENRIQUE
+Placa:    E6T-667
+Fecha:    20200925
+Codigo:   341
+Gravedad: GRAVE
+Monto:    5925
+Puntos:   2000
+Meses:    6
+
+
+Licencia: 77763722
+Nombre:   FARFAN SALAZAR MARGOT
+Placa:    D1M-667
+Fecha:    20190319
+Codigo:   304
+Gravedad: GRAVE
+Monto:    3950
+Puntos:   100
+Meses:    6
+
+
+Licencia: 89941095
+Nombre:   ARCA LARRIEGA LUCERO YLIANA
+Placa:    R8O-904
+Fecha:    20190404
+Codigo:   147
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 44188994
+Nombre:   VILCARA YALLICO MAGALI
+Placa:    M0X-657
+Fecha:    20191006
+Codigo:   126
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 42956681
+Nombre:   POMAJAMBO EGUSQUIZA PAUL
+Placa:    L8Z-555
+Fecha:    20190801
+Codigo:   122
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 64178096
+Nombre:   VIZCARRA CARBAJAL IVAN FAUSTO
+Placa:    B7V-643
+Fecha:    20190929
+Codigo:   322
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 80457845
+Nombre:   NORABUENA MOYA HECTOR
+Placa:    M7F-612
+Fecha:    20191112
+Codigo:   323
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 50200823
+Nombre:   LEYVA SAM DIANA DELIA
+Placa:    R0P-255
+Fecha:    20191031
+Codigo:   139
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 13219606
+Nombre:   RODRIGUEZ MORENO BLANCA OFELIA
+Placa:    N1O-921
+Fecha:    20200103
+Codigo:   115
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   200
+
+
+Licencia: 73567806
+Nombre:   ARCA SANCHEZ MAGALI BEATRIZ
+Placa:    Q9D-870
+Fecha:    20200123
+Codigo:   334
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 52002275
+Nombre:   CASANOVA ZEGARRA MARITZA
+Placa:    C0S-417
+Fecha:    20201231
+Codigo:   202
+Gravedad: LEVE
+Monto:    158
+Descuento:0.5
+
+
+Licencia: 99950484
+Nombre:   CORTES CORTEZ RAUL ALEX
+Placa:    Y6I-680
+Fecha:    20190528
+Codigo:   166
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 82870470
+Nombre:   SEDANO RETAMOSO ELIA YOLANDA
+Placa:    K0H-387
+Fecha:    20200306
+Codigo:   112
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 50200823
+Nombre:   LEYVA SAM DIANA DELIA
+Placa:    R0P-255
+Fecha:    20200209
+Codigo:   108
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 67185679
+Nombre:   FLORENCIO CORONADO ALONSO
+Placa:    I2P-193
+Fecha:    20200711
+Codigo:   332
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 27864822
+Nombre:   FIGUEROA MEDINA MADELEINE
+Placa:    R5C-239
+Fecha:    20190610
+Codigo:   137
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   200
+
+
+Licencia: 68310808
+Nombre:   CANO POLO MILAGROS ISABEL
+Placa:    K2N-341
+Fecha:    20200907
+Codigo:   133
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 53374153
+Nombre:   SERRANO IBEROS FRANCISCO
+Placa:    V7L-069
+Fecha:    20200112
+Codigo:   325
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 29989682
+Nombre:   CAMACHO PAIRAZAMAN YDALI LUCERO
+Placa:    B1J-773
+Fecha:    20190228
+Codigo:   115
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   200
+
+
+Licencia: 12858682
+Nombre:   ZARATE PEREZ ALEXANDER
+Placa:    T5L-371
+Fecha:    20200725
+Codigo:   153
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 63291514
+Nombre:   LAU ZAVALETA YDALI ELIA
+Placa:    Z1A-459
+Fecha:    20201229
+Codigo:   122
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 54447051
+Nombre:   AVILA DEL CASTILLO ANNIE
+Placa:    G3Y-654
+Fecha:    20200816
+Codigo:   163
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 48878256
+Nombre:   RAFFO CORONADO ROLANDO
+Placa:    W6Z-142
+Fecha:    20190806
+Codigo:   305
+Gravedad: GRAVE
+Monto:    1975
+Puntos:   800
+Meses:    3
+
+
+Licencia: 52003695
+Nombre:   CARBAJAL SALAS MAGDA ZKENIA
+Placa:    H8S-849
+Fecha:    20201124
+Codigo:   130
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 31107104
+Nombre:   MOSCOSO ARIAS FIORELLA
+Placa:    O3T-110
+Fecha:    20200629
+Codigo:   145
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 34976629
+Nombre:   LOZADA ARGUEDAS FELICITA VALENTINA
+Placa:    I0Y-720
+Fecha:    20201128
+Codigo:   311
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 27864822
+Nombre:   FIGUEROA MEDINA MADELEINE
+Placa:    T9U-338
+Fecha:    20190318
+Codigo:   208
+Gravedad: LEVE
+Monto:    158
+Descuento:0.5
+
+
+Licencia: 48528209
+Nombre:   ZAVALETA CORONADO FELICITA ELOISA
+Placa:    T9L-709
+Fecha:    20200404
+Codigo:   304
+Gravedad: GRAVE
+Monto:    3950
+Puntos:   100
+Meses:    6
+
+
+Licencia: 68310808
+Nombre:   CANO POLO MILAGROS ISABEL
+Placa:    K2N-341
+Fecha:    20200714
+Codigo:   139
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 30441350
+Nombre:   RETAMOSO SALAMANCA DELIA MARITZA
+Placa:    X0F-315
+Fecha:    20200521
+Codigo:   154
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 63291514
+Nombre:   LAU ZAVALETA YDALI ELIA
+Placa:    Z1A-459
+Fecha:    20190927
+Codigo:   124
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 70414420
+Nombre:   AVILA REYES TATIANA
+Placa:    V9J-051
+Fecha:    20200109
+Codigo:   138
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 36079131
+Nombre:   ZAVALETA VILCA ERICKA ELEONOR
+Placa:    I0W-872
+Fecha:    20190625
+Codigo:   301
+Gravedad: GRAVE
+Monto:    3950
+Puntos:   1000
+Meses:    6
+
+
+Licencia: 81799482
+Nombre:   CERNA CERNA CINTHIA
+Placa:    V7P-711
+Fecha:    20191007
+Codigo:   309
+Gravedad: GRAVE
+Monto:    948
+Puntos:   600
+Meses:    1
+
+
+Licencia: 79672079
+Nombre:   CONTRERAS CHANG JOHANA CINTHIA
+Placa:    O3H-954
+Fecha:    20190330
+Codigo:   334
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 15559308
+Nombre:   BRAVO CORTES JANET FLOR
+Placa:    W1S-239
+Fecha:    20200207
+Codigo:   145
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 30046639
+Nombre:   SALAMANCA VEGA VIRGINIA MARTHA
+Placa:    P6I-223
+Fecha:    20200812
+Codigo:   130
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 68310808
+Nombre:   CANO POLO MILAGROS ISABEL
+Placa:    X6M-077
+Fecha:    20190307
+Codigo:   164
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 67185679
+Nombre:   FLORENCIO CORONADO ALONSO
+Placa:    I2P-193
+Fecha:    20200628
+Codigo:   152
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 12270502
+Nombre:   CUEVA FUENTES CINTHIA DELIA
+Placa:    Y5F-449
+Fecha:    20200101
+Codigo:   331
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 96693273
+Nombre:   VALDERRAMA BERROCAL EVERT
+Placa:    B9X-420
+Fecha:    20190530
+Codigo:   322
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 67185679
+Nombre:   FLORENCIO CORONADO ALONSO
+Placa:    I2P-193
+Fecha:    20200716
+Codigo:   141
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 74325123
+Nombre:   TANG MOSCOSO JOHANA
+Placa:    C2V-710
+Fecha:    20190816
+Codigo:   305
+Gravedad: GRAVE
+Monto:    1975
+Puntos:   800
+Meses:    3
+
+
+Licencia: 15559308
+Nombre:   BRAVO CORTES JANET FLOR
+Placa:    T8F-368
+Fecha:    20190927
+Codigo:   140
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 32090869
+Nombre:   SUELDO ANTEZANO LUIS JESUS
+Placa:    L4B-291
+Fecha:    20191018
+Codigo:   145
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 29989682
+Nombre:   CAMACHO PAIRAZAMAN YDALI LUCERO
+Placa:    W3T-571
+Fecha:    20191203
+Codigo:   302
+Gravedad: GRAVE
+Monto:    1975
+Puntos:   800
+Meses:    3
+
+
+Licencia: 58992942
+Nombre:   NARVAEZ CASTILLO JESUS RAFAEL
+Placa:    Q6B-243
+Fecha:    20200505
+Codigo:   323
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 85501710
+Nombre:   VIZCARDO SINCHE MARIBEL
+Placa:    N2C-590
+Fecha:    20190121
+Codigo:   206
+Gravedad: LEVE
+Monto:    158
+Descuento:0.5
+
+
+Licencia: 54447051
+Nombre:   AVILA DEL CASTILLO ANNIE
+Placa:    D5W-773
+Fecha:    20190616
+Codigo:   130
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 87495937
+Nombre:   MORALES PASQUEL KARIN MARIBEL
+Placa:    M5G-669
+Fecha:    20190516
+Codigo:   109
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   200
+
+
+Licencia: 69252518
+Nombre:   GORDILLO SANCHEZ RONALD JUVENAL
+Placa:    Y0Y-415
+Fecha:    20190709
+Codigo:   115
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   200
+
+
+Licencia: 38862473
+Nombre:   WONG MAEIREIZO BEATRIZ
+Placa:    S6Y-726
+Fecha:    20190824
+Codigo:   324
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 79641328
+Nombre:   TOKESHI GUEVARA JAIME
+Placa:    B4R-105
+Fecha:    20190320
+Codigo:   301
+Gravedad: GRAVE
+Monto:    3950
+Puntos:   1000
+Meses:    6
+
+
+Licencia: 71832810
+Nombre:   SUELDO SEDANO ADRIA
+Placa:    T1K-210
+Fecha:    20190628
+Codigo:   128
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 87495937
+Nombre:   MORALES PASQUEL KARIN MARIBEL
+Placa:    M5G-669
+Fecha:    20200215
+Codigo:   326
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 48450395
+Nombre:   RAMIREZ ASTETE KARINA ESTEFANIA
+Placa:    H6H-085
+Fecha:    20191105
+Codigo:   325
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 87495937
+Nombre:   MORALES PASQUEL KARIN MARIBEL
+Placa:    C5G-743
+Fecha:    20200208
+Codigo:   312
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 88167677
+Nombre:   PRADO VERA JUAN
+Placa:    B4C-100
+Fecha:    20200517
+Codigo:   108
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 64178096
+Nombre:   VIZCARRA CARBAJAL IVAN FAUSTO
+Placa:    I0X-469
+Fecha:    20200426
+Codigo:   125
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 53374153
+Nombre:   SERRANO IBEROS FRANCISCO
+Placa:    R2T-476
+Fecha:    20190905
+Codigo:   101
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   200
+
+
+Licencia: 30441350
+Nombre:   RETAMOSO SALAMANCA DELIA MARITZA
+Placa:    T7F-869
+Fecha:    20200820
+Codigo:   105
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   200
+
+
+Licencia: 12858682
+Nombre:   ZARATE PEREZ ALEXANDER
+Placa:    T5L-371
+Fecha:    20190627
+Codigo:   337
+Gravedad: GRAVE
+Monto:    0
+Puntos:   2000
+Meses:    12
+
+
+Licencia: 85501710
+Nombre:   VIZCARDO SINCHE MARIBEL
+Placa:    Z4K-431
+Fecha:    20190726
+Codigo:   122
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 19963454
+Nombre:   SALAMANCA CABRERA NESTOR EVERT
+Placa:    T9D-604
+Fecha:    20191107
+Codigo:   315
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 30441350
+Nombre:   RETAMOSO SALAMANCA DELIA MARITZA
+Placa:    X0F-315
+Fecha:    20190304
+Codigo:   324
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 75348522
+Nombre:   LOZADA FORZANI DELIA
+Placa:    P5B-640
+Fecha:    20200816
+Codigo:   135
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 29833157
+Nombre:   HIJAR LAM MARTIN
+Placa:    I9F-484
+Fecha:    20190217
+Codigo:   201
+Gravedad: LEVE
+Monto:    158
+Descuento:0.5
+
+
+Licencia: 31107104
+Nombre:   MOSCOSO ARIAS FIORELLA
+Placa:    O3T-110
+Fecha:    20190619
+Codigo:   301
+Gravedad: GRAVE
+Monto:    3950
+Puntos:   1000
+Meses:    6
+
+
+Licencia: 84186239
+Nombre:   RIVERO CORONADO HECTOR ALONSO
+Placa:    T6W-978
+Fecha:    20200624
+Codigo:   112
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 73972114
+Nombre:   AVILA MARTEL JAIME MANUEL
+Placa:    J2M-606
+Fecha:    20200204
+Codigo:   204
+Gravedad: LEVE
+Monto:    158
+Descuento:0.5
+
+
+Licencia: 50201756
+Nombre:   ZEGARRA PENA CARMELA
+Placa:    K5K-595
+Fecha:    20200920
+Codigo:   124
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 25518120
+Nombre:   RONDON CABRERA ALEXANDER ADOLFO
+Placa:    F2C-703
+Fecha:    20190321
+Codigo:   121
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   200
+
+
+Licencia: 79672079
+Nombre:   CONTRERAS CHANG JOHANA CINTHIA
+Placa:    O3H-954
+Fecha:    20190109
+Codigo:   305
+Gravedad: GRAVE
+Monto:    1975
+Puntos:   800
+Meses:    3
+
+
+Licencia: 87495937
+Nombre:   MORALES PASQUEL KARIN MARIBEL
+Placa:    M5G-669
+Fecha:    20201016
+Codigo:   105
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   200
+
+
+Licencia: 64532449
+Nombre:   INFANTES MERCADO LUIS WALDEMAR
+Placa:    J0V-437
+Fecha:    20200723
+Codigo:   126
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 77367073
+Nombre:   JAUREGUI DEL CASTILLO VICTOR RICARDO
+Placa:    W4W-684
+Fecha:    20190114
+Codigo:   336
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 15559308
+Nombre:   BRAVO CORTES JANET FLOR
+Placa:    S3L-803
+Fecha:    20191126
+Codigo:   133
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 47528229
+Nombre:   SAAVEDRA GONZALES WILMER
+Placa:    I4H-529
+Fecha:    20190814
+Codigo:   307
+Gravedad: GRAVE
+Monto:    948
+Puntos:   600
+Meses:    1
+
+
+Licencia: 24859596
+Nombre:   FLORIAN CUBA CHRISTIAN
+Placa:    L6D-758
+Fecha:    20200819
+Codigo:   312
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 52002275
+Nombre:   CASANOVA ZEGARRA MARITZA
+Placa:    C0S-417
+Fecha:    20190915
+Codigo:   110
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 24859596
+Nombre:   FLORIAN CUBA CHRISTIAN
+Placa:    A8P-118
+Fecha:    20200511
+Codigo:   106
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 15029228
+Nombre:   VALVERDE MAEIREIZO MELVIN JAIR
+Placa:    N0Z-560
+Fecha:    20190530
+Codigo:   206
+Gravedad: LEVE
+Monto:    158
+Descuento:0.5
+
+
+Licencia: 15559308
+Nombre:   BRAVO CORTES JANET FLOR
+Placa:    T8F-368
+Fecha:    20190223
+Codigo:   156
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   200
+
+
+Licencia: 64178096
+Nombre:   VIZCARRA CARBAJAL IVAN FAUSTO
+Placa:    I0X-469
+Fecha:    20191004
+Codigo:   207
+Gravedad: LEVE
+Monto:    158
+Descuento:0.5
+
+
+Licencia: 74325123
+Nombre:   TANG MOSCOSO JOHANA
+Placa:    V9F-655
+Fecha:    20201007
+Codigo:   205
+Gravedad: LEVE
+Monto:    158
+Descuento:0.5
+
+
+Licencia: 69252518
+Nombre:   GORDILLO SANCHEZ RONALD JUVENAL
+Placa:    Y0Y-415
+Fecha:    20190626
+Codigo:   163
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 54447051
+Nombre:   AVILA DEL CASTILLO ANNIE
+Placa:    G3Y-654
+Fecha:    20191001
+Codigo:   133
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 79766395
+Nombre:   FUENTES ESCALANTE PATRICIA ELIZABETH
+Placa:    H7P-047
+Fecha:    20191102
+Codigo:   149
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 64178096
+Nombre:   VIZCARRA CARBAJAL IVAN FAUSTO
+Placa:    I0X-469
+Fecha:    20200312
+Codigo:   118
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 49927087
+Nombre:   INGA PALOMARES ERIKA
+Placa:    G7B-252
+Fecha:    20200309
+Codigo:   101
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   200
+
+
+Licencia: 71578206
+Nombre:   ARROYO TOMASICHE NATALIA
+Placa:    L4H-670
+Fecha:    20201212
+Codigo:   324
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 43454884
+Nombre:   ESPINOZA CHANG SHIRLEY
+Placa:    P6Z-734
+Fecha:    20190317
+Codigo:   320
+Gravedad: GRAVE
+Monto:    711
+Puntos:   600
+Meses:    1
+
+
+Licencia: 99950484
+Nombre:   CORTES CORTEZ RAUL ALEX
+Placa:    X0R-946
+Fecha:    20191017
+Codigo:   101
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   200
+
+
+Licencia: 34248357
+Nombre:   LEYVA LANDEO NANCY SONIA
+Placa:    U0T-459
+Fecha:    20190207
+Codigo:   157
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 70414420
+Nombre:   AVILA REYES TATIANA
+Placa:    V9J-051
+Fecha:    20190104
+Codigo:   338
+Gravedad: GRAVE
+Monto:    0
+Puntos:   2000
+Meses:    12
+
+
+Licencia: 85501710
+Nombre:   VIZCARDO SINCHE MARIBEL
+Placa:    N2C-590
+Fecha:    20200824
+Codigo:   339
+Gravedad: GRAVE
+Monto:    0
+Puntos:   2000
+Meses:    12
+
+
+Licencia: 87282766
+Nombre:   SUAREZ CHANG GLORIA
+Placa:    S1D-093
+Fecha:    20200206
+Codigo:   123
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 34976629
+Nombre:   LOZADA ARGUEDAS FELICITA VALENTINA
+Placa:    I0Y-720
+Fecha:    20191217
+Codigo:   201
+Gravedad: LEVE
+Monto:    158
+Descuento:0.5
+
+
+Licencia: 13219606
+Nombre:   RODRIGUEZ MORENO BLANCA OFELIA
+Placa:    T3B-722
+Fecha:    20200510
+Codigo:   101
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   200
+
+
+Licencia: 96693273
+Nombre:   VALDERRAMA BERROCAL EVERT
+Placa:    C0G-556
+Fecha:    20200415
+Codigo:   109
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   200
+
+
+Licencia: 96693273
+Nombre:   VALDERRAMA BERROCAL EVERT
+Placa:    B9X-420
+Fecha:    20200319
+Codigo:   333
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 30441350
+Nombre:   RETAMOSO SALAMANCA DELIA MARITZA
+Placa:    M9Z-497
+Fecha:    20201123
+Codigo:   208
+Gravedad: LEVE
+Monto:    158
+Descuento:0.5
+
+
+Licencia: 34248357
+Nombre:   LEYVA LANDEO NANCY SONIA
+Placa:    H4R-733
+Fecha:    20200418
+Codigo:   163
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 77367073
+Nombre:   JAUREGUI DEL CASTILLO VICTOR RICARDO
+Placa:    H9A-097
+Fecha:    20200928
+Codigo:   111
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 60335381
+Nombre:   DIAZ TANG ENRIQUE
+Placa:    B3U-845
+Fecha:    20200204
+Codigo:   307
+Gravedad: GRAVE
+Monto:    948
+Puntos:   600
+Meses:    1
+
+
+Licencia: 68303148
+Nombre:   PATINO BOLANOS DELICIA VIRGINIA
+Placa:    H1W-140
+Fecha:    20201028
+Codigo:   203
+Gravedad: LEVE
+Monto:    158
+Descuento:0.5
+
+
+Licencia: 27864822
+Nombre:   FIGUEROA MEDINA MADELEINE
+Placa:    T9U-338
+Fecha:    20190330
+Codigo:   326
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 81485316
+Nombre:   JUSTINO MARTINEZ ENRIQUE
+Placa:    F1O-596
+Fecha:    20190714
+Codigo:   339
+Gravedad: GRAVE
+Monto:    0
+Puntos:   2000
+Meses:    12
+
+
+Licencia: 38862473
+Nombre:   WONG MAEIREIZO BEATRIZ
+Placa:    S6Y-726
+Fecha:    20200305
+Codigo:   163
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 54447051
+Nombre:   AVILA DEL CASTILLO ANNIE
+Placa:    U5L-205
+Fecha:    20190928
+Codigo:   150
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 60335381
+Nombre:   DIAZ TANG ENRIQUE
+Placa:    B3U-845
+Fecha:    20200922
+Codigo:   133
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 77367073
+Nombre:   JAUREGUI DEL CASTILLO VICTOR RICARDO
+Placa:    N7K-403
+Fecha:    20190117
+Codigo:   132
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 34248357
+Nombre:   LEYVA LANDEO NANCY SONIA
+Placa:    H4R-733
+Fecha:    20200920
+Codigo:   106
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 32090869
+Nombre:   SUELDO ANTEZANO LUIS JESUS
+Placa:    L4B-291
+Fecha:    20200408
+Codigo:   114
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 43454884
+Nombre:   ESPINOZA CHANG SHIRLEY
+Placa:    G0F-080
+Fecha:    20201113
+Codigo:   153
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 27864822
+Nombre:   FIGUEROA MEDINA MADELEINE
+Placa:    T9U-338
+Fecha:    20190718
+Codigo:   321
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 88854166
+Nombre:   PINTO ROJAS JUVENAL FRANCISCO
+Placa:    L3N-150
+Fecha:    20200722
+Codigo:   166
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 70414420
+Nombre:   AVILA REYES TATIANA
+Placa:    U5T-348
+Fecha:    20190311
+Codigo:   106
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 36079131
+Nombre:   ZAVALETA VILCA ERICKA ELEONOR
+Placa:    H5S-788
+Fecha:    20200708
+Codigo:   317
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 79766395
+Nombre:   FUENTES ESCALANTE PATRICIA ELIZABETH
+Placa:    H7P-047
+Fecha:    20200624
+Codigo:   325
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 79766395
+Nombre:   FUENTES ESCALANTE PATRICIA ELIZABETH
+Placa:    T3R-184
+Fecha:    20201030
+Codigo:   111
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 32090869
+Nombre:   SUELDO ANTEZANO LUIS JESUS
+Placa:    L4B-291
+Fecha:    20200927
+Codigo:   147
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 74325123
+Nombre:   TANG MOSCOSO JOHANA
+Placa:    V9F-655
+Fecha:    20200524
+Codigo:   309
+Gravedad: GRAVE
+Monto:    948
+Puntos:   600
+Meses:    1
+
+
+Licencia: 26522329
+Nombre:   SANCHEZ DEL CASTILLO FIORELLA ROSARIO
+Placa:    W7R-114
+Fecha:    20190515
+Codigo:   306
+Gravedad: GRAVE
+Monto:    948
+Puntos:   600
+Meses:    1
+
+
+Licencia: 79672079
+Nombre:   CONTRERAS CHANG JOHANA CINTHIA
+Placa:    R7U-941
+Fecha:    20200327
+Codigo:   305
+Gravedad: GRAVE
+Monto:    1975
+Puntos:   800
+Meses:    3
+
+
+Licencia: 54141214
+Nombre:   DURAND MIRANDA MIGUEL JUAN
+Placa:    J7Y-327
+Fecha:    20200830
+Codigo:   147
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 80457845
+Nombre:   NORABUENA MOYA HECTOR
+Placa:    Z5G-762
+Fecha:    20190218
+Codigo:   202
+Gravedad: LEVE
+Monto:    158
+Descuento:0.5
+
+
+Licencia: 35912665
+Nombre:   MARTINEZ CRUZ EVERT RONY
+Placa:    O2Z-308
+Fecha:    20190425
+Codigo:   160
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 79672079
+Nombre:   CONTRERAS CHANG JOHANA CINTHIA
+Placa:    O3H-954
+Fecha:    20200405
+Codigo:   115
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   200
+
+
+Licencia: 12270502
+Nombre:   CUEVA FUENTES CINTHIA DELIA
+Placa:    O1C-880
+Fecha:    20201011
+Codigo:   312
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 47528229
+Nombre:   SAAVEDRA GONZALES WILMER
+Placa:    I4H-529
+Fecha:    20201109
+Codigo:   154
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 42956681
+Nombre:   POMAJAMBO EGUSQUIZA PAUL
+Placa:    E0L-862
+Fecha:    20190710
+Codigo:   145
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 73357516
+Nombre:   TRIGUEROS JUGO LUZ
+Placa:    E6R-293
+Fecha:    20190521
+Codigo:   147
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 97849227
+Nombre:   PRADO ESPINOZA MILAGROS
+Placa:    I0K-077
+Fecha:    20200802
+Codigo:   104
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 79641328
+Nombre:   TOKESHI GUEVARA JAIME
+Placa:    L0L-653
+Fecha:    20191119
+Codigo:   148
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 68310808
+Nombre:   CANO POLO MILAGROS ISABEL
+Placa:    K2N-341
+Fecha:    20200330
+Codigo:   160
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 71578206
+Nombre:   ARROYO TOMASICHE NATALIA
+Placa:    G7Z-721
+Fecha:    20190621
+Codigo:   125
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 47528229
+Nombre:   SAAVEDRA GONZALES WILMER
+Placa:    T8Y-354
+Fecha:    20190903
+Codigo:   163
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 30046639
+Nombre:   SALAMANCA VEGA VIRGINIA MARTHA
+Placa:    P6I-223
+Fecha:    20200322
+Codigo:   205
+Gravedad: LEVE
+Monto:    158
+Descuento:0.5
+
+
+Licencia: 15559308
+Nombre:   BRAVO CORTES JANET FLOR
+Placa:    W1S-239
+Fecha:    20200905
+Codigo:   164
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 87495937
+Nombre:   MORALES PASQUEL KARIN MARIBEL
+Placa:    Z8C-558
+Fecha:    20190510
+Codigo:   121
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   200
+
+
+Licencia: 80310768
+Nombre:   MINAYA BERROCAL HELI
+Placa:    M1E-751
+Fecha:    20191026
+Codigo:   341
+Gravedad: GRAVE
+Monto:    5925
+Puntos:   2000
+Meses:    6
+
+
+Licencia: 58992942
+Nombre:   NARVAEZ CASTILLO JESUS RAFAEL
+Placa:    V7O-315
+Fecha:    20200322
+Codigo:   127
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 21621497
+Nombre:   AYALA CASTILLO ERICKA OFELIA
+Placa:    Z7C-785
+Fecha:    20190220
+Codigo:   332
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 12443643
+Nombre:   LEE SERRANO ROSARIO
+Placa:    R8H-409
+Fecha:    20200830
+Codigo:   327
+Gravedad: GRAVE
+Monto:    1975
+Puntos:   600
+Meses:    1
+
+
+Licencia: 71578206
+Nombre:   ARROYO TOMASICHE NATALIA
+Placa:    L4H-670
+Fecha:    20190204
+Codigo:   123
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 90467829
+Nombre:   IPARRAGUIRRE PEREZ NICOLAS
+Placa:    H1R-953
+Fecha:    20200925
+Codigo:   124
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 89314225
+Nombre:   RIOS DURAND CARLOS EDILBERTO
+Placa:    C3A-423
+Fecha:    20200126
+Codigo:   117
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 87495937
+Nombre:   MORALES PASQUEL KARIN MARIBEL
+Placa:    M5G-669
+Fecha:    20200529
+Codigo:   160
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 80310768
+Nombre:   MINAYA BERROCAL HELI
+Placa:    N5J-515
+Fecha:    20200828
+Codigo:   108
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 79672079
+Nombre:   CONTRERAS CHANG JOHANA CINTHIA
+Placa:    Y3Q-331
+Fecha:    20190907
+Codigo:   127
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 21621497
+Nombre:   AYALA CASTILLO ERICKA OFELIA
+Placa:    Z7C-785
+Fecha:    20200605
+Codigo:   170
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 81485316
+Nombre:   JUSTINO MARTINEZ ENRIQUE
+Placa:    E1N-544
+Fecha:    20190831
+Codigo:   159
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 12443643
+Nombre:   LEE SERRANO ROSARIO
+Placa:    R8H-409
+Fecha:    20200517
+Codigo:   121
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   200
+
+
+Licencia: 30046639
+Nombre:   SALAMANCA VEGA VIRGINIA MARTHA
+Placa:    P6I-223
+Fecha:    20190119
+Codigo:   136
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 81799482
+Nombre:   CERNA CERNA CINTHIA
+Placa:    V7P-711
+Fecha:    20190122
+Codigo:   309
+Gravedad: GRAVE
+Monto:    948
+Puntos:   600
+Meses:    1
+
+
+Licencia: 49428502
+Nombre:   RIVERO CORTEZ WILVER ALFONSO
+Placa:    T0V-569
+Fecha:    20201020
+Codigo:   327
+Gravedad: GRAVE
+Monto:    1975
+Puntos:   600
+Meses:    1
+
+
+Licencia: 53374153
+Nombre:   SERRANO IBEROS FRANCISCO
+Placa:    V7L-069
+Fecha:    20201005
+Codigo:   158
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 32090869
+Nombre:   SUELDO ANTEZANO LUIS JESUS
+Placa:    L4B-291
+Fecha:    20201101
+Codigo:   136
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 50200823
+Nombre:   LEYVA SAM DIANA DELIA
+Placa:    R0P-255
+Fecha:    20190311
+Codigo:   147
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 54447051
+Nombre:   AVILA DEL CASTILLO ANNIE
+Placa:    G3Y-654
+Fecha:    20190630
+Codigo:   205
+Gravedad: LEVE
+Monto:    158
+Descuento:0.5
+
+
+Licencia: 82031355
+Nombre:   EGUSQUIZA BERROCAL DORIS NANCY
+Placa:    J0J-790
+Fecha:    20191004
+Codigo:   305
+Gravedad: GRAVE
+Monto:    1975
+Puntos:   800
+Meses:    3
+
+
+Licencia: 34248357
+Nombre:   LEYVA LANDEO NANCY SONIA
+Placa:    H4R-733
+Fecha:    20201231
+Codigo:   306
+Gravedad: GRAVE
+Monto:    948
+Puntos:   600
+Meses:    1
+
+
+Licencia: 66849703
+Nombre:   MERCADO CORONEL ELIA
+Placa:    B4N-777
+Fecha:    20200612
+Codigo:   126
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 70414420
+Nombre:   AVILA REYES TATIANA
+Placa:    V9J-051
+Fecha:    20200430
+Codigo:   202
+Gravedad: LEVE
+Monto:    158
+Descuento:0.5
+
+
+Licencia: 16477908
+Nombre:   BACA CAMACHO MILAGROS NATALIA
+Placa:    W7C-957
+Fecha:    20190102
+Codigo:   115
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   200
+
+
+Licencia: 88167677
+Nombre:   PRADO VERA JUAN
+Placa:    B4C-100
+Fecha:    20201008
+Codigo:   128
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 51929951
+Nombre:   CHAVEZ BERROCAL JOHAN
+Placa:    O8J-848
+Fecha:    20200529
+Codigo:   314
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 29989682
+Nombre:   CAMACHO PAIRAZAMAN YDALI LUCERO
+Placa:    W3T-571
+Fecha:    20201213
+Codigo:   136
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 30441350
+Nombre:   RETAMOSO SALAMANCA DELIA MARITZA
+Placa:    X0F-315
+Fecha:    20200723
+Codigo:   117
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 88167677
+Nombre:   PRADO VERA JUAN
+Placa:    Y4Y-028
+Fecha:    20190612
+Codigo:   116
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 48878256
+Nombre:   RAFFO CORONADO ROLANDO
+Placa:    W6Z-142
+Fecha:    20190702
+Codigo:   125
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 50200823
+Nombre:   LEYVA SAM DIANA DELIA
+Placa:    Q6C-943
+Fecha:    20190708
+Codigo:   152
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 15559308
+Nombre:   BRAVO CORTES JANET FLOR
+Placa:    X6O-905
+Fecha:    20190208
+Codigo:   150
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 77763722
+Nombre:   FARFAN SALAZAR MARGOT
+Placa:    A1Q-612
+Fecha:    20200319
+Codigo:   325
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 60335381
+Nombre:   DIAZ TANG ENRIQUE
+Placa:    E6T-667
+Fecha:    20191020
+Codigo:   118
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 68310808
+Nombre:   CANO POLO MILAGROS ISABEL
+Placa:    K2N-341
+Fecha:    20200430
+Codigo:   109
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   200
+
+
+Licencia: 58992942
+Nombre:   NARVAEZ CASTILLO JESUS RAFAEL
+Placa:    Q6B-243
+Fecha:    20190223
+Codigo:   159
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 19963454
+Nombre:   SALAMANCA CABRERA NESTOR EVERT
+Placa:    D9A-711
+Fecha:    20190211
+Codigo:   151
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 50201756
+Nombre:   ZEGARRA PENA CARMELA
+Placa:    K5K-595
+Fecha:    20190915
+Codigo:   142
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 90467829
+Nombre:   IPARRAGUIRRE PEREZ NICOLAS
+Placa:    H1R-953
+Fecha:    20190104
+Codigo:   170
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 73972114
+Nombre:   AVILA MARTEL JAIME MANUEL
+Placa:    D8H-157
+Fecha:    20200411
+Codigo:   156
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   200
+
+
+Licencia: 77367073
+Nombre:   JAUREGUI DEL CASTILLO VICTOR RICARDO
+Placa:    W4W-684
+Fecha:    20200322
+Codigo:   318
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 47844324
+Nombre:   VILCA LEE NESTOR HUGO
+Placa:    X7J-719
+Fecha:    20191205
+Codigo:   205
+Gravedad: LEVE
+Monto:    158
+Descuento:0.5
+
+
+Licencia: 16136330
+Nombre:   YEP PRECIADO RICHARD
+Placa:    E3U-231
+Fecha:    20190521
+Codigo:   341
+Gravedad: GRAVE
+Monto:    5925
+Puntos:   2000
+Meses:    6
+
+
+Licencia: 21621497
+Nombre:   AYALA CASTILLO ERICKA OFELIA
+Placa:    R5I-860
+Fecha:    20200315
+Codigo:   166
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 30046639
+Nombre:   SALAMANCA VEGA VIRGINIA MARTHA
+Placa:    P6I-223
+Fecha:    20200131
+Codigo:   337
+Gravedad: GRAVE
+Monto:    0
+Puntos:   2000
+Meses:    12
+
+
+Licencia: 68310808
+Nombre:   CANO POLO MILAGROS ISABEL
+Placa:    I3A-223
+Fecha:    20200214
+Codigo:   141
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 79641328
+Nombre:   TOKESHI GUEVARA JAIME
+Placa:    X8Q-687
+Fecha:    20190519
+Codigo:   151
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 15029228
+Nombre:   VALVERDE MAEIREIZO MELVIN JAIR
+Placa:    C0P-895
+Fecha:    20191008
+Codigo:   144
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 54141214
+Nombre:   DURAND MIRANDA MIGUEL JUAN
+Placa:    Y9G-536
+Fecha:    20200505
+Codigo:   304
+Gravedad: GRAVE
+Monto:    3950
+Puntos:   100
+Meses:    6
+
+
+Licencia: 82031355
+Nombre:   EGUSQUIZA BERROCAL DORIS NANCY
+Placa:    Z5D-724
+Fecha:    20191127
+Codigo:   334
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 81485316
+Nombre:   JUSTINO MARTINEZ ENRIQUE
+Placa:    F1O-596
+Fecha:    20190105
+Codigo:   327
+Gravedad: GRAVE
+Monto:    1975
+Puntos:   600
+Meses:    1
+
+
+Licencia: 32244565
+Nombre:   HENRIQUEZ PAREDES PAUL RAFAEL
+Placa:    W9L-468
+Fecha:    20191120
+Codigo:   155
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 49927087
+Nombre:   INGA PALOMARES ERIKA
+Placa:    X3E-271
+Fecha:    20200123
+Codigo:   108
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 35671623
+Nombre:   EPIQUEN YEP GUIDA VICTORIA
+Placa:    V4E-749
+Fecha:    20200221
+Codigo:   315
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 15559308
+Nombre:   BRAVO CORTES JANET FLOR
+Placa:    S3L-803
+Fecha:    20190325
+Codigo:   147
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 87282766
+Nombre:   SUAREZ CHANG GLORIA
+Placa:    S1D-093
+Fecha:    20191029
+Codigo:   154
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 50200823
+Nombre:   LEYVA SAM DIANA DELIA
+Placa:    R0P-255
+Fecha:    20200312
+Codigo:   310
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 73567806
+Nombre:   ARCA SANCHEZ MAGALI BEATRIZ
+Placa:    W9Z-281
+Fecha:    20200720
+Codigo:   106
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 90467829
+Nombre:   IPARRAGUIRRE PEREZ NICOLAS
+Placa:    C9H-661
+Fecha:    20190928
+Codigo:   327
+Gravedad: GRAVE
+Monto:    1975
+Puntos:   600
+Meses:    1
+
+
+Licencia: 13628871
+Nombre:   QUIROGA HERNANDEZ SILVANA ZKENIA
+Placa:    F3E-797
+Fecha:    20201210
+Codigo:   153
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 79672079
+Nombre:   CONTRERAS CHANG JOHANA CINTHIA
+Placa:    O3H-954
+Fecha:    20190825
+Codigo:   126
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 53853385
+Nombre:   SOLIS NARVAEZ MARIA MADELEINE
+Placa:    T9X-217
+Fecha:    20190521
+Codigo:   109
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   200
+
+
+Licencia: 15029228
+Nombre:   VALVERDE MAEIREIZO MELVIN JAIR
+Placa:    J0Q-121
+Fecha:    20190319
+Codigo:   152
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 12858682
+Nombre:   ZARATE PEREZ ALEXANDER
+Placa:    T5L-371
+Fecha:    20190608
+Codigo:   121
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   200
+
+
+Licencia: 73972114
+Nombre:   AVILA MARTEL JAIME MANUEL
+Placa:    D8H-157
+Fecha:    20200825
+Codigo:   130
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 47844324
+Nombre:   VILCA LEE NESTOR HUGO
+Placa:    X7J-719
+Fecha:    20201102
+Codigo:   111
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 88167677
+Nombre:   PRADO VERA JUAN
+Placa:    B4C-100
+Fecha:    20200203
+Codigo:   330
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 68310808
+Nombre:   CANO POLO MILAGROS ISABEL
+Placa:    W8F-397
+Fecha:    20200520
+Codigo:   109
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   200
+
+
+Licencia: 32244565
+Nombre:   HENRIQUEZ PAREDES PAUL RAFAEL
+Placa:    J1E-736
+Fecha:    20190814
+Codigo:   103
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   200
+
+
+Licencia: 48878256
+Nombre:   RAFFO CORONADO ROLANDO
+Placa:    W6Z-142
+Fecha:    20201225
+Codigo:   149
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 51929951
+Nombre:   CHAVEZ BERROCAL JOHAN
+Placa:    O8J-848
+Fecha:    20201123
+Codigo:   202
+Gravedad: LEVE
+Monto:    158
+Descuento:0.5
+
+
+Licencia: 30441350
+Nombre:   RETAMOSO SALAMANCA DELIA MARITZA
+Placa:    X0F-315
+Fecha:    20200115
+Codigo:   135
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 15559308
+Nombre:   BRAVO CORTES JANET FLOR
+Placa:    T8F-368
+Fecha:    20200206
+Codigo:   154
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 77367073
+Nombre:   JAUREGUI DEL CASTILLO VICTOR RICARDO
+Placa:    W4W-684
+Fecha:    20190925
+Codigo:   157
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 81528434
+Nombre:   EPIQUEN AVILA ENRIQUE
+Placa:    B3U-020
+Fecha:    20200726
+Codigo:   109
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   200
+
+
+Licencia: 16477908
+Nombre:   BACA CAMACHO MILAGROS NATALIA
+Placa:    W7C-957
+Fecha:    20191027
+Codigo:   104
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 35297848
+Nombre:   ASTETE CHANG GUIDA
+Placa:    O7D-970
+Fecha:    20200104
+Codigo:   201
+Gravedad: LEVE
+Monto:    158
+Descuento:0.5
+
+
+Licencia: 12443643
+Nombre:   LEE SERRANO ROSARIO
+Placa:    R8H-409
+Fecha:    20190727
+Codigo:   170
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 34248357
+Nombre:   LEYVA LANDEO NANCY SONIA
+Placa:    R7N-062
+Fecha:    20200911
+Codigo:   102
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 70414420
+Nombre:   AVILA REYES TATIANA
+Placa:    V9J-051
+Fecha:    20191012
+Codigo:   331
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 32244565
+Nombre:   HENRIQUEZ PAREDES PAUL RAFAEL
+Placa:    K4F-319
+Fecha:    20190513
+Codigo:   154
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 88167677
+Nombre:   PRADO VERA JUAN
+Placa:    B4C-100
+Fecha:    20190110
+Codigo:   148
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 51929951
+Nombre:   CHAVEZ BERROCAL JOHAN
+Placa:    O8J-848
+Fecha:    20200112
+Codigo:   120
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 21621497
+Nombre:   AYALA CASTILLO ERICKA OFELIA
+Placa:    W5W-525
+Fecha:    20190130
+Codigo:   321
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 50201756
+Nombre:   ZEGARRA PENA CARMELA
+Placa:    X8O-807
+Fecha:    20200112
+Codigo:   323
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 42956681
+Nombre:   POMAJAMBO EGUSQUIZA PAUL
+Placa:    A6D-661
+Fecha:    20200719
+Codigo:   136
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 75348522
+Nombre:   LOZADA FORZANI DELIA
+Placa:    E1L-705
+Fecha:    20191003
+Codigo:   157
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 79641328
+Nombre:   TOKESHI GUEVARA JAIME
+Placa:    X8Q-687
+Fecha:    20190702
+Codigo:   163
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 13219606
+Nombre:   RODRIGUEZ MORENO BLANCA OFELIA
+Placa:    T3B-722
+Fecha:    20190904
+Codigo:   136
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 35297848
+Nombre:   ASTETE CHANG GUIDA
+Placa:    O7D-970
+Fecha:    20191019
+Codigo:   335
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 87495937
+Nombre:   MORALES PASQUEL KARIN MARIBEL
+Placa:    L2H-207
+Fecha:    20191221
+Codigo:   131
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   200
+
+
+Licencia: 35912665
+Nombre:   MARTINEZ CRUZ EVERT RONY
+Placa:    O2Z-308
+Fecha:    20200612
+Codigo:   333
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 35912665
+Nombre:   MARTINEZ CRUZ EVERT RONY
+Placa:    O2Z-308
+Fecha:    20200601
+Codigo:   149
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 79641328
+Nombre:   TOKESHI GUEVARA JAIME
+Placa:    L0L-653
+Fecha:    20200319
+Codigo:   142
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 49927087
+Nombre:   INGA PALOMARES ERIKA
+Placa:    X3E-271
+Fecha:    20190811
+Codigo:   144
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 44346371
+Nombre:   ALFARO ALFARO ERICK BRUNO
+Placa:    S4J-282
+Fecha:    20200708
+Codigo:   203
+Gravedad: LEVE
+Monto:    158
+Descuento:0.5
+
+
+Licencia: 37080813
+Nombre:   FLORIAN VALDERRAMA JOSE
+Placa:    P7E-145
+Fecha:    20200703
+Codigo:   153
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 87282766
+Nombre:   SUAREZ CHANG GLORIA
+Placa:    S1D-093
+Fecha:    20200510
+Codigo:   319
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 79672079
+Nombre:   CONTRERAS CHANG JOHANA CINTHIA
+Placa:    O3H-954
+Fecha:    20200525
+Codigo:   341
+Gravedad: GRAVE
+Monto:    5925
+Puntos:   2000
+Meses:    6
+
+
+Licencia: 75945248
+Nombre:   MEJIA RODRIGUEZ INES VALENTINA
+Placa:    K6X-977
+Fecha:    20190513
+Codigo:   152
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 26522329
+Nombre:   SANCHEZ DEL CASTILLO FIORELLA ROSARIO
+Placa:    W7R-114
+Fecha:    20200509
+Codigo:   104
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 60335381
+Nombre:   DIAZ TANG ENRIQUE
+Placa:    E6T-667
+Fecha:    20191231
+Codigo:   114
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 34976629
+Nombre:   LOZADA ARGUEDAS FELICITA VALENTINA
+Placa:    J8B-303
+Fecha:    20200619
+Codigo:   308
+Gravedad: GRAVE
+Monto:    948
+Puntos:   600
+Meses:    1
+
+
+Licencia: 85501710
+Nombre:   VIZCARDO SINCHE MARIBEL
+Placa:    Z4K-431
+Fecha:    20201015
+Codigo:   131
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   200
+
+
+Licencia: 47528229
+Nombre:   SAAVEDRA GONZALES WILMER
+Placa:    T8Y-354
+Fecha:    20190214
+Codigo:   311
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 19963454
+Nombre:   SALAMANCA CABRERA NESTOR EVERT
+Placa:    D9A-711
+Fecha:    20190607
+Codigo:   129
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 90467829
+Nombre:   IPARRAGUIRRE PEREZ NICOLAS
+Placa:    K4H-445
+Fecha:    20190206
+Codigo:   107
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 82870470
+Nombre:   SEDANO RETAMOSO ELIA YOLANDA
+Placa:    C4O-436
+Fecha:    20200426
+Codigo:   150
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 81799482
+Nombre:   CERNA CERNA CINTHIA
+Placa:    V7P-711
+Fecha:    20190611
+Codigo:   151
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 64532449
+Nombre:   INFANTES MERCADO LUIS WALDEMAR
+Placa:    X3Z-285
+Fecha:    20190123
+Codigo:   162
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 96693273
+Nombre:   VALDERRAMA BERROCAL EVERT
+Placa:    C0G-556
+Fecha:    20190212
+Codigo:   131
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   200
+
+
+Licencia: 85501710
+Nombre:   VIZCARDO SINCHE MARIBEL
+Placa:    Z4K-431
+Fecha:    20190702
+Codigo:   125
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 12270502
+Nombre:   CUEVA FUENTES CINTHIA DELIA
+Placa:    P7T-999
+Fecha:    20191221
+Codigo:   104
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 15115705
+Nombre:   HERNANDEZ CORRALES GUILLERMO
+Placa:    N9Q-814
+Fecha:    20200316
+Codigo:   314
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 36079131
+Nombre:   ZAVALETA VILCA ERICKA ELEONOR
+Placa:    H5S-788
+Fecha:    20190612
+Codigo:   137
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   200
+
+
+Licencia: 73357516
+Nombre:   TRIGUEROS JUGO LUZ
+Placa:    E6R-293
+Fecha:    20200822
+Codigo:   309
+Gravedad: GRAVE
+Monto:    948
+Puntos:   600
+Meses:    1
+
+
+Licencia: 82031355
+Nombre:   EGUSQUIZA BERROCAL DORIS NANCY
+Placa:    H6X-124
+Fecha:    20191023
+Codigo:   165
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 12270502
+Nombre:   CUEVA FUENTES CINTHIA DELIA
+Placa:    P7T-999
+Fecha:    20200618
+Codigo:   338
+Gravedad: GRAVE
+Monto:    0
+Puntos:   2000
+Meses:    12
+
+
+Licencia: 89941095
+Nombre:   ARCA LARRIEGA LUCERO YLIANA
+Placa:    P6T-244
+Fecha:    20190727
+Codigo:   312
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 52002275
+Nombre:   CASANOVA ZEGARRA MARITZA
+Placa:    J8N-930
+Fecha:    20200412
+Codigo:   308
+Gravedad: GRAVE
+Monto:    948
+Puntos:   600
+Meses:    1
+
+
+Licencia: 42956681
+Nombre:   POMAJAMBO EGUSQUIZA PAUL
+Placa:    E0L-862
+Fecha:    20200430
+Codigo:   120
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 49927087
+Nombre:   INGA PALOMARES ERIKA
+Placa:    G7B-252
+Fecha:    20190522
+Codigo:   152
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 24859596
+Nombre:   FLORIAN CUBA CHRISTIAN
+Placa:    B8B-326
+Fecha:    20201211
+Codigo:   151
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 60335381
+Nombre:   DIAZ TANG ENRIQUE
+Placa:    B3U-845
+Fecha:    20200828
+Codigo:   304
+Gravedad: GRAVE
+Monto:    3950
+Puntos:   100
+Meses:    6
+
+
+Licencia: 64532449
+Nombre:   INFANTES MERCADO LUIS WALDEMAR
+Placa:    K8R-348
+Fecha:    20200219
+Codigo:   208
+Gravedad: LEVE
+Monto:    158
+Descuento:0.5
+
+
+Licencia: 47528229
+Nombre:   SAAVEDRA GONZALES WILMER
+Placa:    I4H-529
+Fecha:    20201111
+Codigo:   306
+Gravedad: GRAVE
+Monto:    948
+Puntos:   600
+Meses:    1
+
+
+Licencia: 39244942
+Nombre:   PENA SUAREZ GLENDA MARGOT
+Placa:    N5Y-450
+Fecha:    20200415
+Codigo:   338
+Gravedad: GRAVE
+Monto:    0
+Puntos:   2000
+Meses:    12
+
+
+Licencia: 38862473
+Nombre:   WONG MAEIREIZO BEATRIZ
+Placa:    K3B-165
+Fecha:    20200906
+Codigo:   151
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 35912665
+Nombre:   MARTINEZ CRUZ EVERT RONY
+Placa:    O2Z-308
+Fecha:    20200831
+Codigo:   136
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 84186239
+Nombre:   RIVERO CORONADO HECTOR ALONSO
+Placa:    T6W-978
+Fecha:    20190411
+Codigo:   117
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 68310808
+Nombre:   CANO POLO MILAGROS ISABEL
+Placa:    K2N-341
+Fecha:    20200718
+Codigo:   142
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 82870470
+Nombre:   SEDANO RETAMOSO ELIA YOLANDA
+Placa:    C4O-436
+Fecha:    20190922
+Codigo:   106
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 58992942
+Nombre:   NARVAEZ CASTILLO JESUS RAFAEL
+Placa:    H8M-598
+Fecha:    20201129
+Codigo:   323
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 48450395
+Nombre:   RAMIREZ ASTETE KARINA ESTEFANIA
+Placa:    G1P-591
+Fecha:    20200525
+Codigo:   326
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 49927087
+Nombre:   INGA PALOMARES ERIKA
+Placa:    G7B-252
+Fecha:    20190919
+Codigo:   146
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 63736112
+Nombre:   ZAMORA ZAVALETA RONAL MANUEL
+Placa:    T9A-930
+Fecha:    20200521
+Codigo:   103
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   200
+
+
+Licencia: 66849703
+Nombre:   MERCADO CORONEL ELIA
+Placa:    B4N-777
+Fecha:    20200729
+Codigo:   202
+Gravedad: LEVE
+Monto:    158
+Descuento:0.5
+
+
+Licencia: 16477908
+Nombre:   BACA CAMACHO MILAGROS NATALIA
+Placa:    I0E-459
+Fecha:    20200419
+Codigo:   339
+Gravedad: GRAVE
+Monto:    0
+Puntos:   2000
+Meses:    12
+
+
+Licencia: 35671623
+Nombre:   EPIQUEN YEP GUIDA VICTORIA
+Placa:    K0T-350
+Fecha:    20190109
+Codigo:   157
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 44346371
+Nombre:   ALFARO ALFARO ERICK BRUNO
+Placa:    S4J-282
+Fecha:    20190904
+Codigo:   335
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 47528229
+Nombre:   SAAVEDRA GONZALES WILMER
+Placa:    T8Y-354
+Fecha:    20200327
+Codigo:   203
+Gravedad: LEVE
+Monto:    158
+Descuento:0.5
+
+
+Licencia: 21621497
+Nombre:   AYALA CASTILLO ERICKA OFELIA
+Placa:    D6W-048
+Fecha:    20201230
+Codigo:   336
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 84186239
+Nombre:   RIVERO CORONADO HECTOR ALONSO
+Placa:    W9Y-717
+Fecha:    20200118
+Codigo:   323
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 24859596
+Nombre:   FLORIAN CUBA CHRISTIAN
+Placa:    A8P-118
+Fecha:    20200416
+Codigo:   120
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 21621497
+Nombre:   AYALA CASTILLO ERICKA OFELIA
+Placa:    W5W-525
+Fecha:    20201011
+Codigo:   315
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 88167677
+Nombre:   PRADO VERA JUAN
+Placa:    V7U-622
+Fecha:    20190306
+Codigo:   323
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 68310808
+Nombre:   CANO POLO MILAGROS ISABEL
+Placa:    W8F-397
+Fecha:    20201223
+Codigo:   326
+Gravedad: GRAVE
+Monto:    474
+Puntos:   500
+Meses:    0
+
+
+Licencia: 12270502
+Nombre:   CUEVA FUENTES CINTHIA DELIA
+Placa:    P7T-999
+Fecha:    20201021
+Codigo:   107
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 53374153
+Nombre:   SERRANO IBEROS FRANCISCO
+Placa:    V7L-069
+Fecha:    20200104
+Codigo:   128
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 74325123
+Nombre:   TANG MOSCOSO JOHANA
+Placa:    V9F-655
+Fecha:    20190531
+Codigo:   128
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 27185429
+Nombre:   SOLIS CHUNG ROLANDO
+Placa:    U3F-754
+Fecha:    20200201
+Codigo:   143
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 64178096
+Nombre:   VIZCARRA CARBAJAL IVAN FAUSTO
+Placa:    B7V-643
+Fecha:    20200814
+Codigo:   309
+Gravedad: GRAVE
+Monto:    948
+Puntos:   600
+Meses:    1
+
+
+Licencia: 73567806
+Nombre:   ARCA SANCHEZ MAGALI BEATRIZ
+Placa:    A7Y-833
+Fecha:    20190214
+Codigo:   130
+Gravedad: GRAVE
+Monto:    316
+Descuento:0.25
+Puntos:   100
+
+
+Licencia: 32244565
+Nombre:   HENRIQUEZ PAREDES PAUL RAFAEL
+Placa:    W9L-468
+Fecha:    20191220
+Codigo:   208
+Gravedad: LEVE
+Monto:    158
+Descuento:0.5
+
+
+Licencia: 54141214
+Nombre:   DURAND MIRANDA MIGUEL JUAN
+Placa:    G2I-709
+Fecha:    20200812
+Codigo:   204
+Gravedad: LEVE
+Monto:    158
+Descuento:0.5
+
+

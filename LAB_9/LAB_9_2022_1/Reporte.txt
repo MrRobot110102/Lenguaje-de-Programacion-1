@@ -1,0 +1,134 @@
+                  REPORTE DE DEUDAS
+71984468  IPARRAGUIRRE VILLEGAS NICOLAS EDILBERTO
+--------------------------------------------------
+Descuento: 25%
+Total: 73.5
+Cantidad de Pedidos: 6
+
+
+29847168  ALDAVE ZEVALLOS ROSARIO
+--------------------------------------------------
+Descuento: 25%
+Total: 69.375
+Cantidad de Pedidos: 7
+
+
+79475585  RETTO ARCA ANNIE MAGDA
+--------------------------------------------------
+Flete: 10%
+Total: 82.5
+Cantidad de Pedidos: 6
+
+
+91897732  GAMARRA ALCOCER VIRGINIA
+--------------------------------------------------
+Flete: 10%
+Total: 118.8
+Cantidad de Pedidos: 7
+
+
+33397650  RONDON EGUSQUIZA CARMELA VALENTINA
+--------------------------------------------------
+Flete: 10%
+Total: 273.9
+Cantidad de Pedidos: 12
+
+
+83236386  RIVERO CORRALES JUAN FERNANDO
+--------------------------------------------------
+Descuento: 10%   Flete: 5%
+Total: 60.325
+Cantidad de Pedidos: 6
+
+
+32821689  ZAVALETA EPIQUEN CARMEN ZKENIA
+--------------------------------------------------
+Descuento: 10%   Flete: 5%
+Total: 78.375
+Cantidad de Pedidos: 7
+
+
+45783712  POZO CHUNG RAFAEL DEL
+--------------------------------------------------
+Descuento: 50%
+Total: 47.5
+Cantidad de Pedidos: 5
+
+
+11118888  PEREZ ALBELA COSSIO JOSE LUIS ALBERTO
+--------------------------------------------------
+Descuento: 50%
+Total: 0
+Cantidad de Pedidos: 0
+
+
+48184351  LOPEZ JAUREGUI ROLANDO
+--------------------------------------------------
+Descuento: 10%   Flete: 5%
+Total: 271.7
+Cantidad de Pedidos: 9
+
+
+33713901  VILLEGAS CASTRO SOFIA VIRGINIA
+--------------------------------------------------
+Descuento: 10%   Flete: 5%
+Total: 145.35
+Cantidad de Pedidos: 8
+
+
+76388967  GONZALES QUIO ISABEL
+--------------------------------------------------
+Flete: 5%
+Total: 58.8
+Cantidad de Pedidos: 5
+
+
+81114108  ZAMBRANO SHIRAKAWA WILMER
+--------------------------------------------------
+Flete: 5%
+Total: 196.875
+Cantidad de Pedidos: 10
+
+
+57263719  PRADO TORREALBA CARMEN JANET
+--------------------------------------------------
+Flete: 5%
+Total: 129.15
+Cantidad de Pedidos: 7
+
+
+79140840  TORREALBA ARCA VICTORIA GLENDA
+--------------------------------------------------
+Descuento: 30%
+Total: 92.05
+Cantidad de Pedidos: 7
+
+
+71378466  MIYAKE CARO HENRRY EDGAR
+--------------------------------------------------
+Descuento: 30%
+Total: 84.7
+Cantidad de Pedidos: 7
+
+
+17913944  PALOMARES SANTISTEBAN HENRRY
+--------------------------------------------------
+Descuento: 20%   Flete: 5%
+Total: 137.275
+Cantidad de Pedidos: 11
+
+
+62566305  ROMERO ALFARO MONICA JOHANA
+--------------------------------------------------
+Descuento: 20%   Flete: 5%
+Total: 124.1
+Cantidad de Pedidos: 4
+
+
+46462527  LOYOLA MORI NICOLAS FERNANDO
+--------------------------------------------------
+Descuento: 50%
+Total: 74
+Cantidad de Pedidos: 14
+
+

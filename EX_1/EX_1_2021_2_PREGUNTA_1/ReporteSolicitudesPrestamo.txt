@@ -1,0 +1,272 @@
+RESPUESTA A LAS SOLICITUDES DE PRESTAMO
+1    Raffo Arias Surami Annie
+     No se le entrego el libro porque:
+     Debe libros
+     Ya se retiro el libro pedido No.ZM20053
+
+2    Wong Martel Madeleine
+     No se le entrego el libro porque:
+     Debe libros
+
+3    Aquino Toro Valentina Rocio
+     No se le entrego el libro porque:
+     Excede la cantidad de prestamos maxima
+     Debe libros
+
+4    Diaz Correa Irma Virginia
+     No se le entrego el libro porque:
+     Debe libros
+
+5    Raffo Chung Adria Gloria
+     Sin restricciones, se pudo devolver el libro No. :OT07742
+
+6    Hernandez Barrios Emilio
+     No se le entrego el libro porque:
+     Debe libros
+
+7    Diaz Antezano Magali Silvana
+     No se le entrego el libro porque:
+     Excede la cantidad de prestamos maxima
+     Debe libros
+
+8    Inga Flores Cesar Adolfo
+     Sin restricciones, se pudo devolver el libro No. :XN48844
+
+9    Pairazaman Alamo Moises Miguel
+     No se le entrego el libro porque:
+     Excede la cantidad de prestamos maxima
+     Debe libros
+     Ya se retiro el libro pedido No.PL70268
+
+10   Pairazaman Alamo Moises Miguel
+     No se le entrego el libro porque:
+     Excede la cantidad de prestamos maxima
+     Debe libros
+
+11   Raffo Chung Adria Gloria
+     No se le entrego el libro porque:
+     Debe libros
+
+12   Diaz Antezano Magali Silvana
+     No se le entrego el libro porque:
+     Excede la cantidad de prestamos maxima
+     Debe libros
+
+13   Auris Zimic Javier Daniel
+     Sin restricciones, se le entrego el libro No. :FW74175
+
+14   Cerna Durand Martin
+     Sin restricciones, se le entrego el libro No. :MG75057
+
+15   Diaz Antezano Magali Silvana
+     No se le entrego el libro porque:
+     Excede la cantidad de prestamos maxima
+     Debe libros
+
+16   Salas Aguero Daniel
+     No se le entrego el libro porque:
+     Debe libros
+
+17   Raffo Arias Surami Annie
+     No se le entrego el libro porque:
+     Debe libros
+
+18   Prado Vergel Carlos Julian
+     Sin restricciones, se le entrego el libro No. :SV17719
+
+19   Prado Vergel Carlos Julian
+     Sin restricciones, se le entrego el libro No. :BB35881
+
+20   Auris Zimic Javier Daniel
+     No se pudo devolver el libro porque:
+     Usuario no tiene libro en su poder
+
+21   Delgado Gonzales Guillermo Alfonso
+     No se le entrego el libro porque:
+     Debe libros
+
+22   Vasquez Paz Alex Martin
+     No se le entrego el libro porque:
+     Excede la cantidad de prestamos maxima
+     Debe libros
+
+23   Chumpitaz Iberos Ronal
+     Sin restricciones, se pudo devolver el libro No. :ZR63735
+
+24   Corrales Tsukazan Irma Lourdes
+     No se le entrego el libro porque:
+     Debe libros
+
+25   Hernandez Barrios Emilio
+     No se le entrego el libro porque:
+     Debe libros
+
+26   Vasquez Paz Alex Martin
+     No se le entrego el libro porque:
+     Excede la cantidad de prestamos maxima
+     Debe libros
+
+27   Auris Zimic Javier Daniel
+     Sin restricciones, se le entrego el libro No. :FY25192
+
+28   Shirakawa Miranda Madeleine
+     No se le entrego el libro porque:
+     Ya se retiro el libro pedido No.FW74175
+
+29   Hernandez Barrios Emilio
+     No se le entrego el libro porque:
+     Debe libros
+
+30   Prado Vergel Carlos Julian
+     No se le entrego el libro porque:
+     Excede la cantidad de prestamos maxima
+     Ya se retiro el libro pedido No.FW74175
+
+31   Arroyo Gordillo Maria Heli
+     Sin restricciones, se le entrego el libro No. :FW74175
+
+32   Inga Flores Cesar Adolfo
+     Sin restricciones, se pudo devolver el libro No. :XQ03477
+
+33   Mejia De La Haza Francisco Edgar
+     Sin restricciones, se le entrego el libro No. :MG75057
+
+34   Norabuena Preciado Cinthia
+     No se le entrego el libro porque:
+     Excede la cantidad de prestamos maxima
+     Debe libros
+
+35   Aquino Toro Valentina Rocio
+     No se le entrego el libro porque:
+     Excede la cantidad de prestamos maxima
+     Debe libros
+     Ya se retiro el libro pedido No.SV17719
+
+36   Mejia De La Haza Francisco Edgar
+     Sin restricciones, se pudo devolver el libro No. :SK15788
+
+37   Chumpitaz Iberos Ronal
+     Sin restricciones, se le entrego el libro No. :ZK87496
+
+38   Delgado Gonzales Guillermo Alfonso
+     No se le entrego el libro porque:
+     Debe libros
+
+39   Salas Aguero Daniel
+     No se le entrego el libro porque:
+     Debe libros
+
+40   Raffo Chung Adria Gloria
+     No se le entrego el libro porque:
+     Debe libros
+     Ya se retiro el libro pedido No.MG75057
+
+41   Norabuena Preciado Cinthia
+     No se le entrego el libro porque:
+     Excede la cantidad de prestamos maxima
+     Debe libros
+
+42   Mejia De La Haza Francisco Edgar
+     Sin restricciones, se le entrego el libro No. :XW06135
+
+43   Prado Vergel Carlos Julian
+     No se le entrego el libro porque:
+     Excede la cantidad de prestamos maxima
+     Ya se retiro el libro pedido No.SA04133
+
+44   Vega Garcia Janet Rebeca
+     Sin restricciones, se le entrego el libro No. :FW74175
+
+45   Pairazaman Alamo Moises Miguel
+     No se le entrego el libro porque:
+     Excede la cantidad de prestamos maxima
+     Debe libros
+
+46   Cerna Durand Martin
+     Sin restricciones, se pudo devolver el libro No. :OC73472
+
+47   Shirakawa Ortega Angel
+     No se le entrego el libro porque:
+     Debe libros
+
+48   Diaz Correa Irma Virginia
+     No se le entrego el libro porque:
+     Debe libros
+
+49   Valverde Flores Irma Ydali
+     Sin restricciones, se pudo devolver el libro No. :ZQ38637
+
+50   Wong Martel Madeleine
+     Sin restricciones, se pudo devolver el libro No. :SK15788
+
+51   Vasquez Paz Alex Martin
+     No se le entrego el libro porque:
+     Excede la cantidad de prestamos maxima
+     Debe libros
+
+52   Aquino Toro Valentina Rocio
+     No se le entrego el libro porque:
+     Excede la cantidad de prestamos maxima
+     Debe libros
+
+53   Raffo Chung Adria Gloria
+     No se le entrego el libro porque:
+     Debe libros
+
+54   Cerna Durand Martin
+     Sin restricciones, se pudo devolver el libro No. :QA53897
+
+55   Shirakawa Ortega Angel
+     Sin restricciones, se pudo devolver el libro No. :BH96036
+
+56   Inga Flores Cesar Adolfo
+     No se le entrego el libro porque:
+     Debe libros
+     Ya se retiro el libro pedido No.FW74175
+
+57   Valverde Flores Irma Ydali
+     Sin restricciones, se pudo devolver el libro No. :BH96036
+
+58   Aquino Toro Valentina Rocio
+     Sin restricciones, se pudo devolver el libro No. :SV17719
+
+59   Diaz Correa Irma Virginia
+     No se le entrego el libro porque:
+     Debe libros
+     Ya se retiro el libro pedido No.VA35843
+
+60   Shirakawa Ortega Angel
+     No se le entrego el libro porque:
+     Debe libros
+
+61   Diaz Antezano Magali Silvana
+     No se le entrego el libro porque:
+     Excede la cantidad de prestamos maxima
+     Debe libros
+
+62   Wong Martel Madeleine
+     No se le entrego el libro porque:
+     Debe libros
+
+63   Vasquez Paz Alex Martin
+     Sin restricciones, se pudo devolver el libro No. :SK15788
+
+64   Mejia De La Haza Francisco Edgar
+     Sin restricciones, se le entrego el libro No. :OC73472
+
+65   Diaz Correa Irma Virginia
+     Sin restricciones, se pudo devolver el libro No. :PT00038
+
+66   Auris Zimic Javier Daniel
+     Sin restricciones, se le entrego el libro No. :MG75057
+
+67   Diaz Correa Irma Virginia
+     No se le entrego el libro porque:
+     Debe libros
+
+68   Arroyo Gordillo Maria Heli
+     Sin restricciones, se le entrego el libro No. :ZK87496
+
+69   Vasquez Paz Alex Martin
+     Sin restricciones, se pudo devolver el libro No. :JO84937
+

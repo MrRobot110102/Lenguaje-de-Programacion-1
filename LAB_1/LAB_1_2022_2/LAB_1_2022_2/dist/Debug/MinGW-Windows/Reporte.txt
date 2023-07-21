@@ -1,0 +1,254 @@
+                                      EMPRESA PRESTADORA DE SALUD
+====================================================================================================
+ESPECIALIDADES A VERIFICAR:  PEDIATRIA Y GINECOLOGIA
+FECHA DEL PROCESO: 02/09/2022
+====================================================================================================
+Medico: ROSARIO_MARIBEL_YEP_ZAVALETA [LI80786]       Especialidad:     GINECOLOGIA
+----------------------------------------------------------------------------------------------------
+                Pacientes atendidos                     Medicinas recibidas
+----------------------------------------------------------------------------------------------------
+       DNI         Nombre                 Cantidad    Codigo    Descripcion                  F. de V    Observacion
+----------------------------------------------------------------------------------------------------
+54815159    Patino/Delicia      3    94429   TIAMAZOL_5MG_20T                27/10/2022
+                                     31189   CEFADROXILO_500MG_C/16CAP       03/12/2022
+                                     28892   GLIMEPIRIDA_2MG_C30             03/03/2023
+93939698    Henriquez/Silvana   4    96554   PIROXICAM_20MG_T20              29/08/2022     VENCIDA
+                                     26360   VITAMINAS_A_C_Y_D_3AMP/3ML_ING  04/08/2022     VENCIDA
+                                     42053   TRETINOINA_30G_CREMA_0.05%      01/08/2022     VENCIDA
+                                     33311   ALBENDAZOL_200MG_C/6_TAB        09/08/2022     VENCIDA
+62126128    Durand/Enrique      3    42053   TRETINOINA_30G_CREMA_0.05%      01/08/2022     VENCIDA
+                                     26920   HIDRALAZINA_20T_10MG            01/09/2022     VENCIDA
+                                     47734   MICRODACYN_60_SOL_240ML         16/08/2022     VENCIDA
+32538825    Hijar/Martin        1    96031   CETIRIZINA_10_MG_TABS_C/10      20/08/2022     VENCIDA
+63640178    Rodriguez/Blanca    5    19397   ORLISTAT_/_21_CAP_120_MG        04/10/2022
+                                     61295   QUINFAMIDA_100_MG_3TAB          18/08/2022     VENCIDA
+                                     72969   ISOSORBIDE_10MG_T/20            06/02/2023
+                                     34066   SULINDACO_200MG/20_TAB          14/12/2022
+                                     83510   FUROSEMIDA_40_MG_C/20           08/11/2022
+35852072    Jauregui/Victor     4    33200   GLUCOSAMINA_30C_500MG           14/12/2022
+                                     68730   MELOXICAM_7.5_MG_C/14           26/10/2022
+                                     70225   CEFTRIAXONA_1.0GR_IM_G_I        04/12/2022
+                                     77358   LOPERAMIDA_T/12_2MG             16/12/2022
+====================================================================================================
+Medico: CINTHIA_MILENA_ZEGARRA_CABELLO [PX70233]       Especialidad:     GINECOLOGIA
+----------------------------------------------------------------------------------------------------
+                Pacientes atendidos                     Medicinas recibidas
+----------------------------------------------------------------------------------------------------
+       DNI         Nombre                 Cantidad    Codigo    Descripcion                  F. de V    Observacion
+----------------------------------------------------------------------------------------------------
+72330000    Vega/Carmela        1    37549   TOPIRAMATO_100MG_20T            26/08/2022     VENCIDA
+93961840    Pairazaman/Tatiana  2    31883   ACIDO_NALIDIXICO_SUSP           13/08/2022     VENCIDA
+                                     44215   DICICLOVERINA_10MG_30T          14/08/2022     VENCIDA
+93939698    Henriquez/Silvana   4    84555   PARACETAMOL_300MG_C/5_SUP       04/04/2023
+                                     77203   ONDANSETRON_8MG_C10T            08/08/2022     VENCIDA
+                                     36711   TIBOLONA_2.5MG_30T              29/08/2022     VENCIDA
+                                     42861   BENCIDAMIDA_CRA_5%_60GR         25/08/2022     VENCIDA
+36934113    Serrano/Arturo      4    26920   HIDRALAZINA_20T_10MG            01/09/2022     VENCIDA
+                                     65536   NEOM/POLIMIX/GRAMIC_15_ML_GTS   15/11/2022
+                                     86681   HIDROCLOROTIAZIDA_25_MG_20TAB   27/08/2022     VENCIDA
+                                     43633   ERITROMICINA_T_250_MG_C/20      15/12/2022
+80694546    Ramirez/Karina      2    36711   TIBOLONA_2.5MG_30T              29/08/2022     VENCIDA
+                                     49685   PINAVERIO_BROMURO_DE_100_MG_14T 06/02/2023
+63640178    Rodriguez/Blanca    1    76247   FLUOCINOLONA_CREMA_30G          14/01/2023
+68114999    Rios/Ines           4    37549   TOPIRAMATO_100MG_20T            26/08/2022     VENCIDA
+                                     42053   TRETINOINA_30G_CREMA_0.05%      01/08/2022     VENCIDA
+                                     70303   AZITROMICINA_SUSP               21/01/2023
+                                     65985   LAMOTRIGINA_100MG_TAB_28        16/02/2023
+81647285    Vega/Henrry         5    36622   TEOFILINA_20_TAB/100_MG         15/03/2023
+                                     91653   SAL_DE_UVAS_PICOT               03/08/2022     VENCIDA
+                                     89325   DIMENHIDRINATO_24_T_50MG        13/08/2022     VENCIDA
+                                     43222   AMBROXOL_GOTAS_30ML             26/08/2022     VENCIDA
+                                     30690   VITAMINAS_EMBARAZO_9_MESES_C30  09/09/2022
+====================================================================================================
+Medico: VALENTINA_PAULA_URBINA_ANTEZANO [LZ53556]       Especialidad:       PEDIATRIA
+----------------------------------------------------------------------------------------------------
+                Pacientes atendidos                     Medicinas recibidas
+----------------------------------------------------------------------------------------------------
+       DNI         Nombre                 Cantidad    Codigo    Descripcion                  F. de V    Observacion
+----------------------------------------------------------------------------------------------------
+32538825    Hijar/Martin        4    92560   EXALVER_FENILEFRINA_PED._30_ML  01/09/2022     VENCIDA
+                                     16681   SIBUTRAMINA_10_MG_C15           21/09/2022
+                                     47697   CLINDAMICINA_300_MG_C/16        06/08/2022     VENCIDA
+                                     26506   ITRACONAZOL_100_MG_C/15         18/08/2022     VENCIDA
+85395219    Fuentes/Patricia    5    30428   PROPAFENONA_150_MG/20_TAB       29/12/2022
+                                     33311   ALBENDAZOL_200MG_C/6_TAB        09/08/2022     VENCIDA
+                                     57505   ESPIRONOLACTONA_25MG_20T        08/08/2022     VENCIDA
+                                     52072   BROMOCRIPTINA_2.5MG_C/14TAB     22/08/2022     VENCIDA
+                                     22232   LEVETIRACETAM                   12/02/2023
+77440060    Escalante/Emigdio   3    30228   METOPROLOL_20T/100              22/10/2022
+                                     36622   TEOFILINA_20_TAB/100_MG         15/03/2023
+                                     46000   HIDROX_MAGNESIO+ALUMINIO_240ML  01/10/2022
+45914393    Lozada/Antonio      4    22553   FLUCINOLONA+NEOMICINA_CRA_30G   24/01/2023
+                                     73972   VITAMINA_E_400_MG_C90_CAPS      05/08/2022     VENCIDA
+                                     61508   DEXTROMETORFANO_300MG_JBE_120_ML17/09/2022
+                                     19397   ORLISTAT_/_21_CAP_120_MG        04/10/2022
+62126128    Durand/Enrique      4    42053   TRETINOINA_30G_CREMA_0.05%      01/08/2022     VENCIDA
+                                     94459   VALPROATO_DE_MAGNESIO_SUSP      04/08/2022     VENCIDA
+                                     98261   ACICLOVIR_200_MG_C/25_CPR       30/08/2022     VENCIDA
+                                     77203   ONDANSETRON_8MG_C10T            08/08/2022     VENCIDA
+62287143    Wong/Beatriz        3    22232   LEVETIRACETAM                   12/02/2023
+                                     57269   SIMVASTATINA_10_MG_C14          10/08/2022     VENCIDA
+                                     40997   ELECTROLIT_PED_FRESA_625ML      02/04/2023
+====================================================================================================
+Medico: WILMER_SAENZ_ARANDA [VJ18708]       Especialidad:     GINECOLOGIA
+----------------------------------------------------------------------------------------------------
+                Pacientes atendidos                     Medicinas recibidas
+----------------------------------------------------------------------------------------------------
+       DNI         Nombre                 Cantidad    Codigo    Descripcion                  F. de V    Observacion
+----------------------------------------------------------------------------------------------------
+36934113    Serrano/Arturo      4    36711   TIBOLONA_2.5MG_30T              29/08/2022     VENCIDA
+                                     82469   GUAYACOL_AMPOLLETA_1ML          11/04/2023
+                                     68539   METENAMINA_30T_500MG            04/08/2022     VENCIDA
+                                     74680   FENITOINA_T50_100MG             22/11/2022
+58643376    Arroyo/Natalia      1    43222   AMBROXOL_GOTAS_30ML             26/08/2022     VENCIDA
+36471787    Pena/Glenda         5    44215   DICICLOVERINA_10MG_30T          14/08/2022     VENCIDA
+                                     48557   NAPROXENO_SODICO_100/2.5_SUSP   18/03/2023
+                                     45814   ERITROMICINA_250MG_SUSP         01/12/2022
+                                     54692   NAFAZOLINA_SOL_OFT_15_ml        03/03/2023
+                                     81333   CARNITINA_C/30                  14/09/2022
+81539774    Alfaro/Erick        1    19397   ORLISTAT_/_21_CAP_120_MG        04/10/2022
+93961840    Pairazaman/Tatiana  3    17804   PIROXICAM_30_GM_CRA             06/02/2023
+                                     42856   FELODIPINO_5_MG_20T             17/08/2022     VENCIDA
+                                     16299   AZITROMICINA_500MG_C/3T         18/12/2022
+90367684    Sinche/Yvonne       2    12388   PROTEINAS+CREATINA_500_GR_30T   27/11/2022
+                                     70303   AZITROMICINA_SUSP               21/01/2023
+36934113    Serrano/Arturo      3    70113   TETRACICLINA_250MG_10T          30/10/2022
+                                     55813   SALBUTAMOL_4MG_T30              22/08/2022     VENCIDA
+                                     90198   NITROFURAL_6MG_6/OV             01/08/2022     VENCIDA
+45201670    Guevara/Milena      2    95196   DIGOXINA_0.250_MG_C/24          14/08/2022     VENCIDA
+                                     17790   DICLOFENACO_100MG_20T           09/02/2023
+63640178    Rodriguez/Blanca    1    80830   COMPLEJO_B_T30                  09/08/2022     VENCIDA
+90367684    Sinche/Yvonne       2    97465   GLIBENCLAMIDA_5_MG_C/50         17/09/2022
+                                     64347   DIFENHIDRAMINA_25MG_C30         26/08/2022     VENCIDA
+====================================================================================================
+Medico: JAVIER_EDGARD_LANDA_CABRERA [PW35451]       Especialidad:       PEDIATRIA
+----------------------------------------------------------------------------------------------------
+                Pacientes atendidos                     Medicinas recibidas
+----------------------------------------------------------------------------------------------------
+       DNI         Nombre                 Cantidad    Codigo    Descripcion                  F. de V    Observacion
+----------------------------------------------------------------------------------------------------
+30246960    Escalante/Ines      4    32486   BENZOCAINA_FRAMBUESA_C/24       29/11/2022
+                                     30428   PROPAFENONA_150_MG/20_TAB       29/12/2022
+                                     61508   DEXTROMETORFANO_300MG_JBE_120_ML17/09/2022
+                                     16681   SIBUTRAMINA_10_MG_C15           21/09/2022
+41964357    Arca/Magali         4    36622   TEOFILINA_20_TAB/100_MG         15/03/2023
+                                     42856   FELODIPINO_5_MG_20T             17/08/2022     VENCIDA
+                                     96881   GABAPENTINA_300_MG_C/15         19/08/2022     VENCIDA
+                                     70226   CALCIO+VITAMINA_D_SUSP          13/11/2022
+17299012    Suarez/Amaru        4    94429   TIAMAZOL_5MG_20T                27/10/2022
+                                     26506   ITRACONAZOL_100_MG_C/15         18/08/2022     VENCIDA
+                                     14962   HIERRO_DEXTRANO_AMP4            01/09/2022     VENCIDA
+                                     68610   CALCITRIOL_0.25MCG_50_CAP       26/04/2023
+32538825    Hijar/Martin        1    41403   VITAMINAS_Y_MINERALES_30-30T    18/11/2022
+12484697    Diaz/Enrique        4    15098   LISINA_CLOHRIDRATO_125MG_T10    16/09/2022
+                                     68539   METENAMINA_30T_500MG            04/08/2022     VENCIDA
+                                     22842   AMIKACINA_500MG_C/1_AMP         05/08/2022     VENCIDA
+                                     11370   KETOROLACO_4T_30MG_SUBLINGUAL   25/02/2023
+86988155    Cerna/Cinthia       4    26920   HIDRALAZINA_20T_10MG            01/09/2022     VENCIDA
+                                     38648   PENICILINA_V_POT_400000U_20T    09/08/2022     VENCIDA
+                                     53166   ASTEMIZOL_SUSP_200MG            17/08/2022     VENCIDA
+                                     40645   VERAPAMILO_80_MG/20_TAB         01/02/2023
+====================================================================================================
+Medico: VICTORIA_MILAGROS_SHIRAKAWA_SAONA [PJ70789]       Especialidad:       PEDIATRIA
+----------------------------------------------------------------------------------------------------
+                Pacientes atendidos                     Medicinas recibidas
+----------------------------------------------------------------------------------------------------
+       DNI         Nombre                 Cantidad    Codigo    Descripcion                  F. de V    Observacion
+----------------------------------------------------------------------------------------------------
+93282118    Zambrano/Ofelia     2    98679   DOXICICLINA_100MG_10_CAPS       19/09/2022
+                                     81960   CEFALEXINA_500MG_C/20_CAP       09/02/2023
+93961840    Pairazaman/Tatiana  5    58252   KETOTIFENO_SOL_120ML            29/08/2022     VENCIDA
+                                     14962   HIERRO_DEXTRANO_AMP4            01/09/2022     VENCIDA
+                                     22232   LEVETIRACETAM                   12/02/2023
+                                     98679   DOXICICLINA_100MG_10_CAPS       19/09/2022
+                                     49756   PREDNISOLONA_5MG_SOL_OFT_5_ML   01/08/2022     VENCIDA
+51465986    Sam/Ines            5    30228   METOPROLOL_20T/100              22/10/2022
+                                     68730   MELOXICAM_7.5_MG_C/14           26/10/2022
+                                     26360   VITAMINAS_A_C_Y_D_3AMP/3ML_ING  04/08/2022     VENCIDA
+                                     86158   SENOSIDOS_A_y_B_C20             01/09/2022     VENCIDA
+                                     88681   NIFEDIPINO_30_MG_30_CPS         18/03/2023
+93939698    Henriquez/Silvana   2    53084   MINOCICLINA_100MG_10T           01/08/2022     VENCIDA
+                                     22842   AMIKACINA_500MG_C/1_AMP         05/08/2022     VENCIDA
+77440060    Escalante/Emigdio   5    96031   CETIRIZINA_10_MG_TABS_C/10      20/08/2022     VENCIDA
+                                     68860   METFORMINA_850MG_T30            20/10/2022
+                                     24522   LEVOFLOXACINO_500MG_C/7_TAB     28/08/2022     VENCIDA
+                                     62008   LISINOPRIL_T/30_10_MG           23/02/2023
+                                     81333   CARNITINA_C/30                  14/09/2022
+61061535    Solis/Maria         1    26506   ITRACONAZOL_100_MG_C/15         18/08/2022     VENCIDA
+90367684    Sinche/Yvonne       1    68730   MELOXICAM_7.5_MG_C/14           26/10/2022
+37282858    Soma/Lourdes        3    48039   TRAMADOL_100MG_5AMP             13/09/2022
+                                     31189   CEFADROXILO_500MG_C/16CAP       03/12/2022
+                                     26754   SILDENAFIL_50MG_C/1-TAB         25/10/2022
+53420926    Prado/Juan          2    67415   FINASTERIDA_5MG_30T             22/12/2022
+                                     72495   ACIDO_GLUTAMICO_600_MG_C/100    04/10/2022
+====================================================================================================
+Medico: TERESA_TERESA_MARTEL_MERCADO [IM80227]       Especialidad:       PEDIATRIA
+----------------------------------------------------------------------------------------------------
+                Pacientes atendidos                     Medicinas recibidas
+----------------------------------------------------------------------------------------------------
+       DNI         Nombre                 Cantidad    Codigo    Descripcion                  F. de V    Observacion
+----------------------------------------------------------------------------------------------------
+81647285    Vega/Henrry         5    46919   VITAMINA_C_C20_TAB_100MG        16/01/2023
+                                     91653   SAL_DE_UVAS_PICOT               03/08/2022     VENCIDA
+                                     88266   PREDNISONA_20MG_C30_TAB_GI      10/03/2023
+                                     17645   KETOKONAZOL_CRA_30GR            12/08/2022     VENCIDA
+                                     30690   VITAMINAS_EMBARAZO_9_MESES_C30  09/09/2022
+54149342    Leyva/Diana         5    58036   PENTOXIFILINA_400MG_T30         12/03/2023
+                                     95196   DIGOXINA_0.250_MG_C/24          14/08/2022     VENCIDA
+                                     17804   PIROXICAM_30_GM_CRA             06/02/2023
+                                     70226   CALCIO+VITAMINA_D_SUSP          13/11/2022
+                                     76247   FLUOCINOLONA_CREMA_30G          14/01/2023
+51642949    Miranda/Alfonso     2    12388   PROTEINAS+CREATINA_500_GR_30T   27/11/2022
+                                     76238   BEZOCAINA_10GR_GEL              07/04/2023
+86988155    Cerna/Cinthia       3    31883   ACIDO_NALIDIXICO_SUSP           13/08/2022     VENCIDA
+                                     76247   FLUOCINOLONA_CREMA_30G          14/01/2023
+                                     53846   CLENBUTEROL_.02MG_50T           07/03/2023
+99891737    Contreras/Johana    5    53846   CLENBUTEROL_.02MG_50T           07/03/2023
+                                     58259   SULFADIAZINA_DE_PLATA_CRA_28GR  02/10/2022
+                                     30228   METOPROLOL_20T/100              22/10/2022
+                                     42856   FELODIPINO_5_MG_20T             17/08/2022     VENCIDA
+                                     76247   FLUOCINOLONA_CREMA_30G          14/01/2023
+77324146    Moscoso/Janet       3    74680   FENITOINA_T50_100MG             22/11/2022
+                                     72969   ISOSORBIDE_10MG_T/20            06/02/2023
+                                     43222   AMBROXOL_GOTAS_30ML             26/08/2022     VENCIDA
+54815159    Patino/Delicia      4    96554   PIROXICAM_20MG_T20              29/08/2022     VENCIDA
+                                     70116   LACTULOSA_125ML                 18/04/2023
+                                     26920   HIDRALAZINA_20T_10MG            01/09/2022     VENCIDA
+                                     92517   ISOCONAZOL_CR_20GR_GI           02/08/2022     VENCIDA
+====================================================================================================
+Medico: YLIANA_FLOR_ORTIZ_GUEVARA [ZD40414]       Especialidad:     GINECOLOGIA
+----------------------------------------------------------------------------------------------------
+                Pacientes atendidos                     Medicinas recibidas
+----------------------------------------------------------------------------------------------------
+       DNI         Nombre                 Cantidad    Codigo    Descripcion                  F. de V    Observacion
+----------------------------------------------------------------------------------------------------
+66091742    Baca/Milagros       5    75565   MICONAZOL_20_GR_CRA             23/09/2022
+                                     74924   TAMSULOSINA_0.4_MG_CAPS_20      10/08/2022     VENCIDA
+                                     60086   METAMISOL_500_MG_T10            29/08/2022     VENCIDA
+                                     70950   LIDOCAINA_10%_115ML_SPRAY       16/08/2022     VENCIDA
+                                     31389   BETAMETASONA_4_MG/ML            12/09/2022
+20371464    Lozada/Heli         2    32486   BENZOCAINA_FRAMBUESA_C/24       29/11/2022
+                                     44253   PROGESTERONA+ESTRADIOL_50/5_AMP 22/11/2022
+15290194    Hernandez/Guillermo 2    44215   DICICLOVERINA_10MG_30T          14/08/2022     VENCIDA
+                                     50450   SERTRALINA_50MG_C/14_T          24/10/2022
+====================================================================================================
+Medico: ESTEFANIA_ZEGARRA_CASANOVA [ES50718]       Especialidad:       PEDIATRIA
+----------------------------------------------------------------------------------------------------
+                Pacientes atendidos                     Medicinas recibidas
+----------------------------------------------------------------------------------------------------
+       DNI         Nombre                 Cantidad    Codigo    Descripcion                  F. de V    Observacion
+----------------------------------------------------------------------------------------------------
+66091742    Baca/Milagros       5    40862   YODOPOVIDONA_120ML              03/08/2022     VENCIDA
+                                     90198   NITROFURAL_6MG_6/OV             01/08/2022     VENCIDA
+                                     41403   VITAMINAS_Y_MINERALES_30-30T    18/11/2022
+                                     43633   ERITROMICINA_T_250_MG_C/20      15/12/2022
+                                     32486   BENZOCAINA_FRAMBUESA_C/24       29/11/2022
+35852072    Jauregui/Victor     5    82469   GUAYACOL_AMPOLLETA_1ML          11/04/2023
+                                     25684   DEXAMETASONA_0.5MG_T/30         18/03/2023
+                                     47697   CLINDAMICINA_300_MG_C/16        06/08/2022     VENCIDA
+                                     81960   CEFALEXINA_500MG_C/20_CAP       09/02/2023
+                                     72495   ACIDO_GLUTAMICO_600_MG_C/100    04/10/2022
+13731806    Salamanca/Virginia  4    36208   ENALAPRIL_T/30_10MG             24/08/2022     VENCIDA
+                                     26484   DILTIAZEM_30_TAB/30_MG          29/08/2022     VENCIDA
+                                     80830   COMPLEJO_B_T30                  09/08/2022     VENCIDA
+                                     75565   MICONAZOL_20_GR_CRA             23/09/2022
