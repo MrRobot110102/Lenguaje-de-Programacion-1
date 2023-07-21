@@ -1,0 +1,5 @@
+Codigo              Nombre                                            Cursos    
+20190638  Sebastian Esquivel Barreto                                  FIS123    INF281    INF321    MAT203    ING220    IND231    
+20174651  Juan López Reyes                                            MAT321    FIS111    INF281    
+20203344  Maria Li Li                                                 INF123    EST321    MAT555    INF521    FIS123    
+20219645  Nicole Malaga Pineda                                        IND231    IND436    IND907    IND586    IND123    IND198    IND621    IND135    
